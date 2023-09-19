@@ -230,7 +230,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-big-cannons.pw.toml"
-hash = "01d6efda7da7da2848803fb8d3b93b64fd5e8d8e8d1addecc729b46b85f74258"
+hash = "d8e32eb2700d3d53830f97c49159d2442a05a668427911a04f13991d38f86680"
 metafile = true
 
 [[files]]
@@ -855,7 +855,7 @@ metafile = true
 
 [[files]]
 file = "mods/spellbound.pw.toml"
-hash = "edbd85ae05aa1351228fe12b344f5efff92724b13ae6ba0f90593290cda12603"
+hash = "41e2529966291765dac1d37311da103e8790a1be4c7589197141a2385ceb48e2"
 metafile = true
 
 [[files]]

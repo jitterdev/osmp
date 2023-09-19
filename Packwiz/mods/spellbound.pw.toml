@@ -7,5 +7,5 @@ url = "https://raw.githubusercontent.com/jitterdev/osmp/master/mods/spellbound-1
 
 # A number of tools can generate the hash for you, including 7-zip and sha256sum
 # packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
-hash-format = "sha256"
-hash = "388220a21587eb115d0300f355091f40dd358411d13cae64049bdfdf93f60fac"
+hash-format = "sha1"
+hash = "0bb3797bca8d66632574812fdfefb74d175b8116"

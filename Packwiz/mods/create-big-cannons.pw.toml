@@ -7,5 +7,5 @@ url = "https://raw.githubusercontent.com/jitterdev/osmp/master/mods/createbigcan
 
 # A number of tools can generate the hash for you, including 7-zip and sha256sum
 # packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
-hash-format = "sha256"
-hash = "a8dc6951c2701be5b610b0e25f5b25a9187c2f669e4779537109cb296e8fe6eb"
+hash-format = "sha1"
+hash = "1af15ffe656936170c30cb0a73d03becfe50ff57"

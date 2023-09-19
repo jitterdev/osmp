@@ -1,0 +1,13 @@
+name = "o3-dev"
+author = "Jitter"
+version = "0.1.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "32d0fcd0f5f24a3b32af109363a3a23390a3d95ce684adf348f5beefdfb3ed90"
+
+[versions]
+fabric = "0.14.22"
+minecraft = "1.20.1"

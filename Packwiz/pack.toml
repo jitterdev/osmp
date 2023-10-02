@@ -11,3 +11,4 @@ hash = "28c0858322624dc87f524b14e5b40cc94d98840244bfe085a638998458ed8cd7"
 [versions]
 fabric = "0.14.22"
 minecraft = "1.20.1"
+unsup = "0.2.3"

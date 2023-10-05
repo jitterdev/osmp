@@ -664,18 +664,13 @@ hash = "7e44c171be5ed05b4eed509e1da79a8f3e3d1da976b05d8a59b26126ccd38c6e"
 metafile = true
 
 [[files]]
-file = "mods/mythic-upgrades.pw.toml"
-hash = "9e17725bc86e28fb0bafad05bba432f62b5d8bd77b15d9a67062c73bebd2d2ab"
-metafile = true
-
-[[files]]
 file = "mods/mythicmetals.pw.toml"
 hash = "3902d0e4b99082a481bdee3dc452f53300c66dcb5b98e710db6f162fa34ba7cd"
 metafile = true
 
 [[files]]
 file = "mods/neruina.pw.toml"
-hash = "23e4caf106d8f9f654b971b3e0c2a8ff0d78b8b141c57b3874e10fddfc660f08"
+hash = "a604c4a49a511727bd37badfd4e8e3891fb43a9cad4b284d344ae3969f6e97c5"
 metafile = true
 
 [[files]]

@@ -6,7 +6,7 @@ hash = "a780ad76af442a54eb693f545d3ee75640c2fa19e93d37aa2d97be5ca4bc7665"
 
 [[files]]
 file = "config/enchancement.json"
-hash = "0fc98174762193ac27e55d81d929e188bc762f6b73c69f741b104ffae296c7c8"
+hash = "278a866d8ef7e87e243d78c220595bda3b4a1ffc0e5662fd433d565727d596c3"
 
 [[files]]
 file = "config/entityculling.json"
@@ -15,6 +15,14 @@ hash = "2286d127097ce2baa3e83c92adca0b0915057a53e30386b7cef8d617d17f98b3"
 [[files]]
 file = "config/extraalchemy.json"
 hash = "61c0d74603d7f6f6dda26fefdd094e29b2611eeb8957945e8004e869d77c21d4"
+
+[[files]]
+file = "config/frostiful.json"
+hash = "96da40f9c8bb9b927cb120471ff2a2a1533c2a89f88fa548be78618bfc676ded"
+
+[[files]]
+file = "config/map_atlases.json5"
+hash = "28e01187c01c8a7ab4ac163835cf873a3b39bf5f4f8eda41b8280958025a9133"
 
 [[files]]
 file = "config/modernfix-mixins.properties"
@@ -27,6 +35,10 @@ hash = "257b8da2e14b3997e6b63be5c195607db5bce1032fa953390d4f7b36526ef65e"
 [[files]]
 file = "config/servercore.toml"
 hash = "e98090000dac078b67d8a909d69e5968931f965c71668b15bae1fc843af1526d"
+
+[[files]]
+file = "config/starterkit/starterkit.txt"
+hash = "d44390d867fcf7354d0f8c5e2140fbf59082a6bb35e98343988e02fd03eb8702"
 
 [[files]]
 file = "config/threadtweak.json"
@@ -63,6 +75,10 @@ hash = "4cefc36dc1ad8737b92db8c912bb8386e43ca0323e0515ac2ed13be5b5082af5"
 [[files]]
 file = "config/vmp.properties"
 hash = "e945fb1ddbe724c4502c08731e1a306da34336b0ebf0fd16f5fb7376912158fb"
+
+[[files]]
+file = "config/yosbr/config/kiwi-client.yaml"
+hash = "834b091f4b9687c1a6cd98caf4a93557ca4af210d4cbbf4aee8083747b8a5cf5"
 
 [[files]]
 file = "config/yosbr/options.txt"
@@ -369,6 +385,11 @@ hash = "a5d43496c882895a91ea20b73b660145262abf2ca97f8a9b3b2aab121212c295"
 metafile = true
 
 [[files]]
+file = "mods/explosive-enhancement.pw.toml"
+hash = "38ed72cfb9405c7b40079e1cc6d335806a3fc0c7f98aee04a44adacdb5452ece"
+metafile = true
+
+[[files]]
 file = "mods/extra-origins.pw.toml"
 hash = "7896f7d2865e76d57d0a8731d0dd9464b6ec1363125b5195c2216691c82cd6ea"
 metafile = true
@@ -476,6 +497,11 @@ metafile = true
 [[files]]
 file = "mods/harvest-with-ease.pw.toml"
 hash = "c4feaeeef2fe2b12d5f87d410c2458458971fe33386697142492d137794fe23e"
+metafile = true
+
+[[files]]
+file = "mods/heartbond.pw.toml"
+hash = "64d8b9b0578bac6021fd4abe239e98e090aec5bede9606c68151314077cddb22"
 metafile = true
 
 [[files]]
@@ -1022,3 +1048,7 @@ metafile = true
 file = "mods/zoomify.pw.toml"
 hash = "ec7f94fcb88b139515557631074b5e90e64ea53761eb5753c2492007e24f59c4"
 metafile = true
+
+[[files]]
+file = "unsup.toml"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"

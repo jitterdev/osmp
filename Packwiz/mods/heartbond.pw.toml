@@ -1,0 +1,13 @@
+name = "Heartbond"
+filename = "Heartbond-1.20-1.6.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/1zMc3INS/versions/KuDEc90O/Heartbond-1.20-1.6.0.jar"
+hash-format = "sha1"
+hash = "e8ba63653b4e5c4813dc020b5fca4cd20fbc8953"
+
+[update]
+[update.modrinth]
+mod-id = "1zMc3INS"
+version = "KuDEc90O"

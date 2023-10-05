@@ -1,0 +1,36 @@
+[flavor_groups.visuality]
+name = "Visuality"
+side = "client"
+choices = ["visuality_on", "visuality_off"]
+
+[flavor_groups.notenoughanimations]
+name = "Not Enough Animations"
+side = "client"
+choices = ["notenoughanimations_off", "notenoughanimations_on"]
+
+[flavor_groups.chatheads]
+name = "Chat Heads"
+side = "client"
+choices = ["chatheads_off", "chatheads_on"]
+
+[flavor_groups.explosiveenhancement]
+name = "Explosive Enhancement"
+side = "client"
+choices = ["explosiveenhancement_off", "explosiveenhancement_on"]
+
+[flavor_groups.wakes]
+name = "Wakes"
+side = "client"
+choices = ["wakes_off", "wakes_on"]
+
+
+[metafile.visuality]
+flavors = "visuality_on"
+[metafile.not-enough-animations]
+flavors = "notenoughanimations_on"
+[metafile.chat-heads]
+flavors = "chatheads_on"
+[metafile.explosive-enhancement]
+flavors = "explosiveenhancement_on"
+[metafile.wakes]
+flavors = "wakes_on"

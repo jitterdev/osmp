@@ -6,7 +6,7 @@ hash = "a780ad76af442a54eb693f545d3ee75640c2fa19e93d37aa2d97be5ca4bc7665"
 
 [[files]]
 file = "config/enchancement.json"
-hash = "278a866d8ef7e87e243d78c220595bda3b4a1ffc0e5662fd433d565727d596c3"
+hash = "9cb34ac885a10b54c147ec889d9c0c47e52f986a3c86f729b62c468a247c42b1"
 
 [[files]]
 file = "config/entityculling.json"
@@ -1061,4 +1061,4 @@ metafile = true
 
 [[files]]
 file = "unsup.toml"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+hash = "0141aed0ab22185d5289ffdaf224f87fb94f7b927391d420cdcb168816b80692"

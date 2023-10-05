@@ -5,7 +5,7 @@
 
 tutorial:
 1. download [unsup 0.2.3](https://git.sleeping.town/unascribed/unsup/releases/download/v0.2.3/unsup-0.2.3.jar) and the [unsup.ini](https://github.com/jitterdev/osmp/blob/master/unsup.ini) config file.
-2. put these 2 files in the .minecraft folder of an empty fabric 1.20.1 instance in whatever launcher you use. don't put it in any subfolder, just like this:
+2. put these 2 files in the .minecraft folder of an empty fabric 1.20.1 instance in whatever launcher you use. don't put it in any subfolder, it should be pretty much just like this:
 
 ![image](https://github.com/jitterdev/osmp/assets/64605731/9eee0fa2-f315-466e-aca8-30e3cbb222c7)
 

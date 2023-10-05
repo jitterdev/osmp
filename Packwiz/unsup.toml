@@ -1,0 +1,83 @@
+[flavor_groups.visuality]
+name = "Visuality"
+description = "<ul>Possible performance impact on some devices.</ul>\nAdds little visual improvements by adding a bunch of new particles."
+
+side = "client"
+choices = ["visuality_off", "visuality_on"]
+
+[flavor_groups.notenoughanimations]
+name = "Not Enough Animations"
+description = "<ul>Possible performance impact on lower end devices.</ul>\nAdds many first-person animations as third-person animations or modifies existing ones."
+side = "client"
+choices = ["notenoughanimations_off", "notenoughanimations_on"]
+
+[flavor_groups.chatheads]
+name = "Chat Heads"
+description = "<ul>No notable performance impact.</ul>\nAdds player heads next to chat messages."
+side = "client"
+choices = ["chatheads_off", "chatheads_on"]
+
+[flavor_groups.explosiveenhancement]
+name = "Explosive Enhancement"
+description = "<ul>No notable performance impact.</ul>\nMakes the explosion animation look cooler."
+side = "client"
+choices = ["explosiveenhancement_off", "explosiveenhancement_on"]
+
+[flavor_groups.wakes]
+name = "Wakes"
+description = "<ul>No notable performance impact.</ul>\nA mod that adds wakes after boats (and all other entites) if they travel fast enough."
+side = "client"
+choices = ["wakes_off", "wakes_on"]
+
+[flavor_groups.pickupnotifier]
+name = "Pick Up Notifier"
+description = "<ul>No notable performance impact.</ul>\nAdds a small UI popup whenever you pick up items."
+side = "client"
+choices = ["pickupnotifier_off", "pickupnotifier_on"]
+
+[flavor_groups.soundphysicsremastered]
+name = "[!] Sound Physics Remastered"
+description = "<i>Disabled by default!</i>\n<ul>Heavy performance impact on most devices.</ul>\nAdds realistic sound attenuation, reverberation, and absorption through blocks."
+side = "client"
+choices = ["soundphysicsremastered_off", "soundphysicsremastered_on"]
+
+[flavor_groups.lambdynamiclights]
+name = "LambDnymaicLights"
+description = "<ul>Possible performance impact on lower end devices.</ul>\nAdds dynamic lighting to torches, lanterns, and other light sources when held."
+side = "client"
+choices = ["lambdynamiclights_off", "lambdynamiclights_on"]
+
+[flavor_groups.flgn]
+name = "Fog Looks Good Now"
+description = "<ul>No notable performance impact.</ul>\nHelps fog look better by moving the fog start closer."
+side = "client"
+choices = ["flgn_off", "flgn_on"]
+
+
+
+[metafile.visuality]
+flavors = "visuality_off"
+
+[metafile.not-enough-animations]
+flavors = "notenoughanimations_off"
+
+[metafile.chat-heads]
+flavors = "chatheads_off"
+
+[metafile.explosive-enhancement]
+flavors = "explosiveenhancement_off"
+
+[metafile.wakes]
+flavors = "wakes_off"
+
+[metafile.pick-up-notifier]
+flavors = "pickupnotifier_off"
+
+[metafile.sound-physics-remastered]
+flavors = "soundphysicsremastered_on"
+
+[metafile.lambdynamiclights]
+flavors = "lambdynamiclights_off"
+
+[metafile.fog-looks-good-now-fabric]
+flavors = "flgn_off"

@@ -42,7 +42,7 @@ side = "client"
 choices = ["soundphysicsremastered_off", "soundphysicsremastered_on"]
 
 [flavor_groups.lambdynamiclights]
-name = "LambDnymaicLights"
+name = "LambDynamicLights"
 description = "<ul>Possible performance impact on lower end devices.</ul>\nAdds dynamic lighting to torches, lanterns, and other light sources when held."
 side = "client"
 choices = ["lambdynamiclights_off", "lambdynamiclights_on"]

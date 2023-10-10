@@ -38,7 +38,7 @@ hash = "e98090000dac078b67d8a909d69e5968931f965c71668b15bae1fc843af1526d"
 
 [[files]]
 file = "config/starterkit/starterkit.txt"
-hash = "d44390d867fcf7354d0f8c5e2140fbf59082a6bb35e98343988e02fd03eb8702"
+hash = "2359dd6ccbf21b00ae426cd0df8e090eabdb27f13ed4fa0d7eee44158b8c401f"
 
 [[files]]
 file = "config/threadtweak.json"

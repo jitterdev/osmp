@@ -6,7 +6,7 @@ hash = "a780ad76af442a54eb693f545d3ee75640c2fa19e93d37aa2d97be5ca4bc7665"
 
 [[files]]
 file = "config/enchancement.json"
-hash = "9cb34ac885a10b54c147ec889d9c0c47e52f986a3c86f729b62c468a247c42b1"
+hash = "ca1a3e7f668a3ec6ecd045f2383d63aef02bc221ee72df4acb94531838e36831"
 
 [[files]]
 file = "config/entityculling.json"
@@ -29,8 +29,56 @@ file = "config/modernfix-mixins.properties"
 hash = "e4838b5aec17a56c44070e3302427106ecb7f765db60c898ca05d717344005a0"
 
 [[files]]
+file = "config/openloader/data/Bloodsucker_v2.1.4.zip"
+hash = "88e8e2883874ebdd731e673d970120aab359d1a118c61542efc84d67e8d97d8b"
+
+[[files]]
+file = "config/openloader/data/Cloudskipper_v0.0.4_-_1.19.zip"
+hash = "eb4dcad41e828ae1708379f392e5caff374fd0de1e1579dab7c194aa1a7a3e5d"
+
+[[files]]
+file = "config/openloader/data/Demolitionist.zip"
+hash = "896d69ba4b8709484c20b0a13dafad7564aebf6a8bbacca437555e0c8d02e059"
+
+[[files]]
+file = "config/openloader/data/Gelatinous_v2.0.3.zip"
+hash = "ea4258e2d7f435aa4bb4463f1331cccb697d1fb42e326192b2973de2a92902b3"
+
+[[files]]
+file = "config/openloader/data/Hellchained_v0.4.9.zip"
+hash = "08194be150f9c4acf9ca4dad57b3ea86aa990125e1ab048830289f95ba12c9d8"
+
+[[files]]
+file = "config/openloader/data/Heretic.zip"
+hash = "b27f4dfddb740c36153772ff0e40ea588182697611d3227ab78634526b5ccedd"
+
+[[files]]
+file = "config/openloader/data/Luminary.zip"
+hash = "b729056effb80b041fbd128b736995914baf9861663b062003577865c210f111"
+
+[[files]]
+file = "config/openloader/data/Permafrost.zip"
+hash = "23c1412ba2e4bdadcddb145b50b0b7628a9586e2d5a84ec45fbb7df951e53999"
+
+[[files]]
+file = "config/openloader/data/Stellaxi.zip"
+hash = "adc78368e9641b81603683bc4a0b0d8c47e6e1325663f0d48a4afdb9ae27188f"
+
+[[files]]
+file = "config/openloader/data/Umbra.zip"
+hash = "97a5ed409a4ce65a54812275edadee4ae9270be951b562ab32e91bdb8b140c8f"
+
+[[files]]
+file = "config/openloader/data/We-Have-the-Meats-1.3.0.zip"
+hash = "462e6ee17d1ef2aba6ec5b607599178433e566bee59ba0c47096db8504955b19"
+
+[[files]]
 file = "config/openloader/resources/welded-pack.zip"
 hash = "257b8da2e14b3997e6b63be5c195607db5bce1032fa953390d4f7b36526ef65e"
+
+[[files]]
+file = "config/origins_server.json"
+hash = "e2f6232500be1b020cbc39e2ce720139b5ee96cd76c4c641a85db4efb19eb318"
 
 [[files]]
 file = "config/servercore.toml"
@@ -46,7 +94,7 @@ hash = "74b592bca92afde237225cb68a5318bf4afaea009466433def93c75f6a4622d8"
 
 [[files]]
 file = "config/timecontrol.json"
-hash = "c99accd4d89f14d98a670455f746f0776ba5d149818b8b7750ede019d1838d46"
+hash = "82f0263892d64c3d9386e5535cc0bcc24d43a923a3e1c74dc813c80c293c2257"
 
 [[files]]
 file = "config/universal-graves/config.json"
@@ -122,11 +170,6 @@ metafile = true
 [[files]]
 file = "mods/attributefix.pw.toml"
 hash = "745b517eb12ee4d2845e76727d53da146943fdd29867b960c5d7bb2008e08da6"
-metafile = true
-
-[[files]]
-file = "mods/audioplayer.pw.toml"
-hash = "1b4800a7e55a485670728453a73d4cad403fb304d194ae0d2e6eb79ad74807a3"
 metafile = true
 
 [[files]]
@@ -302,6 +345,11 @@ metafile = true
 [[files]]
 file = "mods/diagonal-fences.pw.toml"
 hash = "9be216fe8f8f086415d946964a4648941738da7838b2844398d31326f7dedb89"
+metafile = true
+
+[[files]]
+file = "mods/disco.pw.toml"
+hash = "9aee854110b0d7f9adb5877afd452c7601f528c157231bdbc287b0c1fdb90136"
 metafile = true
 
 [[files]]
@@ -717,6 +765,11 @@ metafile = true
 [[files]]
 file = "mods/open-loader.pw.toml"
 hash = "e5043189bcb1fa1da04b85a96f8087cb22768a60ab5fa536d5e78f4518b0761b"
+metafile = true
+
+[[files]]
+file = "mods/origins-extra-keybinds.pw.toml"
+hash = "d74690b6b828afaca52a26c0de4afb9333224c14b816331ee26589b7300dc562"
 metafile = true
 
 [[files]]

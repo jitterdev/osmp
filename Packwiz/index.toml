@@ -1068,6 +1068,11 @@ hash = "ccc8fda5bb7023bbecdb9be1ae832666f424ca874ad61ace4b219bd1b3b982f1"
 metafile = true
 
 [[files]]
+file = "mods/universal-graves.pw.toml"
+hash = "5d52480f57b1b91195c6cde08c052e25df3e17addd5d5aadfeb7e8c8a594ffb9"
+metafile = true
+
+[[files]]
 file = "mods/valhelsia-core.pw.toml"
 hash = "f9df3436e7cf3297d541b9677bd9a8530e575a561b0cc2744075457b1c08bacd"
 metafile = true

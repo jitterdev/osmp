@@ -69,6 +69,10 @@ file = "config/openloader/data/Umbra.zip"
 hash = "97a5ed409a4ce65a54812275edadee4ae9270be951b562ab32e91bdb8b140c8f"
 
 [[files]]
+file = "config/openloader/data/Veg-Avian.zip"
+hash = "e2f6171ff29bc3189286c675e2ac934c39aa1cffdaf2893cf2c8aa3b624442de"
+
+[[files]]
 file = "config/openloader/data/We-Have-the-Meats-1.3.0.zip"
 hash = "462e6ee17d1ef2aba6ec5b607599178433e566bee59ba0c47096db8504955b19"
 
@@ -78,7 +82,7 @@ hash = "257b8da2e14b3997e6b63be5c195607db5bce1032fa953390d4f7b36526ef65e"
 
 [[files]]
 file = "config/origins_server.json"
-hash = "e2f6232500be1b020cbc39e2ce720139b5ee96cd76c4c641a85db4efb19eb318"
+hash = "9c3a087fba672e066f076b34ecbca59b7f0c77ae2d7c2605ba21fe3c8143cf6f"
 
 [[files]]
 file = "config/servercore.toml"
@@ -127,6 +131,10 @@ hash = "e945fb1ddbe724c4502c08731e1a306da34336b0ebf0fd16f5fb7376912158fb"
 [[files]]
 file = "config/yosbr/config/kiwi-client.yaml"
 hash = "834b091f4b9687c1a6cd98caf4a93557ca4af210d4cbbf4aee8083747b8a5cf5"
+
+[[files]]
+file = "config/yosbr/config/sodium-options.json"
+hash = "c8ea1eed69f55561442419d6c9c92e216d6c8d7c889fe9d0bebfb708ea64f301"
 
 [[files]]
 file = "config/yosbr/options.txt"

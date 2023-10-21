@@ -918,11 +918,6 @@ hash = "96e3771cd09bb4a808d1c1fcb5a050efdc2ffb4efe7b584407ed54c46c0388d9"
 metafile = true
 
 [[files]]
-file = "mods/sparsestructures.pw.toml"
-hash = "c8cc6321ebc7a1f999f9ffbc41e6e14d350c28d160313e72f0baa56bead97679"
-metafile = true
-
-[[files]]
 file = "mods/spellbound-weapons.pw.toml"
 hash = "f5ab1bfd9c063521ac2449d65bffff1bb0352b484eab5341d8883f136e1305fc"
 metafile = true

@@ -25,7 +25,7 @@
       "origins:sprint_jump": true,
       "origins:velvet_paws": true,
       "origins:nine_lives": true,
-      "origins:weak_arms": true,
+      "origins:weak_arms": false,
       "origins:scare_creepers": true,
       "origins:cat_vision": true,
       "originstweaks:feline_sounds": true,

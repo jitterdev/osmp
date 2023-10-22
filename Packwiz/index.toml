@@ -1063,7 +1063,7 @@ metafile = true
 
 [[files]]
 file = "mods/toomanyorigins.pw.toml"
-hash = "bede3d3296e1a132d97ffd878d95ec985351a77ccb3096d63776b94066f46acf"
+hash = "60c39feaf8e7f67d992cff0451412ff85b4513d94202650dad81d5e3ddd29e03"
 metafile = true
 
 [[files]]

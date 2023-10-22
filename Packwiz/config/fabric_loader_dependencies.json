@@ -1,0 +1,20 @@
+{
+    "version": 1,
+    "overrides": {
+        "enchancement": {
+            "-depends": {
+                "tooltipfix": "IGNORED"
+            }
+        },
+        "rechiseled": {
+            "-depends": {
+                "fusion": "IGNORED"
+            }
+        },
+        "createbb": {
+            "-depends": {
+                "fabricloader": "IGNORED"
+            }
+        }
+    }
+}

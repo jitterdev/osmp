@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/darkwaters.json"
-hash = "a780ad76af442a54eb693f545d3ee75640c2fa19e93d37aa2d97be5ca4bc7665"
+hash = "835439f40a32694a1d2f57bc6f26feeeefa986c6d26b37234e419c5aa76e4ce0"
 
 [[files]]
 file = "config/enchancement.json"
-hash = "ca1a3e7f668a3ec6ecd045f2383d63aef02bc221ee72df4acb94531838e36831"
+hash = "91ea46ffcaa9c8c6ce79867b8d7c63b6f61a8297188f07e416fc5e2917d1ba78"
 
 [[files]]
 file = "config/entityculling.json"
@@ -15,6 +15,10 @@ hash = "2286d127097ce2baa3e83c92adca0b0915057a53e30386b7cef8d617d17f98b3"
 [[files]]
 file = "config/extraalchemy.json"
 hash = "61c0d74603d7f6f6dda26fefdd094e29b2611eeb8957945e8004e869d77c21d4"
+
+[[files]]
+file = "config/fabric_loader_dependencies.json"
+hash = "a5d09d98a84c41336274fe4e7607a8f1def71830a9d01222befb1fbf5c6c0460"
 
 [[files]]
 file = "config/frostiful.json"
@@ -37,10 +41,6 @@ file = "config/openloader/data/Cloudskipper_v0.0.4_-_1.19.zip"
 hash = "eb4dcad41e828ae1708379f392e5caff374fd0de1e1579dab7c194aa1a7a3e5d"
 
 [[files]]
-file = "config/openloader/data/Demolitionist.zip"
-hash = "896d69ba4b8709484c20b0a13dafad7564aebf6a8bbacca437555e0c8d02e059"
-
-[[files]]
 file = "config/openloader/data/Gelatinous_v2.0.3.zip"
 hash = "ea4258e2d7f435aa4bb4463f1331cccb697d1fb42e326192b2973de2a92902b3"
 
@@ -61,8 +61,24 @@ file = "config/openloader/data/Permafrost.zip"
 hash = "23c1412ba2e4bdadcddb145b50b0b7628a9586e2d5a84ec45fbb7df951e53999"
 
 [[files]]
+file = "config/openloader/data/Sandweaver.zip"
+hash = "49871a1cf84c7fdd9e1a5b19d085789ede79eeaaedb61fce0fed6ed8b2f5e473"
+
+[[files]]
+file = "config/openloader/data/Scarecrow.zip"
+hash = "d8cd809c997d58c7d036e220bf7fa2a3fac36ed863ab0c64747a8bf05ccf1503"
+
+[[files]]
 file = "config/openloader/data/Stellaxi.zip"
 hash = "adc78368e9641b81603683bc4a0b0d8c47e6e1325663f0d48a4afdb9ae27188f"
+
+[[files]]
+file = "config/openloader/data/Tailor.zip"
+hash = "e6d28b7e627bf66c4b70cf860fdf89761e56e0df5478302a7b359317c8a979c2"
+
+[[files]]
+file = "config/openloader/data/Teumessian_Fox.zip"
+hash = "1234280adfb7b7cad67acea95d574da62979f8aa81c3dc541c4c7e07b90a7a1b"
 
 [[files]]
 file = "config/openloader/data/Umbra.zip"
@@ -311,6 +327,11 @@ hash = "2995bd6fc4d6cfb207625005e7392fc09aefe226a0441cceca6687dfc1883ad6"
 metafile = true
 
 [[files]]
+file = "mods/createbb.pw.toml"
+hash = "1618f062e1b7612a406df3f6d860fe597f1e347636a08d8828d66fff3e9cf245"
+metafile = true
+
+[[files]]
 file = "mods/cristel-lib.pw.toml"
 hash = "81adecd157fe27800c613ce354d45202fd2434ae08df69f85ede41297113c097"
 metafile = true
@@ -356,11 +377,6 @@ hash = "9be216fe8f8f086415d946964a4648941738da7838b2844398d31326f7dedb89"
 metafile = true
 
 [[files]]
-file = "mods/disco.pw.toml"
-hash = "9aee854110b0d7f9adb5877afd452c7601f528c157231bdbc287b0c1fdb90136"
-metafile = true
-
-[[files]]
 file = "mods/dragonloot.pw.toml"
 hash = "f6f4c451ea8c1905485ab1d013a4a33e24e592fd631315c183b360dee81a5744"
 metafile = true
@@ -388,6 +404,11 @@ metafile = true
 [[files]]
 file = "mods/enchancement.pw.toml"
 hash = "e329a52a7234b2504062c3e22bc954acc6e470134b07069dfe4ec383078129e0"
+metafile = true
+
+[[files]]
+file = "mods/enchant-the-rainbow.pw.toml"
+hash = "504124cc10bc84fe035b8d8c393aa5cf9d9f6f9d0455b63b4833cc6e50fa7011"
 metafile = true
 
 [[files]]
@@ -621,6 +642,11 @@ hash = "8634fda31069fb5fb246126bef5a273c01845f74b4c0ad0ba394698df815e678"
 metafile = true
 
 [[files]]
+file = "mods/kubejs.pw.toml"
+hash = "284fc793b1ba4d32cef7a8b48d71a6d165ee6bc02c8f39625471c755ce5a3c32"
+metafile = true
+
+[[files]]
 file = "mods/lambdynamiclights.pw.toml"
 hash = "a626674fc1092afe5ccc6cbf4856c09119e42395494f1c3862eed2ab17da0221"
 metafile = true
@@ -663,11 +689,6 @@ metafile = true
 [[files]]
 file = "mods/macaws-trapdoors.pw.toml"
 hash = "e6f7b0d17115a0731101464b5d8f5d92bb16587a219c88c0064c032713ea4744"
-metafile = true
-
-[[files]]
-file = "mods/map-atlases.pw.toml"
-hash = "6bdcc4657a59339b1849d1a4757aa551394fe6effc3b602b46f4ddc6933bea85"
 metafile = true
 
 [[files]]
@@ -737,7 +758,7 @@ metafile = true
 
 [[files]]
 file = "mods/neruina.pw.toml"
-hash = "a604c4a49a511727bd37badfd4e8e3891fb43a9cad4b284d344ae3969f6e97c5"
+hash = "5a3726a3cc92e15b0767f309304048e4e220cbf569acf5986c9160ea7ed07ee3"
 metafile = true
 
 [[files]]
@@ -876,6 +897,11 @@ hash = "c89835f045a03832c287470cd1729a70f1265e3eac7b3cdaf603c3c1fd677689"
 metafile = true
 
 [[files]]
+file = "mods/rhino.pw.toml"
+hash = "af8bd290a5c7d75986905bf1b433e238e14933539836ac7bc37be02b3dcd6613"
+metafile = true
+
+[[files]]
 file = "mods/rightclickharvest.pw.toml"
 hash = "31b3bcbde9677f9fc1006aab482e6f43b7552146359cc4ef363e30a237d1d12b"
 metafile = true
@@ -926,11 +952,6 @@ hash = "96e3771cd09bb4a808d1c1fcb5a050efdc2ffb4efe7b584407ed54c46c0388d9"
 metafile = true
 
 [[files]]
-file = "mods/spellbound-weapons.pw.toml"
-hash = "f5ab1bfd9c063521ac2449d65bffff1bb0352b484eab5341d8883f136e1305fc"
-metafile = true
-
-[[files]]
 file = "mods/spellbound.pw.toml"
 hash = "41e2529966291765dac1d37311da103e8790a1be4c7589197141a2385ceb48e2"
 metafile = true
@@ -978,6 +999,11 @@ metafile = true
 [[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "33d81b59818d9c808781c762d384681a9df360d31acfa40a119ebfe1d312b6ae"
+metafile = true
+
+[[files]]
+file = "mods/teamcommand.pw.toml"
+hash = "66d3273387bd57e009fb8055f07143dc9e588884280085406a01b791ab351f51"
 metafile = true
 
 [[files]]
@@ -1093,6 +1119,16 @@ metafile = true
 [[files]]
 file = "mods/wakes.pw.toml"
 hash = "c55ddaf36164636c197215a3aff813fc53199efe8001fd87d6cfd1194e6265b4"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap-fair.pw.toml"
+hash = "c6ed81bf09096fab4bec210fec40a4feddc158e745887b0a5f3152aa3db1f49f"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "919980794d91ef11531ac64fc9a110f6d8ddebf8a7ed7e851529d2781f55816b"
 metafile = true
 
 [[files]]

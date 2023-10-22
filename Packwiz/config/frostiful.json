@@ -53,7 +53,7 @@
     "doWindSpawning": true,
     "windSpawnStrategy": "ENTITY",
     "spawnWindInAir": true,
-    "windDestroysTorches": true,
+    "windDestroysTorches": false,
     "doSnowPacking": true,
     "windSpawnCapPerSecond": 15,
     "windSpawnRarity": 750,

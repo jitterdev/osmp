@@ -1,0 +1,14 @@
+name = "TeamCommand"
+filename = "teamcommand-1.1.3.jar"
+side = "server"
+pin = true
+
+[download]
+url = "https://cdn.modrinth.com/data/oD66P0Xy/versions/qr4N9XXj/teamcommand-1.1.3.jar"
+hash-format = "sha1"
+hash = "ef8e320ac53c88729a248f1a73d978cdf811472f"
+
+[update]
+[update.modrinth]
+mod-id = "oD66P0Xy"
+version = "qr4N9XXj"

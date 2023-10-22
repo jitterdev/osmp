@@ -6,7 +6,7 @@ hash = "835439f40a32694a1d2f57bc6f26feeeefa986c6d26b37234e419c5aa76e4ce0"
 
 [[files]]
 file = "config/enchancement.json"
-hash = "91ea46ffcaa9c8c6ce79867b8d7c63b6f61a8297188f07e416fc5e2917d1ba78"
+hash = "a3dbceb05717b0de69b5d0b8e200553514f7afc5bb53ed14033589965ff09a63"
 
 [[files]]
 file = "config/entityculling.json"
@@ -22,11 +22,7 @@ hash = "a5d09d98a84c41336274fe4e7607a8f1def71830a9d01222befb1fbf5c6c0460"
 
 [[files]]
 file = "config/frostiful.json"
-hash = "96da40f9c8bb9b927cb120471ff2a2a1533c2a89f88fa548be78618bfc676ded"
-
-[[files]]
-file = "config/map_atlases.json5"
-hash = "28e01187c01c8a7ab4ac163835cf873a3b39bf5f4f8eda41b8280958025a9133"
+hash = "66e209ce3bd9ddf319924d9833e209931fbffb428f0d38c15cf4f28ebe953e77"
 
 [[files]]
 file = "config/modernfix-mixins.properties"
@@ -143,6 +139,10 @@ hash = "4cefc36dc1ad8737b92db8c912bb8386e43ca0323e0515ac2ed13be5b5082af5"
 [[files]]
 file = "config/vmp.properties"
 hash = "e945fb1ddbe724c4502c08731e1a306da34336b0ebf0fd16f5fb7376912158fb"
+
+[[files]]
+file = "config/yosbr/config/enhanced_bes.properties"
+hash = "cbc144310bcce3077632a8763040e726afe866d99ca58199aa91fbea907a2336"
 
 [[files]]
 file = "config/yosbr/config/kiwi-client.yaml"

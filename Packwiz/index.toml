@@ -1062,6 +1062,11 @@ hash = "fe592547ec2aedf1de7add34f747f7845e103de228e2426328e9e60fe93298cc"
 metafile = true
 
 [[files]]
+file = "mods/toomanyorigins.pw.toml"
+hash = "bede3d3296e1a132d97ffd878d95ec985351a77ccb3096d63776b94066f46acf"
+metafile = true
+
+[[files]]
 file = "mods/towns-and-towers.pw.toml"
 hash = "b93993a54c2ce2465446f58dc4b91caec4e5d9a1ade03c56f3eedddbb89879b2"
 metafile = true

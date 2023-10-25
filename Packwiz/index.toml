@@ -576,11 +576,6 @@ hash = "c4feaeeef2fe2b12d5f87d410c2458458971fe33386697142492d137794fe23e"
 metafile = true
 
 [[files]]
-file = "mods/heartbond.pw.toml"
-hash = "64d8b9b0578bac6021fd4abe239e98e090aec5bede9606c68151314077cddb22"
-metafile = true
-
-[[files]]
 file = "mods/hybrid-aquatic.pw.toml"
 hash = "2827fa63c6aafb3ce899bf412cd731056e6a6ef1ff845b0abfa21c8747612a7f"
 metafile = true

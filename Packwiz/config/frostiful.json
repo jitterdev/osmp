@@ -50,7 +50,7 @@
   },
   "freezingConfig": {
     "doPassiveFreezing": false,
-    "doWindSpawning": true,
+    "doWindSpawning": false,
     "windSpawnStrategy": "ENTITY",
     "spawnWindInAir": true,
     "windDestroysTorches": false,

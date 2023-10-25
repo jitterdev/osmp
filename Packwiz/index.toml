@@ -22,7 +22,7 @@ hash = "a5d09d98a84c41336274fe4e7607a8f1def71830a9d01222befb1fbf5c6c0460"
 
 [[files]]
 file = "config/frostiful.json"
-hash = "66e209ce3bd9ddf319924d9833e209931fbffb428f0d38c15cf4f28ebe953e77"
+hash = "0deeb4620803669a51d07a3db2e642161b107e3f68cbd02c7ce4973da5b3f3a7"
 
 [[files]]
 file = "config/modernfix-mixins.properties"
@@ -57,10 +57,6 @@ file = "config/openloader/data/Permafrost.zip"
 hash = "23c1412ba2e4bdadcddb145b50b0b7628a9586e2d5a84ec45fbb7df951e53999"
 
 [[files]]
-file = "config/openloader/data/Sandweaver.zip"
-hash = "49871a1cf84c7fdd9e1a5b19d085789ede79eeaaedb61fce0fed6ed8b2f5e473"
-
-[[files]]
 file = "config/openloader/data/Scarecrow.zip"
 hash = "d8cd809c997d58c7d036e220bf7fa2a3fac36ed863ab0c64747a8bf05ccf1503"
 
@@ -82,7 +78,7 @@ hash = "97a5ed409a4ce65a54812275edadee4ae9270be951b562ab32e91bdb8b140c8f"
 
 [[files]]
 file = "config/openloader/data/Veg-Avian.zip"
-hash = "e2f6171ff29bc3189286c675e2ac934c39aa1cffdaf2893cf2c8aa3b624442de"
+hash = "b84384e2823f4582765596731a327f265124b923829386b81835fc4dccc312c8"
 
 [[files]]
 file = "config/openloader/data/We-Have-the-Meats-1.3.0.zip"
@@ -97,8 +93,16 @@ file = "config/origins_server.json"
 hash = "9c3a087fba672e066f076b34ecbca59b7f0c77ae2d7c2605ba21fe3c8143cf6f"
 
 [[files]]
+file = "config/regions_unexplored.conf"
+hash = "76d63b2882038263795786a32508ebfc344998245d1f3aae713f5f634f14a33b"
+
+[[files]]
 file = "config/servercore.toml"
 hash = "e98090000dac078b67d8a909d69e5968931f965c71668b15bae1fc843af1526d"
+
+[[files]]
+file = "config/spellbound.json"
+hash = "29ee3acddc8f0065fd9847db7e99730f2557241488df3e56a0538075ae52a396"
 
 [[files]]
 file = "config/starterkit/starterkit.txt"
@@ -114,7 +118,7 @@ hash = "82f0263892d64c3d9386e5535cc0bcc24d43a923a3e1c74dc813c80c293c2257"
 
 [[files]]
 file = "config/universal-graves/config.json"
-hash = "29bf5b4c8f047432e4dd3408c8eb747cf4e7808bd9712aef0c572468064cbcf9"
+hash = "0477ffed93259d0845233e3cfe11c302c4b4febc917b65bebc32e380f55d19fb"
 
 [[files]]
 file = "config/universal-graves/example_models/corpse_player.json"
@@ -189,6 +193,11 @@ metafile = true
 [[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "a243675bc757485925b293932ee289b9fbcfb3b75bd3ba74eca7603f191cedad"
+metafile = true
+
+[[files]]
+file = "mods/aristotle.pw.toml"
+hash = "edd5aace1b04bb6061d3aa6c3ee1d8214ca8507e7d4bd9d2a1dc6694727e3f0c"
 metafile = true
 
 [[files]]
@@ -313,7 +322,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-big-cannons.pw.toml"
-hash = "d8e32eb2700d3d53830f97c49159d2442a05a668427911a04f13991d38f86680"
+hash = "44fb9a1e27142f13144060fbf8eaf84a4ff88089497d37077a708de3dbe23411"
 metafile = true
 
 [[files]]
@@ -857,6 +866,11 @@ hash = "aa6092e273a36455bd585b1c08c4b978dd4d93e203e3e0c77e947462ebf36fc5"
 metafile = true
 
 [[files]]
+file = "mods/raknetify.pw.toml"
+hash = "f1cc192a3fd0ae7432f271912bbb62d8f8f319ec3bb80a2f229907f11d4755cb"
+metafile = true
+
+[[files]]
 file = "mods/rechiseled-create.pw.toml"
 hash = "a715c41f6e3d4658a8a84ba32365e95f18f7a85c33053c556a704602ad960e8f"
 metafile = true
@@ -999,11 +1013,6 @@ metafile = true
 [[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "33d81b59818d9c808781c762d384681a9df360d31acfa40a119ebfe1d312b6ae"
-metafile = true
-
-[[files]]
-file = "mods/teamcommand.pw.toml"
-hash = "66d3273387bd57e009fb8055f07143dc9e588884280085406a01b791ab351f51"
 metafile = true
 
 [[files]]

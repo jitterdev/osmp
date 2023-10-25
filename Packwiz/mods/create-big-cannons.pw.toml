@@ -1,11 +1,13 @@
-name = "createbigcannons"
-filename = "createbigcannons-fabric-1.20.1-0.5.2.a-nightly-a24b4e6.jar"
+name = "Create Big Cannons"
+filename = "createbigcannons-fabric-1.20.1-0.5.2.a.jar"
 side = "both"
 
 [download]
-url = "https://raw.githubusercontent.com/jitterdev/osmp/master/mods/createbigcannons-fabric-1.20.1-0.5.2.a-nightly-a24b4e6.jar"
-
-# A number of tools can generate the hash for you, including 7-zip and sha256sum
-# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+url = "https://cdn.modrinth.com/data/GWp4jCJj/versions/1xPOUM1K/createbigcannons-fabric-1.20.1-0.5.2.a.jar"
 hash-format = "sha1"
-hash = "1af15ffe656936170c30cb0a73d03becfe50ff57"
+hash = "79355fc09772a8a348d992e59044c8fdbe765241"
+
+[update]
+[update.modrinth]
+mod-id = "GWp4jCJj"
+version = "1xPOUM1K"

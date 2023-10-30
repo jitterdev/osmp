@@ -42,7 +42,7 @@ hash = "b2cbc2d5f4a3d04b32880aa551fa2219cc8d07cbe36ea55addc010321364c972"
 
 [[files]]
 file = "config/lootr.json"
-hash = "717609a5c42cc06bc89a5cc0d33096006b591b1f72a5280e483f2b8e1657ea71"
+hash = "93f2e3955488738e44f8174ab858d9e8d1fb5c81a6b2fa7a80d98f02a7e2d885"
 
 [[files]]
 file = "config/modernfix-mixins.properties"

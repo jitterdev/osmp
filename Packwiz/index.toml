@@ -18,7 +18,7 @@ hash = "61c0d74603d7f6f6dda26fefdd094e29b2611eeb8957945e8004e869d77c21d4"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "a5d09d98a84c41336274fe4e7607a8f1def71830a9d01222befb1fbf5c6c0460"
+hash = "1e8364b6c28237f8648d1d8e650b95f2a816c96b79f7df8eb56f22883c0b7e46"
 
 [[files]]
 file = "config/flan/flan_config.json"

@@ -16,7 +16,7 @@ description = "<ul>Disabled by default!</ul>\n<ul>Can dramatically improve perfo
 side = "client"
 choices = ["methane_off", "methane_on"]
 
-[flavor_groups.soundphysicsremastered]
+[flavor_groups.sound-physics-remastered]
 name = "[!] Sound Physics Remastered"
 description = "<i>Disabled by default!</i>\n<ul>Heavy performance impact on most devices.</ul>\nAdds realistic sound attenuation, reverberation, and absorption through blocks."
 side = "client"

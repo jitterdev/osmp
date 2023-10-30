@@ -20,7 +20,7 @@ choices = ["methane_off", "methane_on"]
 name = "[!] Sound Physics Remastered"
 description = "<i>Disabled by default!</i>\n<ul>Heavy performance impact on most devices.</ul>\nAdds realistic sound attenuation, reverberation, and absorption through blocks."
 side = "client"
-choices = ["soundphysicsremastered_off", "soundphysicsremastered_on"]
+choices = ["sound-physics-remastered_off", "sound-physics-remastered_on"]
 
 [flavor_groups.visuality]
 name = "Visuality"
@@ -89,7 +89,7 @@ flavors = "methane_on"
 flavors = "exordium_on"
 
 [metafile.sound-physics-remastered]
-flavors = "soundphysicsremastered_on"
+flavors = "sound-physics-remastered_on"
 
 [metafile.visuality]
 flavors = "visuality_off"

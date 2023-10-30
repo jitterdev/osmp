@@ -1,3 +1,27 @@
+[flavor_groups.nvidium]
+name = "[!] Nvidium"
+description = "<ul>Disabled by default!</ul>\n<ul>Can dramatically improve performance on PCs with NVIDIA GPUs newer than the 1600 series.</ul>\nReplacement rendering backend for Sodium that uses NVIDIA-only OpenGL extensions to increase FPS significantly."
+side = "client"
+choices = ["nvidium_off", "nvidium_on"]
+
+[flavor_groups.exordium]
+name = "[!] Exordium"
+description = "<ul>Disabled by default!</ul>\n<ul>Can dramatically improve performance on all devices, but may cause unwanted effects with some mods and certain GUI elements may behave strangely.</ul>\nRenders most GUIs and screens at a lower framerate to speed up world rendering."
+side = "client"
+choices = ["exordium_off", "exordium_on"]
+
+[flavor_groups.methane]
+name = "[!] Methane"
+description = "<ul>Disabled by default!</ul>\n<ul>Can dramatically improve performance on all devices, but completely removes all lighting on your client. If you use fullbright all the time use this too.</ul>\nDisables almost all functionality of the client lightmapper, greatly improving CPU performance. Your game will look like you're using fullbright."
+side = "client"
+choices = ["methane_off", "methane_on"]
+
+[flavor_groups.soundphysicsremastered]
+name = "[!] Sound Physics Remastered"
+description = "<i>Disabled by default!</i>\n<ul>Heavy performance impact on most devices.</ul>\nAdds realistic sound attenuation, reverberation, and absorption through blocks."
+side = "client"
+choices = ["soundphysicsremastered_off", "soundphysicsremastered_on"]
+
 [flavor_groups.visuality]
 name = "Visuality"
 description = "<ul>Possible performance impact on some devices.</ul>\nAdds little visual improvements by adding a bunch of new particles."
@@ -29,17 +53,17 @@ description = "<ul>No notable performance impact.</ul>\nA mod that adds wakes af
 side = "client"
 choices = ["wakes_off", "wakes_on"]
 
+[flavor_groups.euphonium]
+name = "Euphonium"
+description = "<ul>No notable performance impact.</ul>\nAdds biome, structure, and world feature-specific ambient sound."
+side = "client"
+choices = ["euphonium_off", "euphonium_on"]
+
 [flavor_groups.pickupnotifier]
 name = "Pick Up Notifier"
 description = "<ul>No notable performance impact.</ul>\nAdds a small UI popup whenever you pick up items."
 side = "client"
 choices = ["pickupnotifier_off", "pickupnotifier_on"]
-
-[flavor_groups.soundphysicsremastered]
-name = "[!] Sound Physics Remastered"
-description = "<i>Disabled by default!</i>\n<ul>Heavy performance impact on most devices.</ul>\nAdds realistic sound attenuation, reverberation, and absorption through blocks."
-side = "client"
-choices = ["soundphysicsremastered_off", "soundphysicsremastered_on"]
 
 [flavor_groups.lambdynamiclights]
 name = "LambDynamicLights"
@@ -54,6 +78,18 @@ side = "client"
 choices = ["flgn_off", "flgn_on"]
 
 
+
+[metafile.nvidium]
+flavors = "nvidium_on"
+
+[metafile.methane]
+flavors = "methane_on"
+
+[metafile.exordium]
+flavors = "exordium_on"
+
+[metafile.sound-physics-remastered]
+flavors = "soundphysicsremastered_on"
 
 [metafile.visuality]
 flavors = "visuality_off"
@@ -70,11 +106,11 @@ flavors = "explosiveenhancement_off"
 [metafile.wakes]
 flavors = "wakes_off"
 
+[metafile.euphonium]
+flavors = "euphonium_off"
+
 [metafile.pick-up-notifier]
 flavors = "pickupnotifier_off"
-
-[metafile.sound-physics-remastered]
-flavors = "soundphysicsremastered_on"
 
 [metafile.lambdynamiclights]
 flavors = "lambdynamiclights_off"

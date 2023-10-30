@@ -1,0 +1,4 @@
+const guns = ["anim_guns:pistol_light", "anim_guns:pistol_heavy", "anim_guns:revolver_magnum", "anim_guns:revolver_coltarmy", "anim_guns:smg_machinepistol", "anim_guns:smg_heavy", "anim_guns:smg_rapid", "anim_guns:assaultrifle_light", "anim_guns:assaultrifle_heavy", "anim_guns:assaultrifle_rus", "anim_guns:shotgun_doublebarrel", "anim_guns:shotgun_combat", "anim_guns:shotgun_riot", "anim_guns:sniper_classic", "anim_guns:sniper_cowboy", "anim_guns:sniper_marksman", "anim_guns:lmg_m60", "anim_guns:amr_classic", "anim_guns:lmg_minigun"]
+ServerEvents.tags('item', event => {
+    event.add('oralsmp:guns', guns)
+})

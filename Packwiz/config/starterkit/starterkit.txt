@@ -8,7 +8,7 @@
 2 : '{Count:1b,id:"mythicmetals:copper_axe",tag:{Damage:0}}',
 3 : '{Count:1b,id:"mythicmetals:copper_shovel",tag:{Damage:0}}',
 4 : '{Count:1b,id:"metalbundles:leather_bundle"}',
-5 : '{Count:1b,id:"map_atlases:atlas"}',
+5 : '',
 6 : '',
 7 : '{Count:1b,id:"minecraft:chorus_fruit",tag:{CustomModelData:90000,Enchantments:[{}],display:{Name:'{"italic":false,"translate":"stellarity.items.golden_chorus_fruit","fallback":"Golden Chorus Fruit"}'},stellarity.special_item:"golden_chorus_fruit"}}',
 8 : '{Count:8b,id:"minecraft:bread"}',

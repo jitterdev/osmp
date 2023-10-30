@@ -6,7 +6,7 @@ hash = "835439f40a32694a1d2f57bc6f26feeeefa986c6d26b37234e419c5aa76e4ce0"
 
 [[files]]
 file = "config/enchancement.json"
-hash = "a3dbceb05717b0de69b5d0b8e200553514f7afc5bb53ed14033589965ff09a63"
+hash = "feb5aa87d0bd336074a503630f9e143119555becb8272288677a91f5dbaa5217"
 
 [[files]]
 file = "config/entityculling.json"
@@ -21,8 +21,28 @@ file = "config/fabric_loader_dependencies.json"
 hash = "a5d09d98a84c41336274fe4e7607a8f1def71830a9d01222befb1fbf5c6c0460"
 
 [[files]]
+file = "config/flan/flan_config.json"
+hash = "23a40ab8bec5e1eee922a0ee9e482dd99eeb6bbd3a27c7d52727c9bab360dc00"
+
+[[files]]
 file = "config/frostiful.json"
 hash = "0deeb4620803669a51d07a3db2e642161b107e3f68cbd02c7ce4973da5b3f3a7"
+
+[[files]]
+file = "config/illagerinvasion-server.toml"
+hash = "3b57b4c8c98cc4204e525a03ded5494aba0fd3d2704d9c9046de49d758c974f4"
+
+[[files]]
+file = "config/immersive_aircraft.json"
+hash = "cae3d5f8a079e6c3db4b129e864c69af145bf4ec564d41090c97c201b03bc179"
+
+[[files]]
+file = "config/item-obliterator.json"
+hash = "b2cbc2d5f4a3d04b32880aa551fa2219cc8d07cbe36ea55addc010321364c972"
+
+[[files]]
+file = "config/lootr.json"
+hash = "717609a5c42cc06bc89a5cc0d33096006b591b1f72a5280e483f2b8e1657ea71"
 
 [[files]]
 file = "config/modernfix-mixins.properties"
@@ -98,7 +118,7 @@ hash = "76d63b2882038263795786a32508ebfc344998245d1f3aae713f5f634f14a33b"
 
 [[files]]
 file = "config/servercore.toml"
-hash = "e98090000dac078b67d8a909d69e5968931f965c71668b15bae1fc843af1526d"
+hash = "c58ec224338d1553f14f9bffadd8681b1a27073455959ef614ce69c10660d5b8"
 
 [[files]]
 file = "config/spellbound.json"
@@ -106,7 +126,15 @@ hash = "29ee3acddc8f0065fd9847db7e99730f2557241488df3e56a0538075ae52a396"
 
 [[files]]
 file = "config/starterkit/starterkit.txt"
-hash = "2359dd6ccbf21b00ae426cd0df8e090eabdb27f13ed4fa0d7eee44158b8c401f"
+hash = "da07edd3c096b9d8f5c12c0f3ce57a0a40575c616aba415774af754b08b130a2"
+
+[[files]]
+file = "config/tempad-client.jsonc"
+hash = "238ddc7202ee2fe87793bf4c5f7a9155f22b440a4132e4d36de13290344f29b1"
+
+[[files]]
+file = "config/tempad.jsonc"
+hash = "b3d3469a7f5fbc70bea492946026415d1cff9dbc5057198188bb49e8907b71a6"
 
 [[files]]
 file = "config/threadtweak.json"
@@ -118,7 +146,7 @@ hash = "82f0263892d64c3d9386e5535cc0bcc24d43a923a3e1c74dc813c80c293c2257"
 
 [[files]]
 file = "config/universal-graves/config.json"
-hash = "0477ffed93259d0845233e3cfe11c302c4b4febc917b65bebc32e380f55d19fb"
+hash = "7282acd1b040d81c58942b72c78cc2807e115f5978d15e5d5725945b13f4f4f1"
 
 [[files]]
 file = "config/universal-graves/example_models/corpse_player.json"
@@ -159,6 +187,50 @@ hash = "c8ea1eed69f55561442419d6c9c92e216d6c8d7c889fe9d0bebfb708ea64f301"
 [[files]]
 file = "config/yosbr/options.txt"
 hash = "7c149c7f8c373c1401f7417aa02b7b680ded2a915310bf1bfe34028d98f86def"
+
+[[files]]
+file = "kubejs/README.txt"
+hash = "989f3737ae4621b8ff6730bce4cbeeee756921e7e510e0c281c8a350501d98af"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/example_block.png"
+hash = "783d78bd1ee61d3b32273670dff9d82c34cd74c5ae899a10f104f473828d5bbc"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/example_item.png"
+hash = "45a5f56eba6066ad05c70988a32b72c50cfeb6e35857739bd582007011ea002b"
+
+[[files]]
+file = "kubejs/client_scripts/example.js"
+hash = "152019ed6e0410a82805a95ea10f1ad1a17beaf2b50864d89b8fa9d172129ac7"
+
+[[files]]
+file = "kubejs/config/client.properties"
+hash = "94e376cb2485372e311277ec54bb669542e2b01e602aae8e4241754e1d21e48f"
+
+[[files]]
+file = "kubejs/config/common.properties"
+hash = "4995e8b5fb7e9f9bf955815645e0acd738a6afb7e5fafc5caca1ea0d44bf7e31"
+
+[[files]]
+file = "kubejs/server_scripts/banBlocks.js"
+hash = "c5a3ccff3969b6a15181e5169ae19a2487455acf0a5eb2177995b8526cac0990"
+
+[[files]]
+file = "kubejs/server_scripts/example.js"
+hash = "a19b7c81a150bd965b153ded9c45ee7649eaad9e10d0a5ec1d662e7b15ceadb2"
+
+[[files]]
+file = "kubejs/server_scripts/organization.js"
+hash = "9479811bb3b9718ebf6799031fdec92c06ad6c7d30ffabd2ca5968d4b912263c"
+
+[[files]]
+file = "kubejs/server_scripts/recipes.js"
+hash = "5138514217c209d51d1ce8b59b6bdcd4d08b3439187091ced861d7c547841480"
+
+[[files]]
+file = "kubejs/startup_scripts/example.js"
+hash = "395c96d3ddd178821db851f387e91560e606ea752177f66d2016f12bd0542b8f"
 
 [[files]]
 file = "mods/alloy-forgery.pw.toml"
@@ -242,7 +314,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "7908c8d54b72faaa82246b840e0b7e383c412155a41e128efc08f506f1d6dad1"
+hash = "7721e78d990cc15c02f1a03cd6d7652ea995b271a3d19a6ae44829b4c69acbf0"
 metafile = true
 
 [[files]]
@@ -366,6 +438,11 @@ hash = "9b83278a7ef0dd988d1952118b9470da0e1f347c227458abc978a4360fd1b40d"
 metafile = true
 
 [[files]]
+file = "mods/daves-potioneering.pw.toml"
+hash = "19e05043dcd96dc3788091e87ebe4a7227bbcd3e288c0e8afd624571274830d4"
+metafile = true
+
+[[files]]
 file = "mods/dawn.pw.toml"
 hash = "e6cd8a58a2938b799035c66df16b440db0edf09c798978b8e857a6a27e8a6474"
 metafile = true
@@ -392,7 +469,7 @@ metafile = true
 
 [[files]]
 file = "mods/dungeons-and-taverns.pw.toml"
-hash = "26567686c9226eb0c6fe19fa01047275563b72c5bf26ab1f55f8c3fa2e624df2"
+hash = "ec5f0ed9e8d3b79ea61f7c79127b5f113e23ac96e92f5ba409084c8d0ab7da5e"
 metafile = true
 
 [[files]]
@@ -426,6 +503,11 @@ hash = "b804f5d209015090619cba5be684777fa737be5fb14454c3450b7689a0769096"
 metafile = true
 
 [[files]]
+file = "mods/enchantments-plus.pw.toml"
+hash = "8927381324b22d45196f89d8ce47a70116895ec6069342730d363158ed6c8afa"
+metafile = true
+
+[[files]]
 file = "mods/endrem.pw.toml"
 hash = "bbd91f6874d99a59119b15103576c6686fe55bbf68dc3a03576d9ecd92023206"
 metafile = true
@@ -443,6 +525,11 @@ metafile = true
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
 hash = "16c35cba683a08826b0fcf0da850460c0bad60b2eae5d6e3c437fec705aca77d"
+metafile = true
+
+[[files]]
+file = "mods/euphonium.pw.toml"
+hash = "d34ee6c3ae84ae7d6ce3b82fcf839c76175973af3d7e2efb347b9e42c9955bee"
 metafile = true
 
 [[files]]
@@ -537,7 +624,7 @@ metafile = true
 
 [[files]]
 file = "mods/frostiful.pw.toml"
-hash = "09bf962076dc16205ae989fbd94682219d9e7a242d0e7271967df66d4f2acd19"
+hash = "0782be96e287f2d2a90dbba579707c65b4d486a9e7e6caa336502a9f361fd797"
 metafile = true
 
 [[files]]
@@ -608,6 +695,11 @@ metafile = true
 [[files]]
 file = "mods/iris.pw.toml"
 hash = "d1918c147280714406f99f1d6359a1246509d14b9030b52cfee9807cd1e71791"
+metafile = true
+
+[[files]]
+file = "mods/item-obliterator.pw.toml"
+hash = "1f6ce760780360130b43360768ffb63fedbde26bd772574de74c1c65fc5b9421"
 metafile = true
 
 [[files]]
@@ -702,7 +794,12 @@ metafile = true
 
 [[files]]
 file = "mods/metal-bundles.pw.toml"
-hash = "583558be3f8b284928e0b72079803dd1c7e579bab6c276105010b91d35a9dc97"
+hash = "521007f25a96ed204894881f104608edaf9adc79b09f6d0f4a67a381433f9ccf"
+metafile = true
+
+[[files]]
+file = "mods/methane.pw.toml"
+hash = "673a58407164d658db6dab9b8c59edda5f6bf4d182197bd4712d440371cd1891"
 metafile = true
 
 [[files]]
@@ -778,6 +875,11 @@ metafile = true
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "15bbdb7f98ae7148b79b69408488dd03016ac89fe647b5396417a8ba4f968df0"
+metafile = true
+
+[[files]]
+file = "mods/nvidium.pw.toml"
+hash = "386199e15b64aa6d82b31c132308f5f5195859849c5ee184c2d4aa009ebf5d9f"
 metafile = true
 
 [[files]]
@@ -1067,7 +1169,7 @@ metafile = true
 
 [[files]]
 file = "mods/towns-and-towers.pw.toml"
-hash = "b93993a54c2ce2465446f58dc4b91caec4e5d9a1ade03c56f3eedddbb89879b2"
+hash = "97e8c6665ae60c0e09fdb68c1b60c0a931e1e147dd7103508f98f6f4a4337ae8"
 metafile = true
 
 [[files]]

@@ -118,7 +118,7 @@ hash = "76d63b2882038263795786a32508ebfc344998245d1f3aae713f5f634f14a33b"
 
 [[files]]
 file = "config/servercore.toml"
-hash = "c58ec224338d1553f14f9bffadd8681b1a27073455959ef614ce69c10660d5b8"
+hash = "1b4ccf163d39761dde85cb1dab99033993e6c330b5df5a5ba08592a1f657eb59"
 
 [[files]]
 file = "config/spellbound.json"

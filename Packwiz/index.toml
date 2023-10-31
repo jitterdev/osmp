@@ -34,7 +34,7 @@ hash = "3b57b4c8c98cc4204e525a03ded5494aba0fd3d2704d9c9046de49d758c974f4"
 
 [[files]]
 file = "config/immersive_aircraft.json"
-hash = "cae3d5f8a079e6c3db4b129e864c69af145bf4ec564d41090c97c201b03bc179"
+hash = "241b0abd0c7851f5d794670605d5b77d936548676e73742d832ac5b572b97416"
 
 [[files]]
 file = "config/item-obliterator.json"

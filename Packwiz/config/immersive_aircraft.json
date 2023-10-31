@@ -3,7 +3,7 @@
   "enableCrashExplosion": true,
   "enableCrashBlockDestruction": true,
   "enableCrashFire": true,
-  "crashExplosionRadius": 10.0,
+  "crashExplosionRadius": 7.0,
   "separateCamera": true,
   "useThirdPersonByDefault": true,
   "enableTrails": true,
@@ -18,7 +18,7 @@
   "burnFuelInCreative": false,
   "acceptVanillaFuel": true,
   "useCustomKeybindSystem": true,
-  "crashDamage": 10.0,
+  "crashDamage": 7.0,
   "preventKillThroughCrash": false,
   "fuelList": {
     "minecraft:blaze_powder": 1200

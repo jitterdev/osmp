@@ -146,7 +146,7 @@ hash = "82f0263892d64c3d9386e5535cc0bcc24d43a923a3e1c74dc813c80c293c2257"
 
 [[files]]
 file = "config/universal-graves/config.json"
-hash = "7282acd1b040d81c58942b72c78cc2807e115f5978d15e5d5725945b13f4f4f1"
+hash = "f8afdf633598d338d8df7c3f3593c8d6f4b368c288cc2122e85afab7499b9af1"
 
 [[files]]
 file = "config/universal-graves/example_models/corpse_player.json"

@@ -1,9 +1,3 @@
-[flavor_groups.nvidium]
-name = "[!] Nvidium"
-description = "<ul>Disabled by default!</ul>\n<ul>Can dramatically improve performance on PCs with NVIDIA GPUs newer than the 1600 series.</ul>\nReplacement rendering backend for Sodium that uses NVIDIA-only OpenGL extensions to increase FPS significantly."
-side = "client"
-choices = ["nvidium_off", "nvidium_on"]
-
 [flavor_groups.exordium]
 name = "[!] Exordium"
 description = "<ul>Disabled by default!</ul>\n<ul>Can dramatically improve performance on all devices, but may cause unwanted effects with some mods and certain GUI elements may behave strangely.</ul>\nRenders most GUIs and screens at a lower framerate to speed up world rendering."
@@ -79,8 +73,6 @@ choices = ["flgn_off", "flgn_on"]
 
 
 
-[metafile.nvidium]
-flavors = "nvidium_on"
 
 [metafile.methane]
 flavors = "methane_on"

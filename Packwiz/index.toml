@@ -37,10 +37,6 @@ file = "config/immersive_aircraft.json"
 hash = "241b0abd0c7851f5d794670605d5b77d936548676e73742d832ac5b572b97416"
 
 [[files]]
-file = "config/item-obliterator.json"
-hash = "3eb4f1230b596096271d775abf0ed8a3a36bf2e3671e066068ea68f62c6ee267"
-
-[[files]]
 file = "config/lootr.json"
 hash = "93f2e3955488738e44f8174ab858d9e8d1fb5c81a6b2fa7a80d98f02a7e2d885"
 
@@ -122,7 +118,11 @@ hash = "1b4ccf163d39761dde85cb1dab99033993e6c330b5df5a5ba08592a1f657eb59"
 
 [[files]]
 file = "config/spellbound.json"
-hash = "29ee3acddc8f0065fd9847db7e99730f2557241488df3e56a0538075ae52a396"
+hash = "867e5f36c0766beb8b366e92cf620821a21a169b80c02914d5f4e6c8e675abca"
+
+[[files]]
+file = "config/spelunkery-common.json"
+hash = "648c2a1dc893ee4f9be25316a9776a66c2b00ec4ff2553b081367caca0dd9118"
 
 [[files]]
 file = "config/starterkit/starterkit.txt"
@@ -134,11 +134,11 @@ hash = "238ddc7202ee2fe87793bf4c5f7a9155f22b440a4132e4d36de13290344f29b1"
 
 [[files]]
 file = "config/tempad.jsonc"
-hash = "b3d3469a7f5fbc70bea492946026415d1cff9dbc5057198188bb49e8907b71a6"
+hash = "809a17b6d97994363d80303991f4a176a7c9179cb4927223daeb1e9bc64105f7"
 
 [[files]]
 file = "config/threadtweak.json"
-hash = "74b592bca92afde237225cb68a5318bf4afaea009466433def93c75f6a4622d8"
+hash = "d108ba8228764096e02f4bbb61bc27f846fb35c70a99004ec590f5fbccecf036"
 
 [[files]]
 file = "config/timecontrol.json"
@@ -205,6 +205,10 @@ file = "kubejs/client_scripts/example.js"
 hash = "152019ed6e0410a82805a95ea10f1ad1a17beaf2b50864d89b8fa9d172129ac7"
 
 [[files]]
+file = "kubejs/client_scripts/hideBanned.js"
+hash = "62e6b51850419921c09ceb6667065a07c6ea3441f56f0887e3940117123a2e55"
+
+[[files]]
 file = "kubejs/config/client.properties"
 hash = "94e376cb2485372e311277ec54bb669542e2b01e602aae8e4241754e1d21e48f"
 
@@ -215,6 +219,10 @@ hash = "4995e8b5fb7e9f9bf955815645e0acd738a6afb7e5fafc5caca1ea0d44bf7e31"
 [[files]]
 file = "kubejs/server_scripts/banBlocks.js"
 hash = "c5a3ccff3969b6a15181e5169ae19a2487455acf0a5eb2177995b8526cac0990"
+
+[[files]]
+file = "kubejs/server_scripts/banItems.js"
+hash = "e7444df2e56bf42d467270e78075d8ea39db2c8f1002dba43e9c667f10c67592"
 
 [[files]]
 file = "kubejs/server_scripts/example.js"
@@ -231,6 +239,10 @@ hash = "5138514217c209d51d1ce8b59b6bdcd4d08b3439187091ced861d7c547841480"
 [[files]]
 file = "kubejs/startup_scripts/example.js"
 hash = "395c96d3ddd178821db851f387e91560e606ea752177f66d2016f12bd0542b8f"
+
+[[files]]
+file = "kubejs/startup_scripts/startup.js"
+hash = "f61e1b738385511c488c48c3febea5659c370538ecf4fec8d622800e01bd2e4c"
 
 [[files]]
 file = "mods/alloy-forgery.pw.toml"
@@ -703,11 +715,6 @@ hash = "d1918c147280714406f99f1d6359a1246509d14b9030b52cfee9807cd1e71791"
 metafile = true
 
 [[files]]
-file = "mods/item-obliterator.pw.toml"
-hash = "1f6ce760780360130b43360768ffb63fedbde26bd772574de74c1c65fc5b9421"
-metafile = true
-
-[[files]]
 file = "mods/items-displayed.pw.toml"
 hash = "e3559b30e33afbbbade5fe2e99f2de7aa107745890171a891a94bd413ae6f17d"
 metafile = true
@@ -880,11 +887,6 @@ metafile = true
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "15bbdb7f98ae7148b79b69408488dd03016ac89fe647b5396417a8ba4f968df0"
-metafile = true
-
-[[files]]
-file = "mods/nvidium.pw.toml"
-hash = "386199e15b64aa6d82b31c132308f5f5195859849c5ee184c2d4aa009ebf5d9f"
 metafile = true
 
 [[files]]

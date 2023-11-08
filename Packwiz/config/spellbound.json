@@ -290,7 +290,7 @@
   "photosynthetic": {
     "ENABLED": true,
     "IS_TREASURE": true,
-    "IS_FOR_SALE": true,
+    "IS_FOR_SALE": false,
     "RARITY": 3,
     "SOFT_CAP": 1,
     "HARD_CAP": 1,
@@ -445,7 +445,7 @@
   "skotosynthetic": {
     "ENABLED": true,
     "IS_TREASURE": true,
-    "IS_FOR_SALE": true,
+    "IS_FOR_SALE": false,
     "RARITY": 3,
     "SOFT_CAP": 1,
     "HARD_CAP": 1,

@@ -1,4 +1,7 @@
 ServerEvents.recipes(event => {
+    global.bannedItems.forEach(item => {
+        event.remove({ output: item })
+    })
     event.remove({id:'createbb:misc/brass_call_bell'})
     event.remove({id:'createbb:phase2/copper_zinc_catalyst'})
     event.remove({id:'spelunkery:mineomite'})

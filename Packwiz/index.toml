@@ -222,7 +222,7 @@ hash = "c5a3ccff3969b6a15181e5169ae19a2487455acf0a5eb2177995b8526cac0990"
 
 [[files]]
 file = "kubejs/server_scripts/banItems.js"
-hash = "e7444df2e56bf42d467270e78075d8ea39db2c8f1002dba43e9c667f10c67592"
+hash = "a905d33dac84a4438e0f3d853caeeb624023419ee860f1a16fc9e5ad9754e7dc"
 
 [[files]]
 file = "kubejs/server_scripts/example.js"
@@ -234,7 +234,7 @@ hash = "9479811bb3b9718ebf6799031fdec92c06ad6c7d30ffabd2ca5968d4b912263c"
 
 [[files]]
 file = "kubejs/server_scripts/recipes.js"
-hash = "5138514217c209d51d1ce8b59b6bdcd4d08b3439187091ced861d7c547841480"
+hash = "a6f6d5fee3a562514040ce6c5c8003382b7e1b5d19583bf7db86f4ad2e553c51"
 
 [[files]]
 file = "kubejs/startup_scripts/example.js"

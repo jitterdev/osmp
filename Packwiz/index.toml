@@ -322,6 +322,11 @@ hash = "4ce8cd02fd6db139f101a9643068702bcc77dab491454e73a3bcf0638710a62a"
 metafile = true
 
 [[files]]
+file = "mods/biome-makeover.pw.toml"
+hash = "fda13d2e9e623488310452142e95d113f33d216921e371e185f79ea64929179b"
+metafile = true
+
+[[files]]
 file = "mods/bookshelf-lib.pw.toml"
 hash = "6101baa55052ee4fd541dedb89ed0ddd9bd2e797743abba3a9d49c0c5ac8c532"
 metafile = true
@@ -499,11 +504,6 @@ metafile = true
 [[files]]
 file = "mods/diagonal-fences.pw.toml"
 hash = "9be216fe8f8f086415d946964a4648941738da7838b2844398d31326f7dedb89"
-metafile = true
-
-[[files]]
-file = "mods/dragonloot.pw.toml"
-hash = "f6f4c451ea8c1905485ab1d013a4a33e24e592fd631315c183b360dee81a5744"
 metafile = true
 
 [[files]]

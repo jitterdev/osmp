@@ -181,6 +181,10 @@ file = "config/vmp.properties"
 hash = "e945fb1ddbe724c4502c08731e1a306da34336b0ebf0fd16f5fb7376912158fb"
 
 [[files]]
+file = "config/xaerominimap.txt"
+hash = "665379a9bba4ff88df1d678d8069713c84aecad201e28843f6d26f32921fbd77"
+
+[[files]]
 file = "config/yosbr/config/enhanced_bes.properties"
 hash = "cbc144310bcce3077632a8763040e726afe866d99ca58199aa91fbea907a2336"
 
@@ -191,10 +195,6 @@ hash = "834b091f4b9687c1a6cd98caf4a93557ca4af210d4cbbf4aee8083747b8a5cf5"
 [[files]]
 file = "config/yosbr/config/sodium-options.json"
 hash = "c8ea1eed69f55561442419d6c9c92e216d6c8d7c889fe9d0bebfb708ea64f301"
-
-[[files]]
-file = "config/yosbr/config/xaerominimap.txt"
-hash = "665379a9bba4ff88df1d678d8069713c84aecad201e28843f6d26f32921fbd77"
 
 [[files]]
 file = "config/yosbr/options.txt"

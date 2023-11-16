@@ -627,11 +627,6 @@ hash = "b53794cc3b94d52b223c007b01b4960c7d6b51056e887506182b7ca9bfe42ad7"
 metafile = true
 
 [[files]]
-file = "mods/farmers-knives.pw.toml"
-hash = "e26f4ed60a39245dde3632923fc387d9f5cf285f3f6d6aaa925fc4a0d1c55e3c"
-metafile = true
-
-[[files]]
 file = "mods/farmers-respite-fabric.pw.toml"
 hash = "3b09bb825c6293c1c1fb2addd2c88e03af6cb4f0cc72040cd8696a51a3ef8f5f"
 metafile = true
@@ -744,11 +739,6 @@ metafile = true
 [[files]]
 file = "mods/immersive-aircraft.pw.toml"
 hash = "527a18848a28afde3e9d71c07728de14b9c0597b2857e45a42fac6478de082a6"
-metafile = true
-
-[[files]]
-file = "mods/incendium.pw.toml"
-hash = "9b5d719c6cbc3da3995f00a0270b2ac200e5a2e6b3b0585c65727524b0f2d499"
 metafile = true
 
 [[files]]

@@ -683,7 +683,7 @@ metafile = true
 
 [[files]]
 file = "mods/frostiful.pw.toml"
-hash = "0782be96e287f2d2a90dbba579707c65b4d486a9e7e6caa336502a9f361fd797"
+hash = "c4110d9f7b64651ac82738eaf3df4ed284b6fe1a5e10fa20707e7977ec5e4738"
 metafile = true
 
 [[files]]
@@ -1213,7 +1213,7 @@ metafile = true
 
 [[files]]
 file = "mods/thermoo.pw.toml"
-hash = "aeff093fa2e40433040d45107a160bb21f9f1fb2964c6b03eb4f29e37fe9de2e"
+hash = "01c0153374e05f351c4bf22e72dfdb03d63395e46a93e85f8087a133c2c0ef7e"
 metafile = true
 
 [[files]]

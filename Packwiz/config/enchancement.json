@@ -62,7 +62,7 @@
   "invertedList": true,
   "overhaulEnchantingTable": true,
   "allowTreasureEnchantmentsInEnchantingTable": false,
-  "singleLevelMode": true,
+  "singleLevelMode": false,
   "enchantmentLimit": 3,
   "allowInfinityOnCrossbows": true,
   "allTridentsHaveLoyalty": true,

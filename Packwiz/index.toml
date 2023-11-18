@@ -1202,6 +1202,11 @@ hash = "a1fd826038c193e91c0ac45648b93721760c3e4f0fbddde169952e93bc348df7"
 metafile = true
 
 [[files]]
+file = "mods/terralith.pw.toml"
+hash = "c7b5cc4b23192c970f0aa018e1e5e801a56c3ec2149e87eb30e4d57fa624e2ba"
+metafile = true
+
+[[files]]
 file = "mods/terrestria.pw.toml"
 hash = "1c43a497cc911474b50a0706b05f1e6040179f1443a59112f2c56157f12c7165"
 metafile = true

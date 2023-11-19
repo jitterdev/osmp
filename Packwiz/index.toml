@@ -106,7 +106,7 @@ hash = "3798787a013f90f500fe897fa44b01b0d07c6ed452ae85f04f71ba93b7dace08"
 
 [[files]]
 file = "config/openloader/resources/welded-pack.zip"
-hash = "2de4fca89e29c585515976515f5e3c835962af4fb2e45d5326e2741ce3da9165"
+hash = "17ffe2411286c6c5954610143d0bec0f7a205a6f23e2b6796b9a3275f674aea5"
 
 [[files]]
 file = "config/origins_server.json"
@@ -832,6 +832,11 @@ hash = "e6f7b0d17115a0731101464b5d8f5d92bb16587a219c88c0064c032713ea4744"
 metafile = true
 
 [[files]]
+file = "mods/manic.pw.toml"
+hash = "9714cf6042d9b40be8a2588fefaad0b241552feff821ce9f8ae01e201cca71ac"
+metafile = true
+
+[[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "8e42842f48b3227733bafced612212eee2298f567ca599ac6a55b9878ae661da"
 metafile = true
@@ -924,11 +929,6 @@ metafile = true
 [[files]]
 file = "mods/nethers-delight-fabric.pw.toml"
 hash = "3dda9d9871e608fd8b97db8797e70ed5473036485257035409fb9c568b2c6c08"
-metafile = true
-
-[[files]]
-file = "mods/nevermore.pw.toml"
-hash = "a4ac05ba3b0eff327fc4fff1a07a84516a995c7820d3a9e8854912157b2e9925"
 metafile = true
 
 [[files]]

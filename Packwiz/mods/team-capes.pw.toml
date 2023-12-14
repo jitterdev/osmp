@@ -1,0 +1,13 @@
+name = "Team Capes"
+filename = "TeamCapes-fabric-1.0.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Sw4LxdbE/versions/F7sUJZcJ/TeamCapes-fabric-1.0.0.jar"
+hash-format = "sha1"
+hash = "eeacd7607a3fb566054a44ccd8ed517c0c91e8ab"
+
+[update]
+[update.modrinth]
+mod-id = "Sw4LxdbE"
+version = "F7sUJZcJ"

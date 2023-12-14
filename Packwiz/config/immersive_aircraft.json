@@ -3,7 +3,7 @@
   "enableCrashExplosion": true,
   "enableCrashBlockDestruction": true,
   "enableCrashFire": true,
-  "crashExplosionRadius": 7.0,
+  "crashExplosionRadius": 5.0,
   "separateCamera": true,
   "useThirdPersonByDefault": true,
   "enableTrails": true,

@@ -1,13 +1,13 @@
 name = "Extra Origins"
-filename = "extraorigins-1.20-1.jar"
+filename = "extraorigins-1.20-3.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/XWEESDPe/versions/spXxXXgx/extraorigins-1.20-1.jar"
+url = "https://cdn.modrinth.com/data/XWEESDPe/versions/DruzbANL/extraorigins-1.20-3.jar"
 hash-format = "sha1"
-hash = "df6ff30fe89059edcb9b962abb5e96f81a06639d"
+hash = "e36cdf6d0e78c4ffe4cb844fd91850f93fbb8de4"
 
 [update]
 [update.modrinth]
 mod-id = "XWEESDPe"
-version = "spXxXXgx"
+version = "DruzbANL"

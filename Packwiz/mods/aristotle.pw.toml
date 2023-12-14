@@ -1,11 +1,11 @@
 name = "aristotle"
-filename = "aristotle-1.0.0.jar"
+filename = "aristotle-1.1.0.jar"
 side = "both"
 
 [download]
-url = "https://raw.githubusercontent.com/jitterdev/osmp/master/mods/aristotle-1.0.0.jar"
+url = "https://raw.githubusercontent.com/jitterdev/osmp/master/mods/aristotle-1.1.0.jar"
 
 # A number of tools can generate the hash for you, including 7-zip and sha256sum
 # packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
 hash-format = "sha1"
-hash = "e895af4c935d2b249d20109fccb640bd01b9144d"
+hash = "19876ec2855ff25e7d72377d0c94d234d28d7912"

@@ -1,0 +1,13 @@
+name = "Trimmed"
+filename = "trimmed-fabric-1.20.1-2.1.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/q8k4zHw5/versions/lsOCqGCk/trimmed-fabric-1.20.1-2.1.4.jar"
+hash-format = "sha1"
+hash = "f85a74c7c5ccf3e03e79abbec33c4f7f1aa11b0c"
+
+[update]
+[update.modrinth]
+mod-id = "q8k4zHw5"
+version = "lsOCqGCk"

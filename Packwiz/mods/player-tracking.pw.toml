@@ -1,13 +1,13 @@
 name = "Player Tracking"
-filename = "playertracking-1.20.1-3.1.jar"
+filename = "playertracking-1.20.1-3.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/7d1moRSC/versions/PXF38ZT6/playertracking-1.20.1-3.1.jar"
+url = "https://cdn.modrinth.com/data/7d1moRSC/versions/DooRrUvf/playertracking-1.20.1-3.2.jar"
 hash-format = "sha1"
-hash = "811d056f5a07dcb18094541cdf0b47cf5fc198af"
+hash = "794b001603eb7be26f0096389933e5c9688e9f29"
 
 [update]
 [update.modrinth]
 mod-id = "7d1moRSC"
-version = "PXF38ZT6"
+version = "DooRrUvf"

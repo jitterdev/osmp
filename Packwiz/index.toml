@@ -298,11 +298,6 @@ hash = "22986fa452678b6334e695307e02d56452e1ea2d44e0bd4c64175b35765131f9"
 metafile = true
 
 [[files]]
-file = "mods/armorful.pw.toml"
-hash = "f328312f56dc4dcd1a28808989d9a6fa424f206999d56a344a047d7e68974893"
-metafile = true
-
-[[files]]
 file = "mods/attributefix.pw.toml"
 hash = "60a99d744e2d72e272cef239ce12f6c446afb9a20cd71c11cc44aa0895f48526"
 metafile = true
@@ -320,11 +315,6 @@ metafile = true
 [[files]]
 file = "mods/beautify-refabricated.pw.toml"
 hash = "49323e1540fe35dd58946d577dfa9163df4b037eb6231916b1dd86c8204a7e84"
-metafile = true
-
-[[files]]
-file = "mods/bedspreads.pw.toml"
-hash = "af0c7ee46afc4a5dcce1d6d01ef668d18d1dbe5560f5d03e2608f55cc0163b33"
 metafile = true
 
 [[files]]
@@ -353,11 +343,6 @@ hash = "10a837b48e0ce1dfb36a0531a14254fea76599ddb65dc62a05b58e105237b7e2"
 metafile = true
 
 [[files]]
-file = "mods/bucketem.pw.toml"
-hash = "f3fb299ac759e6f0862e7a47c0f0ad26b0af3741c2a19a49680b874ef7ffd78a"
-metafile = true
-
-[[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "7721e78d990cc15c02f1a03cd6d7652ea995b271a3d19a6ae44829b4c69acbf0"
 metafile = true
@@ -375,11 +360,6 @@ metafile = true
 [[files]]
 file = "mods/carry-on.pw.toml"
 hash = "94fbe9655850d99ed2a950e6b59c9cbfabfc21d859c7920c4a8b21101f5981b7"
-metafile = true
-
-[[files]]
-file = "mods/cat_jam.pw.toml"
-hash = "ea754cf20adb758fd52e23a53d6ada63a0f54351e8794f61ea935856982eccb9"
 metafile = true
 
 [[files]]
@@ -508,11 +488,6 @@ hash = "e6cd8a58a2938b799035c66df16b440db0edf09c798978b8e857a6a27e8a6474"
 metafile = true
 
 [[files]]
-file = "mods/death-backup.pw.toml"
-hash = "8b3a179fb49876e70a28099c5d1eb3bbee3d282be12727892e229f5552b3e94a"
-metafile = true
-
-[[files]]
 file = "mods/debugify.pw.toml"
 hash = "4ba45966a267b774f5d83442c3c43d740f55e11a910e117e50c046b4f77b5c66"
 metafile = true
@@ -535,11 +510,6 @@ metafile = true
 [[files]]
 file = "mods/dungeons-and-taverns.pw.toml"
 hash = "ec5f0ed9e8d3b79ea61f7c79127b5f113e23ac96e92f5ba409084c8d0ab7da5e"
-metafile = true
-
-[[files]]
-file = "mods/dwdsb.pw.toml"
-hash = "9d1809d2bee500efbb211dedc91dd9cc590ee70e19246fd540c7e3600d78c77c"
 metafile = true
 
 [[files]]
@@ -698,11 +668,6 @@ hash = "129bb8b135edc60038f021b693f5b88a0067b722f326e0d6067112243774289b"
 metafile = true
 
 [[files]]
-file = "mods/forge-early-loading-screen-fabric.pw.toml"
-hash = "f1b12bd31ad1392386c9457b7454feccfb435dba545e2327e7caf35dd9055488"
-metafile = true
-
-[[files]]
 file = "mods/formations-nether.pw.toml"
 hash = "37346d101d26b456e8feead3aa58a97987470f118cc59750d9874fdcc0f06be2"
 metafile = true
@@ -745,11 +710,6 @@ metafile = true
 [[files]]
 file = "mods/geophilic.pw.toml"
 hash = "dff520bc4934ac3bf7fa1b0634c25a8d3b150117d20860f2d13b2d88664c52f1"
-metafile = true
-
-[[files]]
-file = "mods/globalhorns.pw.toml"
-hash = "3c2e6ec4127c4b1f504e23bf0b5722ce97aa1ab32808f9a62d868648771eaeb3"
 metafile = true
 
 [[files]]
@@ -845,11 +805,6 @@ metafile = true
 [[files]]
 file = "mods/lazydfu.pw.toml"
 hash = "b4ca05b39b85c27cd97ccb65d5fb832f5e9fd7ee5710542a3e69dfa30a97ea7d"
-metafile = true
-
-[[files]]
-file = "mods/leashable-players.pw.toml"
-hash = "313e4bdded31016df321a12a991752ec1dd1554320d414850016cfd702429477"
 metafile = true
 
 [[files]]
@@ -1083,11 +1038,6 @@ hash = "bcf7b1f7226b3db7c78ba826464d17b71ed2e051898fd582b270e02cd8737320"
 metafile = true
 
 [[files]]
-file = "mods/pigsteel-fabric.pw.toml"
-hash = "951f38a4860b7e0cd83aba27062cbd90c16a9166cd47d6c4474cd51fa6898529"
-metafile = true
-
-[[files]]
 file = "mods/player-tracking.pw.toml"
 hash = "db1e585465df7d5b6c78418d9a26eb22f9b6273e192a058126685acae1419c59"
 metafile = true
@@ -1185,11 +1135,6 @@ metafile = true
 [[files]]
 file = "mods/snow-real-magic.pw.toml"
 hash = "cc274d132190a6b1539bc0ab9ed43a2ad638e94de8ae6b8141b36e0b86de3893"
-metafile = true
-
-[[files]]
-file = "mods/snowly.pw.toml"
-hash = "c0dc5a99f56ba80fc668eb53dc1ce39268e0fe1600675f187418c178bc4d2851"
 metafile = true
 
 [[files]]
@@ -1378,16 +1323,6 @@ hash = "e260ccd93b6650fc7317b51c5e0beffc5fef680d42808c2fd1ed7cab098d1b20"
 metafile = true
 
 [[files]]
-file = "mods/tricksy-foxes.pw.toml"
-hash = "1bfde47220e46a39088789fe39136a2f9065317fb646ca01e9ce2e78119cceaf"
-metafile = true
-
-[[files]]
-file = "mods/trimmed.pw.toml"
-hash = "d0bab794a7b77edaaa4ee80b46f1a23201c75f026f55464949dad0a623c6d385"
-metafile = true
-
-[[files]]
 file = "mods/trinkets.pw.toml"
 hash = "b2e02d1210f025b905299bfc88f895058640158343322641aca2c4875622c992"
 metafile = true
@@ -1405,11 +1340,6 @@ metafile = true
 [[files]]
 file = "mods/universal-graves.pw.toml"
 hash = "5d52480f57b1b91195c6cde08c052e25df3e17addd5d5aadfeb7e8c8a594ffb9"
-metafile = true
-
-[[files]]
-file = "mods/url-music-discs.pw.toml"
-hash = "3df75e1a97ba5ca1de0af4ca1bbd9f5aa1169c646340f88526e908e8fb76bfb4"
 metafile = true
 
 [[files]]

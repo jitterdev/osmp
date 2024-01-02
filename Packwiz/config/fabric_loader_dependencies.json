@@ -20,16 +20,6 @@
             "-depends": {
                 "minecraft": "IGNORED"
             }
-        },
-        "bucketem": {
-            "-depends": {
-                "fabricloader": "IGNORED"
-            }
-        },
-        "urlmusicdiscs": {
-            "-depends": {
-                "fabricloader": "IGNORED"
-            }
         }
     }
 }

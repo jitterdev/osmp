@@ -1,0 +1,13 @@
+name = "Discs Where Discs Shouldn't Be"
+filename = "dwdsb-1.2.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/wA5VlakK/versions/yoNEDjmy/dwdsb-1.2.3.jar"
+hash-format = "sha1"
+hash = "150f8c31e34daba2c9bab1c4de53539e70dc7415"
+
+[update]
+[update.modrinth]
+mod-id = "wA5VlakK"
+version = "yoNEDjmy"

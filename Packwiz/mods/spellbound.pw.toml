@@ -1,11 +1,13 @@
-name = "spellbound"
-filename = "spellbound-1.12.1.jar"
+name = "Spellbound Enchantments"
+filename = "spellbound-1.15.0.1.jar"
 side = "both"
 
 [download]
-url = "https://raw.githubusercontent.com/jitterdev/osmp/master/mods/spellbound-1.12.1.jar"
-
-# A number of tools can generate the hash for you, including 7-zip and sha256sum
-# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+url = "https://cdn.modrinth.com/data/PvOWwwRg/versions/puEMxOlP/spellbound-1.15.0.1.jar"
 hash-format = "sha1"
-hash = "0bb3797bca8d66632574812fdfefb74d175b8116"
+hash = "c9716ba26b2bba93cf28becfe569764fa0708810"
+
+[update]
+[update.modrinth]
+mod-id = "PvOWwwRg"
+version = "puEMxOlP"

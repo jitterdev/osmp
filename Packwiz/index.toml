@@ -1156,11 +1156,6 @@ hash = "2285c2cad4d33c4001b265d2517cd89b3fa97cd0a193ca1612c7b1235b8180f5"
 metafile = true
 
 [[files]]
-file = "mods/pigsteel-fabric.pw.toml"
-hash = "951f38a4860b7e0cd83aba27062cbd90c16a9166cd47d6c4474cd51fa6898529"
-metafile = true
-
-[[files]]
 file = "mods/player-tracking.pw.toml"
 hash = "db1e585465df7d5b6c78418d9a26eb22f9b6273e192a058126685acae1419c59"
 metafile = true
@@ -1453,11 +1448,6 @@ metafile = true
 [[files]]
 file = "mods/tricksy-foxes.pw.toml"
 hash = "1bfde47220e46a39088789fe39136a2f9065317fb646ca01e9ce2e78119cceaf"
-metafile = true
-
-[[files]]
-file = "mods/trimmed.pw.toml"
-hash = "d0bab794a7b77edaaa4ee80b46f1a23201c75f026f55464949dad0a623c6d385"
 metafile = true
 
 [[files]]

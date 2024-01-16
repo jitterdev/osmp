@@ -1,13 +1,13 @@
 name = "Redexed"
-filename = "indexed-1.2.1.jar"
+filename = "indexed-1.2.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/RroOU2AP/versions/SUAS8YWd/indexed-1.2.1.jar"
+url = "https://cdn.modrinth.com/data/RroOU2AP/versions/dyIFYMMr/indexed-1.2.2.jar"
 hash-format = "sha1"
-hash = "d2669c296411658d97ed0ea07d32b0de19741a20"
+hash = "c16a0e077d0257529d465cdd7907a220e5c6589a"
 
 [update]
 [update.modrinth]
 mod-id = "RroOU2AP"
-version = "SUAS8YWd"
+version = "dyIFYMMr"

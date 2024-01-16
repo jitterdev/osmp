@@ -366,11 +366,6 @@ hash = "22986fa452678b6334e695307e02d56452e1ea2d44e0bd4c64175b35765131f9"
 metafile = true
 
 [[files]]
-file = "mods/armorful.pw.toml"
-hash = "f328312f56dc4dcd1a28808989d9a6fa424f206999d56a344a047d7e68974893"
-metafile = true
-
-[[files]]
 file = "mods/attributefix.pw.toml"
 hash = "60a99d744e2d72e272cef239ce12f6c446afb9a20cd71c11cc44aa0895f48526"
 metafile = true
@@ -833,11 +828,6 @@ metafile = true
 [[files]]
 file = "mods/handcrafted.pw.toml"
 hash = "2e3547b6513fabf4cc51efc2488115ea8297ec0e4845d57abad8d9e1a798b924"
-metafile = true
-
-[[files]]
-file = "mods/harvest-with-ease.pw.toml"
-hash = "c0d22ad84204a7d1e7c4db4a7459c5d6c3cf3a835fea87fe720ac566c976fba4"
 metafile = true
 
 [[files]]

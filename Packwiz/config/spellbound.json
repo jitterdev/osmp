@@ -9,7 +9,8 @@
     "BASE_POWER": -9,
     "POWER_PER_RANK": 10,
     "POWER_RANGE": 50,
-    "TIMEOUT": 50
+    "TIMEOUT": 50,
+    "MAX_ACCELERATION_STACKS": 5.0
   },
   "airline": {
     "ENABLED": true,
@@ -88,6 +89,19 @@
     "POWER_RANGE": 50,
     "BASE_EXPLOSION_POWER": 1.0,
     "EXPLOSION_POWER_PER_RANK": 0.5
+  },
+  "despoiling": {
+    "ENABLED": true,
+    "IS_TREASURE": false,
+    "IS_FOR_SALE": true,
+    "RARITY": 3,
+    "SOFT_CAP": 3,
+    "HARD_CAP": 3,
+    "BASE_POWER": 6,
+    "POWER_PER_RANK": 9,
+    "POWER_RANGE": 50,
+    "DURATION_BASE": 40,
+    "DURATION_PER_LEVEL": 20
   },
   "dullness": {
     "ENABLED": true,
@@ -187,6 +201,21 @@
     "POWER_PER_RANK": 16,
     "POWER_RANGE": 50
   },
+  "lastGasp": {
+    "ENABLED": true,
+    "IS_TREASURE": true,
+    "IS_FOR_SALE": false,
+    "RARITY": 2,
+    "SOFT_CAP": 4,
+    "HARD_CAP": 4,
+    "BASE_POWER": -10,
+    "POWER_PER_RANK": 11,
+    "POWER_RANGE": 50,
+    "SECONDS_TO_DIE": 10,
+    "HEALTH_REBOUND_PER_RANK": 0.0625,
+    "INSTANT_MAX_HEALTH_LOSS_FACTOR": 0.5,
+    "RECOVERY_FROM_EXPERIENCE": 0.01
+  },
   "launching": {
     "ENABLED": true,
     "IS_TREASURE": false,
@@ -264,6 +293,25 @@
     "SHOCKWAVE_FORCE": 0.5,
     "SHOCKWAVE_POWER": 6.0,
     "SHOCKWAVE_RANGE": 2.0
+  },
+  "pestilence": {
+    "ENABLED": true,
+    "IS_TREASURE": false,
+    "IS_FOR_SALE": true,
+    "RARITY": 3,
+    "SOFT_CAP": 3,
+    "HARD_CAP": 3,
+    "BASE_POWER": -10,
+    "POWER_PER_RANK": 20,
+    "POWER_RANGE": 50,
+    "DAMAGE_PER_EFFECT": 0.5,
+    "RADIUS_SQUARED_PER_LEVEL": 0.5,
+    "DURATION_PER_LEVEL": 20,
+    "STATUS_DURATION_FACTOR": 0.5,
+    "MAX_STATUS_DURATION": 600,
+    "PESTILENCE_DAMAGE_FREQUENCY": 25,
+    "PESTILENCE_DAMAGE_FREQUENCY_OFFSET": 11,
+    "MAX_DAMAGE_LEVELS_PER_EFFECT": 4
   },
   "phaseLeap": {
     "ENABLED": true,
@@ -506,6 +554,37 @@
     "BASE_POWER": -19,
     "POWER_PER_RANK": 20,
     "POWER_RANGE": 50
+  },
+  "warlike": {
+    "ENABLED": true,
+    "IS_TREASURE": false,
+    "IS_FOR_SALE": true,
+    "RARITY": 3,
+    "SOFT_CAP": 2,
+    "HARD_CAP": 3,
+    "BASE_POWER": 0,
+    "POWER_PER_RANK": 15,
+    "POWER_RANGE": 50,
+    "DIFFICULTY_PER_RANK": 2.0
+  },
+  "widened": {
+    "ENABLED": true,
+    "IS_TREASURE": false,
+    "IS_FOR_SALE": true,
+    "RARITY": 2,
+    "SOFT_CAP": 5,
+    "HARD_CAP": 8,
+    "BASE_POWER": -9,
+    "POWER_PER_RANK": 10,
+    "POWER_RANGE": 50,
+    "REQUIRE_EXACT_MATCHING_BLOCK": true,
+    "ALLOW_UNSUITABLE_TOOL": false,
+    "REQUIRE_UNCOVERED_BLOCK": true,
+    "REQUIRE_CONTIGUOUS_BREAK": true,
+    "IS_DIAGONAL_CONTIGUOUS": true,
+    "MAXIMUM_HARDNESS_GAIN": 0.0,
+    "MAXIMUM_HARDNESS_LOSS": 0.0,
+    "MINING_SPEED_FACTOR": 0.7
   },
   "CAN_SHIELD_HAVE_ARMOR_ENCHANTMENTS": false,
   "POWER_TO_EXCEED_SOFT_CAP": 20,

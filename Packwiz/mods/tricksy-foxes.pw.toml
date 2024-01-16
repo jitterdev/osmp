@@ -1,0 +1,13 @@
+name = "Tricksy Foxes"
+filename = "tricksy-3.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/96nXM8BO/versions/q093tC1B/tricksy-3.4.jar"
+hash-format = "sha1"
+hash = "8877e23f915db38a920b85b9f8ca1f4bc6afaedf"
+
+[update]
+[update.modrinth]
+mod-id = "96nXM8BO"
+version = "q093tC1B"

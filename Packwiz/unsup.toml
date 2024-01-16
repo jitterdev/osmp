@@ -4,11 +4,21 @@ description = "<ul>Disabled by default!</ul>\n<ul>Can dramatically improve perfo
 side = "client"
 choices = ["exordium_off", "exordium_on"]
 
+[metafile.exordium]
+flavors = "exordium_on"
+
+#
+
 [flavor_groups.methane]
 name = "[!] Methane"
 description = "<ul>Disabled by default!</ul>\n<ul>Can dramatically improve performance on all devices, but completely removes all lighting on your client. If you use fullbright all the time use this too.</ul>\nDisables almost all functionality of the client lightmapper, greatly improving CPU performance. Your game will look like you're using fullbright."
 side = "client"
 choices = ["methane_off", "methane_on"]
+
+[metafile.methane]
+flavors = "methane_on"
+
+#
 
 [flavor_groups.sound-physics-remastered]
 name = "[!] Sound Physics Remastered"
@@ -16,12 +26,43 @@ description = "<i>Disabled by default!</i>\n<ul>Heavy performance impact on most
 side = "client"
 choices = ["sound-physics-remastered_off", "sound-physics-remastered_on"]
 
+[metafile.sound-physics-remastered]
+flavors = "sound-physics-remastered_on"
+
+#
+
+[flavor_groups.particle-rain]
+name = "[!] Particle Rain"
+description = "<i>Disabled by default!</i>\n<ul>Moderate performance impact on most devices.</ul>\nParticle Rain replaces the default rain with some particle effects.\nIn addition to snow and rain, deserts have sandstorms and mesas have red sandstorms."
+side = "client"
+choices = ["particle-rain_off", "particle-rain_on"]
+
+[metafile.particle-rain]
+flavors = "particle-rain_on"
+
+#
+
 [flavor_groups.visuality]
 name = "Visuality"
 description = "<ul>Possible performance impact on some devices.</ul>\nAdds little visual improvements by adding a bunch of new particles."
-
 side = "client"
 choices = ["visuality_off", "visuality_on"]
+
+[metafile.visuality]
+flavors = "visuality_off"
+
+#
+
+[flavor_groups.cat_jam]
+name = "Cat Jam"
+description = "<ul>No notable performance impact.</ul>\nMakes cats headbang to the rhythm of music discs."
+side = "client"
+choices = ["cat_jam_off", "cat_jam_on"]
+
+[metafile.cat_jam]
+flavors = "cat_jam_off"
+
+#
 
 [flavor_groups.notenoughanimations]
 name = "Not Enough Animations"
@@ -29,11 +70,22 @@ description = "<ul>Possible performance impact on lower end devices.</ul>\nAdds 
 side = "client"
 choices = ["notenoughanimations_off", "notenoughanimations_on"]
 
+[metafile.not-enough-animations]
+flavors = "notenoughanimations_off"
+
+#
+
 [flavor_groups.chatheads]
 name = "Chat Heads"
 description = "<ul>No notable performance impact.</ul>\nAdds player heads next to chat messages."
 side = "client"
 choices = ["chatheads_off", "chatheads_on"]
+
+[metafile.chat-heads]
+flavors = "chatheads_off"
+
+#
+
 
 [flavor_groups.explosiveenhancement]
 name = "Explosive Enhancement"
@@ -41,11 +93,21 @@ description = "<ul>No notable performance impact.</ul>\nMakes the explosion anim
 side = "client"
 choices = ["explosiveenhancement_off", "explosiveenhancement_on"]
 
+[metafile.explosive-enhancement]
+flavors = "explosiveenhancement_off"
+
+#
+
 [flavor_groups.wakes]
 name = "Wakes"
 description = "<ul>No notable performance impact.</ul>\nA mod that adds wakes after boats (and all other entites) if they travel fast enough."
 side = "client"
 choices = ["wakes_off", "wakes_on"]
+
+[metafile.wakes]
+flavors = "wakes_off"
+
+#
 
 [flavor_groups.euphonium]
 name = "Euphonium"
@@ -53,11 +115,21 @@ description = "<ul>No notable performance impact.</ul>\nAdds biome, structure, a
 side = "client"
 choices = ["euphonium_off", "euphonium_on"]
 
+[metafile.euphonium]
+flavors = "euphonium_off"
+
+#
+
 [flavor_groups.pickupnotifier]
 name = "Pick Up Notifier"
 description = "<ul>No notable performance impact.</ul>\nAdds a small UI popup whenever you pick up items."
 side = "client"
 choices = ["pickupnotifier_off", "pickupnotifier_on"]
+
+[metafile.pick-up-notifier]
+flavors = "pickupnotifier_off"
+
+#
 
 [flavor_groups.lambdynamiclights]
 name = "LambDynamicLights"
@@ -65,47 +137,18 @@ description = "<ul>Possible performance impact on lower end devices.</ul>\nAdds 
 side = "client"
 choices = ["lambdynamiclights_off", "lambdynamiclights_on"]
 
+[metafile.lambdynamiclights]
+flavors = "lambdynamiclights_off"
+
+#
+
 [flavor_groups.flgn]
 name = "Fog Looks Good Now"
 description = "<ul>No notable performance impact.</ul>\nHelps fog look better by moving the fog start closer."
 side = "client"
 choices = ["flgn_off", "flgn_on"]
 
-
-
-
-[metafile.methane]
-flavors = "methane_on"
-
-[metafile.exordium]
-flavors = "exordium_on"
-
-[metafile.sound-physics-remastered]
-flavors = "sound-physics-remastered_on"
-
-[metafile.visuality]
-flavors = "visuality_off"
-
-[metafile.not-enough-animations]
-flavors = "notenoughanimations_off"
-
-[metafile.chat-heads]
-flavors = "chatheads_off"
-
-[metafile.explosive-enhancement]
-flavors = "explosiveenhancement_off"
-
-[metafile.wakes]
-flavors = "wakes_off"
-
-[metafile.euphonium]
-flavors = "euphonium_off"
-
-[metafile.pick-up-notifier]
-flavors = "pickupnotifier_off"
-
-[metafile.lambdynamiclights]
-flavors = "lambdynamiclights_off"
-
 [metafile.fog-looks-good-now-fabric]
 flavors = "flgn_off"
+
+#

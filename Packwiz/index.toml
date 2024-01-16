@@ -1202,7 +1202,7 @@ metafile = true
 
 [[files]]
 file = "mods/redexed.pw.toml"
-hash = "638592879cb613cac5ac3b527ceff7f9213fdd01ccdf70c934cf125f153e2129"
+hash = "a4baa46840b37600e700d6eb37387ff77a0bae907c38c2150d499ba41e32dd68"
 metafile = true
 
 [[files]]

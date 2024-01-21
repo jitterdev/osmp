@@ -632,7 +632,7 @@ metafile = true
 
 [[files]]
 file = "mods/enchancement.pw.toml"
-hash = "9aba8fc914df2797eef850ae904dcc6de9ad562a29a90a3ae7eaf00e8ce2d0b9"
+hash = "7d631f9b7c27c31a25a2bf73d69349b9c736623bf4d8d41ab6777081b7c8d1fa"
 metafile = true
 
 [[files]]
@@ -1158,6 +1158,11 @@ metafile = true
 [[files]]
 file = "mods/player-tracking.pw.toml"
 hash = "db1e585465df7d5b6c78418d9a26eb22f9b6273e192a058126685acae1419c59"
+metafile = true
+
+[[files]]
+file = "mods/polymorph.pw.toml"
+hash = "03c50c52bcdcc958ab261fdf157977356800ea7402f40bcc1c9552a465bb2ec6"
 metafile = true
 
 [[files]]

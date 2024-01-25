@@ -14,7 +14,7 @@ hash = "835439f40a32694a1d2f57bc6f26feeeefa986c6d26b37234e419c5aa76e4ce0"
 
 [[files]]
 file = "config/enchancement.json"
-hash = "1b229bcfb0b7c8705c49d5f8aa98ac41bbc2274e81ccc99fc3e3baeb51a07601"
+hash = "88b44d723a018ada36e7ad75e16dce07c00af9f8cbf8350a62cf46daae1edcca"
 
 [[files]]
 file = "config/entityculling.json"
@@ -577,7 +577,7 @@ metafile = true
 
 [[files]]
 file = "mods/death-knell.pw.toml"
-hash = "706cdf1e0eb2ee1b2b7f8171b537769f8be3684fdc769cfade557d52d7298e9d"
+hash = "b9003d1b6da5a13d9a6de48eef8375c2abae7f97bb0c0caf89f136bd2e8e47b4"
 metafile = true
 
 [[files]]
@@ -908,11 +908,6 @@ metafile = true
 [[files]]
 file = "mods/lazydfu.pw.toml"
 hash = "b4ca05b39b85c27cd97ccb65d5fb832f5e9fd7ee5710542a3e69dfa30a97ea7d"
-metafile = true
-
-[[files]]
-file = "mods/leashable-players.pw.toml"
-hash = "313e4bdded31016df321a12a991752ec1dd1554320d414850016cfd702429477"
 metafile = true
 
 [[files]]
@@ -1448,11 +1443,6 @@ metafile = true
 [[files]]
 file = "mods/traverse.pw.toml"
 hash = "e260ccd93b6650fc7317b51c5e0beffc5fef680d42808c2fd1ed7cab098d1b20"
-metafile = true
-
-[[files]]
-file = "mods/tricksy-foxes.pw.toml"
-hash = "1bfde47220e46a39088789fe39136a2f9065317fb646ca01e9ce2e78119cceaf"
 metafile = true
 
 [[files]]

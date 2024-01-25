@@ -14,7 +14,7 @@ hash = "835439f40a32694a1d2f57bc6f26feeeefa986c6d26b37234e419c5aa76e4ce0"
 
 [[files]]
 file = "config/enchancement.json"
-hash = "88b44d723a018ada36e7ad75e16dce07c00af9f8cbf8350a62cf46daae1edcca"
+hash = "54c9b41d5d729aa5dcc8c2ca5269280f527623382ac4b0333ffb203b8b52aea6"
 
 [[files]]
 file = "config/entityculling.json"

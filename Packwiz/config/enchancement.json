@@ -1,5 +1,5 @@
 {
-  "allowedEnchantments": [
+  "disallowedEnchantments": [
     "cenchants:antiheal",
     "cenchants:combo",
     "cenchants:darkness",
@@ -60,7 +60,7 @@
     "spellbound:storied",
     "spellbound:trophy_collecting"
   ],
-  "invertedList": true,
+  "invertedList": false,
   "overhaulEnchantingTable": false,
   "allowTreasureEnchantmentsInEnchantingTable": false,
   "singleLevelMode": false,

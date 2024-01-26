@@ -1,13 +1,7 @@
 name = "Enchancement"
 filename = "enchancement-1.20-9.jar"
-side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/6hN1V6wJ/versions/NL3vY26b/enchancement-1.20-9.jar"
-hash-format = "sha1"
-hash = "22b773f9afb0b3c6dc73af139247854c8d72a4c1"
-
-[update]
-[update.modrinth]
-mod-id = "6hN1V6wJ"
-version = "NL3vY26b"
+url = "https://github.com/jitterdev/osmp/raw/master/mods/enchancement-1.20-9.jar"
+hash-format = "sha256"
+hash = "e6b32b11284a82cadde96ff0248850e454374e0d4680fdfb995b65271d020ead"

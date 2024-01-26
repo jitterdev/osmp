@@ -632,7 +632,7 @@ metafile = true
 
 [[files]]
 file = "mods/enchancement.pw.toml"
-hash = "7d631f9b7c27c31a25a2bf73d69349b9c736623bf4d8d41ab6777081b7c8d1fa"
+hash = "1d964dbd315ea4063150b21383450316d7370ed887d30ca2fe9a7dc92c5eb819"
 metafile = true
 
 [[files]]

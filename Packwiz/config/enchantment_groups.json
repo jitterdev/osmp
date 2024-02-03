@@ -1,0 +1,12 @@
+{
+	"groups": {
+		"crossbow": [
+			"minecraft:multishot",
+			"enchancement:scatter",
+			"obscure_api:mirror"
+		]
+	},
+	"treasures": [
+		"minecraft:frost_walker"
+	]
+}

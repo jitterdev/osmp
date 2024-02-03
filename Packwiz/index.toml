@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/carryon-common.json"
-hash = "bfaca96978c992ad7c7e4aae511d6a1583807fcbba46babd4175b58a7d0ea81e"
+hash = "f6c864c815f43a425e6d26f6462a5d21e6f4518c87e511a26ef21bde962dda8a"
 
 [[files]]
 file = "config/clutterconfig.properties"
@@ -14,7 +14,11 @@ hash = "835439f40a32694a1d2f57bc6f26feeeefa986c6d26b37234e419c5aa76e4ce0"
 
 [[files]]
 file = "config/enchancement.json"
-hash = "54c9b41d5d729aa5dcc8c2ca5269280f527623382ac4b0333ffb203b8b52aea6"
+hash = "7d80f6948c753b709ddadc31a3a324aaa8e468f776e064f32d2a6c3fd0899088"
+
+[[files]]
+file = "config/enchantment_groups.json"
+hash = "635a78d65b56a957c2e3dfe3495cbdcf0d3070527bb97b2b950c6f1b64867547"
 
 [[files]]
 file = "config/entityculling.json"
@@ -621,18 +625,13 @@ hash = "693f6ab0cb4dd3bc2f31cfe9f21ce082288b123f7700e5b618a324e2d0f5ec41"
 metafile = true
 
 [[files]]
-file = "mods/ebe.pw.toml"
-hash = "b8270928d44781b9e59982d376bb3cc0d24089ceebef3c79d3e1e881ba7ece60"
-metafile = true
-
-[[files]]
 file = "mods/emotecraft.pw.toml"
 hash = "81293a0aad64a6000ba0b25642341074d7bb369c2f8b5f1dd842fcf7eb4088ec"
 metafile = true
 
 [[files]]
 file = "mods/enchancement.pw.toml"
-hash = "1d964dbd315ea4063150b21383450316d7370ed887d30ca2fe9a7dc92c5eb819"
+hash = "9bab46f8a7ed673f6152a7df0ddbdb9a219fc6a9c378220bf9c97f7d57ef67ed"
 metafile = true
 
 [[files]]
@@ -643,6 +642,11 @@ metafile = true
 [[files]]
 file = "mods/enchantment-descriptions.pw.toml"
 hash = "046f0770af4e350abfd3fc586708bf6be71305be8de9cf775b0af9742b6edee6"
+metafile = true
+
+[[files]]
+file = "mods/enchantmentgroups.pw.toml"
+hash = "1ff9d378de04e9cdfe66d88ce01aa623354be6f747d95cc39ebd59a1d67bcf54"
 metafile = true
 
 [[files]]
@@ -878,6 +882,11 @@ metafile = true
 [[files]]
 file = "mods/joy-of-painting.pw.toml"
 hash = "1d8b10baa654959dbe4c1ca48e673c2eb7a78c849f372dbfe71bcffb006a5d7e"
+metafile = true
+
+[[files]]
+file = "mods/jsonpatcher.pw.toml"
+hash = "aeaa2eaf00d831e3222cf2fbc589ed1cfbfacbc4596db09ac47d28e428fe743f"
 metafile = true
 
 [[files]]
@@ -1187,7 +1196,7 @@ metafile = true
 
 [[files]]
 file = "mods/redexed.pw.toml"
-hash = "a4baa46840b37600e700d6eb37387ff77a0bae907c38c2150d499ba41e32dd68"
+hash = "34c81c5bd69c115226156980f7e07861c921541df93b5793e60e63770b501b6a"
 metafile = true
 
 [[files]]

@@ -165,6 +165,22 @@ file = "config/openloader/data/notpog-Teumessian_Fox.zip"
 hash = "1234280adfb7b7cad67acea95d574da62979f8aa81c3dc541c4c7e07b90a7a1b"
 
 [[files]]
+file = "config/openloader/data/oral_patches/data/stellarity/functions/mobs/main.mcfunction"
+hash = "7923defe8ed7a53b99bb6e2d0b124cb64ae6fa5fa14c9b0a057b5f0dd555d992"
+
+[[files]]
+file = "config/openloader/data/oral_patches/data/stellarity/functions/mobs/pixie/check.mcfunction"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/openloader/data/oral_patches/data/stellarity/functions/mobs/pixie/spawn.mcfunction"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/openloader/data/oral_patches/pack.mcmeta"
+hash = "feca2a8cee5a3df6a55aaf2927277f5d0ccc0a99b6a17cec1b7e5e9869819876"
+
+[[files]]
 file = "config/openloader/data/ten_mic_10-Gravity Skater-v4.2.zip"
 hash = "ac030b260538ae6693baa9be59462885f7ae6c4c61f2b0613af4024ef4b6166c"
 
@@ -625,6 +641,11 @@ hash = "693f6ab0cb4dd3bc2f31cfe9f21ce082288b123f7700e5b618a324e2d0f5ec41"
 metafile = true
 
 [[files]]
+file = "mods/ebe.pw.toml"
+hash = "b8270928d44781b9e59982d376bb3cc0d24089ceebef3c79d3e1e881ba7ece60"
+metafile = true
+
+[[files]]
 file = "mods/emotecraft.pw.toml"
 hash = "81293a0aad64a6000ba0b25642341074d7bb369c2f8b5f1dd842fcf7eb4088ec"
 metafile = true
@@ -835,6 +856,11 @@ hash = "2e3547b6513fabf4cc51efc2488115ea8297ec0e4845d57abad8d9e1a798b924"
 metafile = true
 
 [[files]]
+file = "mods/hocon-resource-loader.pw.toml"
+hash = "8fb9d8ca349ccf8b695249f91cd8a895d8b2e43e2bd27747e0cf181c5f32a230"
+metafile = true
+
+[[files]]
 file = "mods/hybrid-aquatic.pw.toml"
 hash = "6b744d122524769fd0698803e71c096376c84983e5bee1f4a36db4597ceb1eaf"
 metafile = true
@@ -886,7 +912,7 @@ metafile = true
 
 [[files]]
 file = "mods/jsonpatcher.pw.toml"
-hash = "aeaa2eaf00d831e3222cf2fbc589ed1cfbfacbc4596db09ac47d28e428fe743f"
+hash = "36357490b3baa5a28e918bb4eaa1396d45db35fa68bf22193c2151c95ef0f736"
 metafile = true
 
 [[files]]

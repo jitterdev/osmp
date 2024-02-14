@@ -1,0 +1,4 @@
+@version "1";   
+@target "things:recipes/hardening_catalyst.json";
+
+$key.D.item = "things:gleaming_compound";

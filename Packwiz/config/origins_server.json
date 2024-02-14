@@ -298,7 +298,7 @@
     "bloodsucker:bloodsucker": {
       "enabled": true,
       "bloodsucker:vampirism": true,
-      "bloodsucker:bat_transformation": false,
+      "bloodsucker:bat_transformation": true,
       "bloodsucker:regeneration": true,
       "bloodsucker:endurance": true,
       "bloodsucker:store_blood": true,

@@ -3,7 +3,7 @@
   "config_version": 3,
   "protection": {
     "non_owner_protection_time": 0,
-    "self_destruction_time": -1,
+    "self_destruction_time": 604800,
     "drop_items_on_expiration": true,
     "attackers_bypass_protection": false,
     "use_real_time": false

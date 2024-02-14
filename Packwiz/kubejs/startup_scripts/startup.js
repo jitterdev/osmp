@@ -1,1 +1,1 @@
-global.bannedItems = ['galosphere:combustion_table', 'dragonloot:upgraded_dragon_chestplate'];
+global.bannedItems = ['galosphere:combustion_table', 'dragonloot:upgraded_dragon_chestplate', 'spelunkery:flint_hammer_and_chisel', 'spelunkery:obsidian_hammer_and_chisel'];

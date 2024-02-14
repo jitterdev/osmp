@@ -1,0 +1,4 @@
+@version "1";   
+@target "things:recipes/gleaming_compound.json";
+
+$key.d.item = "mythicmetals:starrite";

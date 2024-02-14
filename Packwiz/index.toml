@@ -885,11 +885,6 @@ hash = "f28b7f16e0b89f86a625691db438fd69c1029f0fa1aea46bd415036a423a2880"
 metafile = true
 
 [[files]]
-file = "mods/gelatin.pw.toml"
-hash = "e0a85a15a424920b7fd30931dda126a4152fd8f9db80e4eeef959a7afba7599f"
-metafile = true
-
-[[files]]
 file = "mods/geophilic.pw.toml"
 hash = "dff520bc4934ac3bf7fa1b0634c25a8d3b150117d20860f2d13b2d88664c52f1"
 metafile = true
@@ -957,11 +952,6 @@ metafile = true
 [[files]]
 file = "mods/jamlib.pw.toml"
 hash = "4a37864ebe44ddf66f7a127683adc76515d3dc97f8d8dba6fe362c43a1f39464"
-metafile = true
-
-[[files]]
-file = "mods/jello.pw.toml"
-hash = "877401edc2f9369c118c7db3291ca3d7157c57edcbc0e12cc3eb9cf8986bf09f"
 metafile = true
 
 [[files]]

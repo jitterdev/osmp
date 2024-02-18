@@ -5,7 +5,7 @@
   "monsterGearScales": false,
   "monsterAngerOnShove": true,
   "buffGolems": true,
-  "mobsBreakBlocks": true,
+  "mobsBreakBlocks": false,
   "blockBreakingHardnessCutoff": 3.0,
   "endermenBreakBlocks": true,
   "piglinsBreakBlocks": true,

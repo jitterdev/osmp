@@ -74,7 +74,7 @@ hash = "e4838b5aec17a56c44070e3302427106ecb7f765db60c898ca05d717344005a0"
 
 [[files]]
 file = "config/nox.json"
-hash = "8e66dff1643bb24d9ec1889cf6341c18a52eca38df94c6b94f0bbe7d7c363660"
+hash = "07fe966806bcd4261a35a8124f0e48b82091359661244ad70d8ce399146396df"
 
 [[files]]
 file = "config/openloader/data/Amaranth_Red-Adapter-v1.3.zip"

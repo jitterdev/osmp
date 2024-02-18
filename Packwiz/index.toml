@@ -17,6 +17,10 @@ file = "config/enchancement.json"
 hash = "7d80f6948c753b709ddadc31a3a324aaa8e468f776e064f32d2a6c3fd0899088"
 
 [[files]]
+file = "config/enchantinginfuser-server.toml"
+hash = "750807c19ba1e335aeee8b6e382af1b30edd723c72f717102269cc4eda5a302d"
+
+[[files]]
 file = "config/enchantment_groups.json"
 hash = "635a78d65b56a957c2e3dfe3495cbdcf0d3070527bb97b2b950c6f1b64867547"
 
@@ -34,7 +38,7 @@ hash = "6a1d588f4ddeee2070242ced3af4fcd04daff3408dee915e9fbe814d6e8c8068"
 
 [[files]]
 file = "config/flan/flan_config.json"
-hash = "23a40ab8bec5e1eee922a0ee9e482dd99eeb6bbd3a27c7d52727c9bab360dc00"
+hash = "281beda78188521a16e7b82a677d74d7eef4d15dc986ddb08e2d4ca9fed0cfaf"
 
 [[files]]
 file = "config/frostiful.json"
@@ -54,7 +58,7 @@ hash = "c5416b2148bcbec5095bcb7587fa61d5cbdb9e2179185438665d31bd10e795d8"
 
 [[files]]
 file = "config/jsonpatcher.json"
-hash = "58027892d5a0d97e5e78611d8e2dc70494892dde20fd7af667658fa268e68838"
+hash = "de2af5f8091cd3d4fa8852013d6126aacb23981e1d1ed37eb4ec183b3a50dcb3"
 
 [[files]]
 file = "config/lmft.json"
@@ -67,6 +71,10 @@ hash = "93f2e3955488738e44f8174ab858d9e8d1fb5c81a6b2fa7a80d98f02a7e2d885"
 [[files]]
 file = "config/modernfix-mixins.properties"
 hash = "e4838b5aec17a56c44070e3302427106ecb7f765db60c898ca05d717344005a0"
+
+[[files]]
+file = "config/nox.json"
+hash = "8e66dff1643bb24d9ec1889cf6341c18a52eca38df94c6b94f0bbe7d7c363660"
 
 [[files]]
 file = "config/openloader/data/Amaranth_Red-Adapter-v1.3.zip"
@@ -167,6 +175,18 @@ hash = "01f2d5fa69f2d38eec3b252ea4247181aa24049b87b898125b16499ddfc71989"
 [[files]]
 file = "config/openloader/data/notpog-Teumessian_Fox.zip"
 hash = "1234280adfb7b7cad67acea95d574da62979f8aa81c3dc541c4c7e07b90a7a1b"
+
+[[files]]
+file = "config/openloader/data/oral_patches/data/enchantinginfuser/recipes/advanced_enchanting_infuser.json"
+hash = "630a65c99a97b56c88bb6128366c13be9b6d02cb90f1bec7c5ccb108edc0bb04"
+
+[[files]]
+file = "config/openloader/data/oral_patches/data/enchantinginfuser/recipes/enchanting_infuser.json"
+hash = "fca7c30421f4f9eb57dbe510352b11d45f90ccbaaf3db04e68515d26cc1616a4"
+
+[[files]]
+file = "config/openloader/data/oral_patches/data/jsonpatch/jsonpatch/origins/powers/cloudskipper_cloud_feet.jsonpatch"
+hash = "e7e767c6b30a5be18bad88e0c5821ca07933aa9e229d4cb48d2a442883260939"
 
 [[files]]
 file = "config/openloader/data/oral_patches/data/jsonpatch/jsonpatch/origins/powers/hotshot_armor.jsonpatch"
@@ -435,6 +455,11 @@ hash = "60a99d744e2d72e272cef239ce12f6c446afb9a20cd71c11cc44aa0895f48526"
 metafile = true
 
 [[files]]
+file = "mods/automobility.pw.toml"
+hash = "c3b5b2edf2b45384bd560bd7fe72c3f99515a95d023a69750c43ef691e59f546"
+metafile = true
+
+[[files]]
 file = "mods/azurelib.pw.toml"
 hash = "9fa8882ae82b94c555f029eb0c078c2d2d286700d8e4467e32301bd13d3e1ee4"
 metafile = true
@@ -580,6 +605,11 @@ hash = "108b39ff08a1e56f78ed14817241ad6680c810dc6ca70550dbf53b4c5ce2d56d"
 metafile = true
 
 [[files]]
+file = "mods/create-deco.pw.toml"
+hash = "95a0eea23fda83e653a91b2d90b4e71fd63f516739da28f27253cc66a7da1548"
+metafile = true
+
+[[files]]
 file = "mods/create-fabric-sodium-fix.pw.toml"
 hash = "738234a75b69eadde29b6ebda5f0be28a3ac7f583d31f9a9a62febd4e784c3b7"
 metafile = true
@@ -702,6 +732,11 @@ metafile = true
 [[files]]
 file = "mods/enchant-the-rainbow.pw.toml"
 hash = "504124cc10bc84fe035b8d8c393aa5cf9d9f6f9d0455b63b4833cc6e50fa7011"
+metafile = true
+
+[[files]]
+file = "mods/enchanting-infuser.pw.toml"
+hash = "f95972bcfd722e16976b535ffd4555281256158a2c0a084587ca464d8e83db00"
 metafile = true
 
 [[files]]
@@ -1015,6 +1050,11 @@ hash = "cc34285a478bac62f41247f69a0e564a739018484dc0d7d4f1a27aef4e182eaf"
 metafile = true
 
 [[files]]
+file = "mods/logical-iframes.pw.toml"
+hash = "6a3a7d6d55b7b3ddbba530d766a9ea7e52b8aa502a2c7cb5f8e2a74a87934ad8"
+metafile = true
+
+[[files]]
 file = "mods/lootr-fabric.pw.toml"
 hash = "53786f23c772395f44842146accd33b2f05bc8113c53dde5ae8c02a98706e83f"
 metafile = true
@@ -1157,6 +1197,11 @@ metafile = true
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "15bbdb7f98ae7148b79b69408488dd03016ac89fe647b5396417a8ba4f968df0"
+metafile = true
+
+[[files]]
+file = "mods/nox-renoxed.pw.toml"
+hash = "470a5084927dfe49279aa2c846751e1d30cec1e35ce3a81f34d5e8baca584c62"
 metafile = true
 
 [[files]]
@@ -1480,6 +1525,11 @@ hash = "85182812adebb8cd80ce042b5612bc8ddadb0317fa92d932d98c4e1596906e49"
 metafile = true
 
 [[files]]
+file = "mods/thoroughfabric.pw.toml"
+hash = "517da20029e8fb374a14d1a8d507493c98abc1e91eb06d62b8cd30443c961da9"
+metafile = true
+
+[[files]]
 file = "mods/threadtweak.pw.toml"
 hash = "dbbeb7a8f32fdbe0d5e44a8c7671ed2297ee8d12d4610500ac54742e70b4fb53"
 metafile = true
@@ -1541,7 +1591,7 @@ metafile = true
 
 [[files]]
 file = "mods/url-music-discs.pw.toml"
-hash = "3df75e1a97ba5ca1de0af4ca1bbd9f5aa1169c646340f88526e908e8fb76bfb4"
+hash = "0f3374324957fcd2b7e9b38c75d4570aaa73b25b432a92c5b5759d7d6a1b5e56"
 metafile = true
 
 [[files]]

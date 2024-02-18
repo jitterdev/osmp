@@ -1,0 +1,5 @@
+@version "1";   
+@target "cloudskipper:powers/cloud_feet.json";
+
+$description = "Your feet are not made for walking. When on the ground, your movement is slippery, and you move 20% slower.";
+$speed.modifier.value = -0.20;

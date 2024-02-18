@@ -1,0 +1,30 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "key": {
+      "#": {
+        "item": "minecraft:crying_obsidian"
+      },
+      "A": {
+        "item": "minecraft:amethyst_shard"
+      },
+      "B": {
+        "item": "minecraft:book"
+      },
+      "T": {
+        "item": "minecraft:enchanting_table"
+      },
+      "O": {
+        "item": "bosses_of_mass_destruction:obsidian_heart"
+      }
+    },
+    "pattern": [
+      " B ",
+      "AOA",
+      "#T#"
+    ],
+    "result": {
+      "item": "enchantinginfuser:enchanting_infuser"
+    },
+    "show_notification": true
+  }

@@ -57,6 +57,10 @@ file = "config/indexed.properties"
 hash = "c5416b2148bcbec5095bcb7587fa61d5cbdb9e2179185438665d31bd10e795d8"
 
 [[files]]
+file = "config/item_obliterator.json5"
+hash = "cfcd24eda39b21fb62ba9f8bfa610265e5a00a21f3d95dea4db147aaaac0c972"
+
+[[files]]
 file = "config/jsonpatcher.json"
 hash = "de2af5f8091cd3d4fa8852013d6126aacb23981e1d1ed37eb4ec183b3a50dcb3"
 
@@ -74,7 +78,7 @@ hash = "e4838b5aec17a56c44070e3302427106ecb7f765db60c898ca05d717344005a0"
 
 [[files]]
 file = "config/nox.json"
-hash = "9b97775f014b1624bd8fc38f52e52a08034c0312c3d00138a5468eb94411f444"
+hash = "dd44809d359c113caf0672eaa25e3949119336c8622b64dd4875311f260faf6f"
 
 [[files]]
 file = "config/openloader/data/Amaranth_Red-Adapter-v1.3.zip"
@@ -221,6 +225,10 @@ file = "config/openloader/data/oral_patches/data/oral/recipes/createbb_tray.json
 hash = "0ceb5fc7757ec195a88b7c6a2b327974ef30e650265bae7391dda8dd0ad60005"
 
 [[files]]
+file = "config/openloader/data/oral_patches/data/oral/recipes/galosphere_pink_salt_shard.json"
+hash = "af444f500d1cb14e0ba2481944566727d489d6ac986a4375ef7693da1919bf06"
+
+[[files]]
 file = "config/openloader/data/oral_patches/data/oral/recipes/spelunkery_cinnabar.json"
 hash = "12be21646a0ab2d5e9c28aee1de5996678184750654ee03ced05da618cd35298"
 
@@ -271,6 +279,42 @@ hash = "76d63b2882038263795786a32508ebfc344998245d1f3aae713f5f634f14a33b"
 [[files]]
 file = "config/servercore.toml"
 hash = "1b4ccf163d39761dde85cb1dab99033993e6c330b5df5a5ba08592a1f657eb59"
+
+[[files]]
+file = "config/simplyswords_extra/backupconfig.json"
+hash = "01f25fda651bcc7cbaa7ccd937e93dc5b96807a81feb4088aeebbd91f324974a"
+
+[[files]]
+file = "config/simplyswords_extra/loot_config.json5"
+hash = "005fef7f05a60bb922e7f6efe9b0ecc94d00b56fd4f5dad6df7df91315e161f3"
+
+[[files]]
+file = "config/simplyswords_main/gem_effects.json5"
+hash = "3e953737dcb4ed50db8605db74df14983300f79f38b6f954ec0a0686ba2d82ea"
+
+[[files]]
+file = "config/simplyswords_main/general.json5"
+hash = "e0c4e649ecd0932e5e66534cd6eb34beb3c3954ca6f985646879cd7775c24718"
+
+[[files]]
+file = "config/simplyswords_main/loot.json5"
+hash = "f811334b24e1650b585a8077f2c238b5915d50f4828890f6cff5f523306bf487"
+
+[[files]]
+file = "config/simplyswords_main/runic_effects.json5"
+hash = "07e0a8995b5e2d948a20910b9e3fed8d88733f677d384a5ea78589a9d9981f82"
+
+[[files]]
+file = "config/simplyswords_main/status_effects.json5"
+hash = "4fa38ac43a2d8f996f7800c9d61235c3800bfd3cae7f6ba2d76093665bec8fb2"
+
+[[files]]
+file = "config/simplyswords_main/unique_effects.json5"
+hash = "c5891ebba70b1690388891b71a629d562bbb536cf63f78dd689680e976718761"
+
+[[files]]
+file = "config/simplyswords_main/weapon_attributes.json5"
+hash = "6d7f2a9118de179ee2521333dc3d1c93b382f926ec2731b6b75a0ea87a0fc50d"
 
 [[files]]
 file = "config/spellbound.json"
@@ -980,6 +1024,11 @@ hash = "41a3116f5642d40ed54efda3f863373fa4d3c0c3a24a447a38c8a106e9fbb079"
 metafile = true
 
 [[files]]
+file = "mods/item-obliterator.pw.toml"
+hash = "7ef9eaadf1dbe30b54bb36294ad838277bad60ac1e04b26cae83fb6139cb3994"
+metafile = true
+
+[[files]]
 file = "mods/jade.pw.toml"
 hash = "bd14735296607c2f58e3130748610d08ab6407afcb1d7cd168e856a0012173a7"
 metafile = true
@@ -1050,11 +1099,6 @@ hash = "cc34285a478bac62f41247f69a0e564a739018484dc0d7d4f1a27aef4e182eaf"
 metafile = true
 
 [[files]]
-file = "mods/logical-iframes.pw.toml"
-hash = "6a3a7d6d55b7b3ddbba530d766a9ea7e52b8aa502a2c7cb5f8e2a74a87934ad8"
-metafile = true
-
-[[files]]
 file = "mods/lootr-fabric.pw.toml"
 hash = "53786f23c772395f44842146accd33b2f05bc8113c53dde5ae8c02a98706e83f"
 metafile = true
@@ -1110,6 +1154,11 @@ hash = "b4463224861981cef469502d49ef74d56358bb68074f466bc4cb9052eaac2916"
 metafile = true
 
 [[files]]
+file = "mods/modelfix.pw.toml"
+hash = "6ff047f3b0e73e22bf5ad0d6751f82cd6f6a4e164a911a37839eba667fa85502"
+metafile = true
+
+[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "2205cb06ba208c342a08f3f2e14bd2bbebdfd2ff0be76b22170f231c01b7f76e"
 metafile = true
@@ -1162,6 +1211,11 @@ metafile = true
 [[files]]
 file = "mods/mythicmetals.pw.toml"
 hash = "a9c2476331ad203ab4b213dde28b72ffb2c95cb0c485022874b75c1056c7ba5d"
+metafile = true
+
+[[files]]
+file = "mods/necronomicon.pw.toml"
+hash = "22db17c47353117341ab4f7efafd0a868b145148ed401e2eebf718793155c867"
 metafile = true
 
 [[files]]
@@ -1316,7 +1370,7 @@ metafile = true
 
 [[files]]
 file = "mods/redexed.pw.toml"
-hash = "837a694509fedabfbd4d6f7e5ff551edc5615090c5e1c07ca06fddb6199fb3d2"
+hash = "5f097b2bc19da7a0665ce06ed435d7aa415a010cb96a2c1e50146ead72d30e50"
 metafile = true
 
 [[files]]
@@ -1377,6 +1431,11 @@ metafile = true
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "f3f813f6475844b7a80be440f357f0b965f692fc0e63d9382766e6c456c5de84"
+metafile = true
+
+[[files]]
+file = "mods/simply-swords.pw.toml"
+hash = "86d687b71ba4f4516701f8c1c8623e57c5a7a0d390ff994357f610a1803a8851"
 metafile = true
 
 [[files]]

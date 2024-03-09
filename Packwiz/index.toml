@@ -1676,7 +1676,7 @@ metafile = true
 
 [[files]]
 file = "mods/starter-kit.pw.toml"
-hash = "f59aa4aba532f16e8698a760514405b11daa5279ff9539e35329b5f90296d4cb"
+hash = "344cb9ef6df4981ab990d2c72bbfce18a71d76836d3f46db656c7498735f6201"
 metafile = true
 
 [[files]]

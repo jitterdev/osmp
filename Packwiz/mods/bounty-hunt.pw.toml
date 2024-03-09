@@ -1,0 +1,13 @@
+name = "Bounty Hunt"
+filename = "bountyhunt-1.1.0-1.20.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/h7udW9Id/versions/qZipvxm4/bountyhunt-1.1.0-1.20.1.jar"
+hash-format = "sha1"
+hash = "2ffcb9311ef91a840050b726e80d74e5f12f4e8f"
+
+[update]
+[update.modrinth]
+mod-id = "h7udW9Id"
+version = "qZipvxm4"

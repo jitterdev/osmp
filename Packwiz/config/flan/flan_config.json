@@ -14,7 +14,7 @@
   "blacklistedWorlds": [],
   "worldWhitelist": false,
   "claimingItem": "minecraft:golden_hoe",
-  "inspectionItem": "minecraft:stick",
+  "inspectionItem": "",
   "claimDisplayTime": 1000,
   "claimDisplayActionBar": false,
   "permissionLevel": 2,

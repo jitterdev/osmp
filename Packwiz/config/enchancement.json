@@ -68,7 +68,7 @@
   "allowInfinityOnCrossbows": true,
   "allTridentsHaveLoyalty": true,
   "channelingIgnitesOnMelee": true,
-  "channelingWorksWhenNotThundering": true,
+  "channelingWorksWhenNotThundering": false,
   "crossbowsPullFromInventory": true,
   "drownedUseHeldTrident": true,
   "enchantedChestplatesIncreaseAirMobility": false,

@@ -1,0 +1,13 @@
+name = "Armortip"
+filename = "armortip-1.0.0-1.21.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/5stdM2Ky/versions/YjpYvBJM/armortip-1.0.0-1.21.1.jar"
+hash-format = "sha1"
+hash = "e4152e648ea8eb77f618d1c7664a166551d5aa36"
+
+[update]
+[update.modrinth]
+mod-id = "5stdM2Ky"
+version = "YjpYvBJM"

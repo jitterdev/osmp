@@ -1,0 +1,13 @@
+name = "LightWithin"
+filename = "lightwithin-1.0.3+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/f8LsKKPu/versions/jArV1Ax3/lightwithin-1.0.3%2B1.20.1.jar"
+hash-format = "sha1"
+hash = "0704bdb30fcac054a80d6fac957414ae2ef7519c"
+
+[update]
+[update.modrinth]
+mod-id = "f8LsKKPu"
+version = "jArV1Ax3"

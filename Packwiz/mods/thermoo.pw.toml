@@ -1,13 +1,13 @@
 name = "Thermoo"
-filename = "thermoo-2.1.0.jar"
+filename = "thermoo-2.1.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/9TbXlAut/versions/pRg1Rydk/thermoo-2.1.0.jar"
+url = "https://cdn.modrinth.com/data/9TbXlAut/versions/7gsRgS59/thermoo-2.1.2.jar"
 hash-format = "sha1"
-hash = "373dffe07541fcbe277b331a9268cc62ab677cc8"
+hash = "cbbd7e72afa9e0bc061c7cbc3497605fde44ff97"
 
 [update]
 [update.modrinth]
 mod-id = "9TbXlAut"
-version = "pRg1Rydk"
+version = "7gsRgS59"

@@ -15,6 +15,27 @@
             "-depends": {
                 "minecraft": "IGNORED"
             }
+        },
+        "create": {
+            "-depends": {
+                "fabricloader": "IGNORED"
+            }
+        },
+        "frostiful": {
+            "-depends": {
+                "fabricloader": "IGNORED",
+                "fabric-api": "IGNORED"
+            }
+        },
+        "armortip": {
+            "-depends": {
+                "fabricloader": "IGNORED"
+            }
+        },
+        "goop": {
+            "-depends": {
+                "fabricloader": "IGNORED"
+            }
         }
     }
 }

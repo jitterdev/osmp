@@ -1,0 +1,13 @@
+name = "Light Level 7 Spawning"
+filename = "LightLevel7Spawning-1.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/bGRUb0Mt/versions/LBxkV14E/LightLevel7Spawning-1.1.jar"
+hash-format = "sha1"
+hash = "a12bcc9ecfcbd7c5fa590083194cad3e66bfcaea"
+
+[update]
+[update.modrinth]
+mod-id = "bGRUb0Mt"
+version = "LBxkV14E"

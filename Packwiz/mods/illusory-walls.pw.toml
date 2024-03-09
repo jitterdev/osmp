@@ -1,0 +1,13 @@
+name = "Illusory Walls"
+filename = "illusory-walls-0.1.0+1.20.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/HUZFsfKe/versions/mbmdutih/illusory-walls-0.1.0%2B1.20.jar"
+hash-format = "sha1"
+hash = "88c83be56f315a2c71a7dce7391878ac5911ce4e"
+
+[update]
+[update.modrinth]
+mod-id = "HUZFsfKe"
+version = "mbmdutih"

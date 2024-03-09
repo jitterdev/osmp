@@ -42,7 +42,7 @@ hash = "2f3a01b9fa7a607f8cbfc358410afab719e1bedcc484c8d7c3a1667ad05ac4d1"
 
 [[files]]
 file = "config/flan/flan_config.json"
-hash = "1fec5c87ca4209cb738aee4e8c87052f0fc9311e9d4c059ef4bd17f2ea51cd82"
+hash = "0d65b00aba5b75d470ab5543f04f186f96369b36e64ed50328cd8b8e5b7efb47"
 
 [[files]]
 file = "config/frostiful.json"

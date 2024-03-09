@@ -14,7 +14,7 @@
   "blacklistedWorlds": [],
   "worldWhitelist": false,
   "claimingItem": "minecraft:golden_hoe",
-  "inspectionItem": "",
+  "inspectionItem": "extraalchemy:empty_ring",
   "claimDisplayTime": 1000,
   "claimDisplayActionBar": false,
   "permissionLevel": 2,

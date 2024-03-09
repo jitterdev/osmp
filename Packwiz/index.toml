@@ -378,7 +378,7 @@ hash = "648c2a1dc893ee4f9be25316a9776a66c2b00ec4ff2553b081367caca0dd9118"
 
 [[files]]
 file = "config/starterkit/starterkit.txt"
-hash = "dd40794d7b72896b280764bf01ad20de9e6bed1b25dc1693054aee6cab9b4f85"
+hash = "9ff0a04b7fbaa22423420febd9ce1ce05e9c132a3185441e40d5ecb107e59344"
 
 [[files]]
 file = "config/tempad-client.jsonc"

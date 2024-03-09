@@ -29,16 +29,6 @@ choices = ["sound-physics-remastered_off", "sound-physics-remastered_on"]
 [metafile.sound-physics-remastered]
 flavors = "sound-physics-remastered_on"
 
-#
-
-[flavor_groups.particle-rain]
-name = "[!] Particle Rain"
-description = "<i>Disabled by default!</i>\n<ul>Moderate performance impact on most devices.</ul>\nParticle Rain replaces the default rain with some particle effects.\nIn addition to snow and rain, deserts have sandstorms and mesas have red sandstorms."
-side = "client"
-choices = ["particle-rain_off", "particle-rain_on"]
-
-[metafile.particle-rain]
-flavors = "particle-rain_on"
 
 #
 

@@ -615,6 +615,11 @@ hash = "fda13d2e9e623488310452142e95d113f33d216921e371e185f79ea64929179b"
 metafile = true
 
 [[files]]
+file = "mods/biome_particle_weather.pw.toml"
+hash = "6af13f08e05899aac119a3549b5f7fdc5e2f946d471066f5a58d400cb94bc4a1"
+metafile = true
+
+[[files]]
 file = "mods/bookshelf-lib.pw.toml"
 hash = "6cbd06b8908171c1fb79396acfc7f91f8c605c8718205ea9c1fe454ae2716094"
 metafile = true
@@ -1495,11 +1500,6 @@ hash = "a672101d7ba4482b47ead8405cf85448864455e5a338602476f49c441c0fc5c2"
 metafile = true
 
 [[files]]
-file = "mods/particle-rain.pw.toml"
-hash = "a874d77f08289eb1b597c0b63eb1abe85263ff69648369057a99382d9c608da1"
-metafile = true
-
-[[files]]
 file = "mods/patchouli.pw.toml"
 hash = "89e5cab6f92dbcfd6c2c058fc9381869fde193a431c284dbb828833e881cd344"
 metafile = true
@@ -1672,6 +1672,11 @@ metafile = true
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
 hash = "cfeac7b1e393b702a18e76e887a4857b021b2fa56a62261513b715d2c8e35833"
+metafile = true
+
+[[files]]
+file = "mods/sound.pw.toml"
+hash = "fa60988547547bb38e0e0dd3f36ebcdaf608715fd1ddbaef0dea9882d4e50314"
 metafile = true
 
 [[files]]

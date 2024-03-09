@@ -138,6 +138,14 @@ key_key.anim_guns.aimtoggle:key.keyboard.unknown
 key_key.azurelib.fire:key.keyboard.unknown
 key_key.azurelib.reload:key.keyboard.unknown
 key_key.azurelib.scope:key.keyboard.unknown
+key_key.boosted-brightness.lower:key.keyboard.left.bracket
+key_key.boosted-brightness.raise:key.keyboard.right.bracket
+key_key.boosted-brightness.select1:key.keyboard.unknown
+key_key.boosted-brightness.select2:key.keyboard.unknown
+key_key.boosted-brightness.select3:key.keyboard.unknown
+key_key.boosted-brightness.select4:key.keyboard.unknown
+key_key.boosted-brightness.select5:key.keyboard.unknown
+key_key.boosted-brightness.next:key.keyboard.b
 key_key.carry.desc:key.keyboard.left.shift
 key_create.keyinfo.toolbelt:key.keyboard.left.alt
 key_create.keyinfo.toolmenu:key.keyboard.left.alt
@@ -152,7 +160,7 @@ key_key.enchancement.slam:key.keyboard.left.control
 key_key.enchancement.slide:key.keyboard.left.control
 key_key.enchancement.strafe:key.mouse.5
 key_key.entityculling.toggle:key.keyboard.unknown
-key_key.extraalchemy.potion_bag_mode:key.keyboard.k
+key_key.extraalchemy.potion_bag_mode:key.keyboard.unknown
 key_key.extraalchemy.magnetism_toggle:key.keyboard.n
 key_key.extraalchemy.toggle_extra_inv_rings:key.keyboard.unknown
 key_key.origins.denary_active:key.keyboard.unknown
@@ -183,6 +191,7 @@ key_key.jade.show_details_alternative:key.keyboard.unknown
 key_key.jade.show_overlay:key.keyboard.unknown
 key_key.jade.toggle_liquid:key.keyboard.keypad.3
 key_supplementaries.keybind.quiver:key.keyboard.unknown
+key_key.niftycarts.desc:key.keyboard.r
 key_key.cycleLeft:key.keyboard.unknown
 key_key.cycleRight:key.keyboard.unknown
 key_key.toggleCarriedItemTooltips:key.keyboard.unknown
@@ -192,7 +201,7 @@ key_key.raised.options:key.keyboard.keypad.0
 key_key.tempad.shortcut:key.keyboard.b
 key_key.tempad.favorite:key.keyboard.unknown
 key_key.things.openenderchest:key.keyboard.p
-key_key.things.place_item:key.mouse.right
+key_key.things.place_item:key.keyboard.k
 key_key.things.toggle_socks_jump_boost:key.keyboard.caps.lock
 key_key.voice_chat_adjust_volumes:key.keyboard.unknown
 key_key.disable_voice_chat:key.keyboard.keypad.1

@@ -261,6 +261,10 @@ file = "config/openloader/data/oral_patches/data/oral/recipes/galosphere_pink_sa
 hash = "af444f500d1cb14e0ba2481944566727d489d6ac986a4375ef7693da1919bf06"
 
 [[files]]
+file = "config/openloader/data/oral_patches/data/oral/recipes/origins_orb_of_origin.json"
+hash = "720329c8a6b19210c83e42f52a93a32cfaa9eb2ed154075eb6849264634d1a20"
+
+[[files]]
 file = "config/openloader/data/oral_patches/data/oral/recipes/spelunkery_cinnabar.json"
 hash = "12be21646a0ab2d5e9c28aee1de5996678184750654ee03ced05da618cd35298"
 
@@ -441,8 +445,12 @@ file = "config/yosbr/config/sodium-options.json"
 hash = "c8ea1eed69f55561442419d6c9c92e216d6c8d7c889fe9d0bebfb708ea64f301"
 
 [[files]]
+file = "config/yosbr/config/sounds.ui.config.json"
+hash = "527083ad3b85c13b84b32bdbb8896cac2cc2b120bf9fdc13b2d43004daf9181e"
+
+[[files]]
 file = "config/yosbr/options.txt"
-hash = "f0fa08325c953d4cdb8c1049a59b3b32fc6b01c6658953d6b8bc084929b25ebd"
+hash = "9a9090dea8bdefe30cc6462c0e81229e68a77f63b5e214366ed7e418e6a0262a"
 
 [[files]]
 file = "kubejs/README.txt"

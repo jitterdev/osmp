@@ -1,0 +1,22 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"ABA",
+		"BXB",
+		"ABA"
+	],
+	"key": {
+		"X": {
+			"item": "things:hardening_catalyst"
+		},
+		"A": {
+			"item": "mythicmetals:metallurgium_ingot"
+		},
+		"B": {
+			"item": "mythicmetals:starrite"
+		}
+	},
+	"result": {
+		"item": "origins:orb_of_origin"
+	}
+}

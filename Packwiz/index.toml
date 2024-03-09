@@ -442,7 +442,7 @@ hash = "c8ea1eed69f55561442419d6c9c92e216d6c8d7c889fe9d0bebfb708ea64f301"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "80f4daec3ca7dfb4b0bd4d938e3bfb223608ac55453beb0de4d9bea518a9a53e"
+hash = "f0fa08325c953d4cdb8c1049a59b3b32fc6b01c6658953d6b8bc084929b25ebd"
 
 [[files]]
 file = "kubejs/README.txt"
@@ -672,6 +672,11 @@ metafile = true
 [[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "afd6784e2c61260d8a792cc8caf929548821c3442f77e618cdc43a1cef4856f7"
+metafile = true
+
+[[files]]
+file = "mods/chimes.pw.toml"
+hash = "83eeb853e25dbc170868cb1c4d7893512f4e755eec073c77dde260963a8ed7cd"
 metafile = true
 
 [[files]]
@@ -947,6 +952,11 @@ metafile = true
 [[files]]
 file = "mods/enchantsmith.pw.toml"
 hash = "c3b87926868a5bff29088e266b5f5358bd6ec5dd3c89f9ef32293f9873ab5ef8"
+metafile = true
+
+[[files]]
+file = "mods/enderman-overhaul.pw.toml"
+hash = "889e0869ad130b13a482c5fd945ed2a5b35522e9165d294946183692279a96dc"
 metafile = true
 
 [[files]]
@@ -1370,6 +1380,11 @@ hash = "1e77e4dbbdf9c7470833d981566e6dbbd5990d2aa945cfcd53042f8ebcd21501"
 metafile = true
 
 [[files]]
+file = "mods/mythic-mobs.pw.toml"
+hash = "a1190763c29d3e0f0dd76fe7932bfecbe51cff575a00b9a70718fa3861760841"
+metafile = true
+
+[[files]]
 file = "mods/mythic-mounts-fabric.pw.toml"
 hash = "7e44c171be5ed05b4eed509e1da79a8f3e3d1da976b05d8a59b26126ccd38c6e"
 metafile = true
@@ -1407,6 +1422,11 @@ metafile = true
 [[files]]
 file = "mods/nethers-delight-fabric.pw.toml"
 hash = "3dda9d9871e608fd8b97db8797e70ed5473036485257035409fb9c568b2c6c08"
+metafile = true
+
+[[files]]
+file = "mods/niftycarts.pw.toml"
+hash = "1cfea8c19682e125083416fd5b8ad7ddfde7dc813c7c6569281ca80db7107d19"
 metafile = true
 
 [[files]]

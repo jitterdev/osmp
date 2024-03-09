@@ -146,7 +146,7 @@ hash = "fe2351b557893ae16afe5093ac96db6ae7b5b45eccf4d541bdfbc7051034b413"
 
 [[files]]
 file = "config/openloader/data/Umbra.zip"
-hash = "97a5ed409a4ce65a54812275edadee4ae9270be951b562ab32e91bdb8b140c8f"
+hash = "aa6002196453faa2576052634cf2d26e90d5be12b5a7937a59c695942ead66e7"
 
 [[files]]
 file = "config/openloader/data/Wayfarer.zip"
@@ -185,8 +185,8 @@ file = "config/openloader/data/gm4_zauber_cauldrons_1_20.zip"
 hash = "afd55d5502ed6a13676fc37d0adc04fd54577681e98ce7f71706388dc20be034"
 
 [[files]]
-file = "config/openloader/data/jasel-ordnance-1.03.zip"
-hash = "7660faa067fd3da49fe7c80e573cb25809946ac99f69accec0d73997c9e9469a"
+file = "config/openloader/data/jasel-ordnance-1.06.zip"
+hash = "6ec0d85d8e3c52e94fbcc0aa624fe189cc916e96b52960b17ce7f7e5deb4ac80"
 
 [[files]]
 file = "config/openloader/data/limboharder.zip"

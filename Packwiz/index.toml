@@ -1138,11 +1138,6 @@ hash = "dff520bc4934ac3bf7fa1b0634c25a8d3b150117d20860f2d13b2d88664c52f1"
 metafile = true
 
 [[files]]
-file = "mods/globalhorns.pw.toml"
-hash = "62509f99ce401f329e21fb8cf233ed114f316433856f1be0333da3067e210424"
-metafile = true
-
-[[files]]
 file = "mods/glsl-panorama.pw.toml"
 hash = "b0b138930052f2c393881ad36b47dc4e6ee4c146bbff0ce0118895900511e7bb"
 metafile = true

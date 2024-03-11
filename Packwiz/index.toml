@@ -1008,6 +1008,11 @@ hash = "e1945e953258ae7b896d5d17505350153338a75b9dc503935edadae9f3912eaa"
 metafile = true
 
 [[files]]
+file = "mods/excessive-building.pw.toml"
+hash = "393eb645d73dfe72a8169638d1a738badbd2eb82f15d087e3a093af2681813ed"
+metafile = true
+
+[[files]]
 file = "mods/exordium.pw.toml"
 hash = "2b9b5a34a6f3cb5796b4e9996fe1da41d7b063b2727743aeed6c8d350d7cdbb6"
 metafile = true
@@ -1580,11 +1585,6 @@ metafile = true
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "8ac138bcb2e461b627f0dd7c681a07ac8396e65f8211c37e639acb4fed86754b"
-metafile = true
-
-[[files]]
-file = "mods/respawn-obelisks.pw.toml"
-hash = "35e6b0323fb752dab62fb64507640fa09163d102809adb736a3fcb4c1cf87ece"
 metafile = true
 
 [[files]]

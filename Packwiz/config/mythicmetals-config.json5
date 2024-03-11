@@ -23,7 +23,7 @@
 	"endStarrite": true,
 	"stormyx": false,
 	"unobtainium": false,
-	"tin": false,
+	"tin": true,
 	"enableDusts": false,
 	"enableNuggets": true,
 	"enableAnvils": true,

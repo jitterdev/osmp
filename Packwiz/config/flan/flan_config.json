@@ -14,7 +14,7 @@
   "blacklistedWorlds": [],
   "worldWhitelist": false,
   "claimingItem": "minecraft:golden_hoe",
-  "inspectionItem": "extraalchemy:empty_ring",
+  "inspectionItem": "mythicmetals:metallurgium_ingot",
   "claimDisplayTime": 1000,
   "claimDisplayActionBar": false,
   "permissionLevel": 2,

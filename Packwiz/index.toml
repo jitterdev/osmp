@@ -86,7 +86,7 @@ hash = "b43c330e5a89ca85c5bc931b31afac3d8a8ac9ec5a78a364bf10c0fc123906a1"
 
 [[files]]
 file = "config/nox.json"
-hash = "c712819729fc2d40c7f6739c430f149b0024151249c357b2f2b70829436f3fc1"
+hash = "5ad50e195e8a51ba4d8c96aefa4a34aafcdcefd70817e88494c3a2c33c1032f5"
 
 [[files]]
 file = "config/openloader/data/Bloodsucker_v2.1.4.zip"

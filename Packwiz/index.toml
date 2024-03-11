@@ -305,8 +305,8 @@ file = "config/openloader/data/thural-dwarf.zip"
 hash = "80a1df3f22cecfdd3490378ff9bd4e3e1616b3f7295a06a33d56bd331dec2dff"
 
 [[files]]
-file = "config/openloader/data/vvortexagent.zip"
-hash = "f978b55fed722ca7dc4a11c1d2e4b8b41a3869e545f884b082184ea74afd0ed7"
+file = "config/openloader/data/vvortexagent2.zip"
+hash = "ea3f37873f1952425f44d4721507463f515a9083082faecc4fef94cb13df36aa"
 
 [[files]]
 file = "config/openloader/data/yin_n_yang-Permafrost.zip"
@@ -1009,7 +1009,7 @@ metafile = true
 
 [[files]]
 file = "mods/excessive-building.pw.toml"
-hash = "393eb645d73dfe72a8169638d1a738badbd2eb82f15d087e3a093af2681813ed"
+hash = "2343d1862ab6515eebdc10d073013ed661237d855d8f14096440073b4028ddf8"
 metafile = true
 
 [[files]]

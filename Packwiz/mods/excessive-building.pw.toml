@@ -1,13 +1,7 @@
-name = "Excessive Building"
-filename = "Excessive Building [Fabric] 1.20.1-2.0.4.jar"
-side = "both"
+name = "excessive-building"
+filename = "excessive_building-fabric-1.20.1-2.0.0-fixed.jar"
 
 [download]
-url = "https://cdn.modrinth.com/data/2vsx0HYf/versions/exqCz3T1/Excessive%20Building%20%5BFabric%5D%201.20.1-2.0.4.jar"
-hash-format = "sha1"
-hash = "593b93e08a78cbe4d8d781ea3fddc59984bb942e"
-
-[update]
-[update.modrinth]
-mod-id = "2vsx0HYf"
-version = "exqCz3T1"
+url = "https://github.com/jitterdev/osmp/raw/master/mods/excessive_building-fabric-1.20.1-2.0.0-fixed.jar"
+hash-format = "sha256"
+hash = "ae72a31371547ca4687088bb2682183552ed21608cc79a62aaf3193eb5eff2f4"

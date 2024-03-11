@@ -1,0 +1,7 @@
+name = "enderism"
+filename = "enderism-patch-3.1.0+1.20.1.jar"
+
+[download]
+url = "https://github.com/jitterdev/osmp/raw/master/mods/enderism-patch-3.1.0+1.20.1.jar"
+hash-format = "sha256"
+hash = "e07ee3800667ea8e7d93633413baa3a63fbaf058de889ded2fd0d871e1716102"

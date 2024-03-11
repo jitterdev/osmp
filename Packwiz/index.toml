@@ -10,11 +10,11 @@ hash = "16923ec8e06e8a4e2b1c3c182e89662d7425f745ce9e6c740f8dc4850f9c3068"
 
 [[files]]
 file = "config/combatnouveau-server.toml"
-hash = "5da9e998e407c6523fc3a19428eaeb8617dc40c28172a1bf11ea415b0cbd9bfd"
+hash = "aa6266e94ad846bdb220e08453936c7c24594e61b68d43ef753ea260746981d0"
 
 [[files]]
 file = "config/darkwaters.json"
-hash = "835439f40a32694a1d2f57bc6f26feeeefa986c6d26b37234e419c5aa76e4ce0"
+hash = "02fcf1095548114722e2db430990efd58201ec2cadb71740db3b14bd6dc5f78a"
 
 [[files]]
 file = "config/enchancement.json"
@@ -62,7 +62,7 @@ hash = "c5416b2148bcbec5095bcb7587fa61d5cbdb9e2179185438665d31bd10e795d8"
 
 [[files]]
 file = "config/item_obliterator.json5"
-hash = "cfcd24eda39b21fb62ba9f8bfa610265e5a00a21f3d95dea4db147aaaac0c972"
+hash = "7bdfd0c0af9171e8bb9c3029e70cb66f72f897b325c0b84f591423e1e3e2b503"
 
 [[files]]
 file = "config/jsonpatcher.json"
@@ -82,15 +82,19 @@ hash = "e4838b5aec17a56c44070e3302427106ecb7f765db60c898ca05d717344005a0"
 
 [[files]]
 file = "config/mythicmetals-config.json5"
-hash = "01495308f8af31ca35d4eb688595058ec92d15283751ab66a0f12e1ac4c8b3f6"
+hash = "e22c54a18c781613b91f8f61bad51937eaf168db9d66e6e1d147ff41d7da870e"
 
 [[files]]
 file = "config/nox.json"
-hash = "dd44809d359c113caf0672eaa25e3949119336c8622b64dd4875311f260faf6f"
+hash = "c712819729fc2d40c7f6739c430f149b0024151249c357b2f2b70829436f3fc1"
 
 [[files]]
 file = "config/openloader/data/Bloodsucker_v2.1.4.zip"
 hash = "88e8e2883874ebdd731e673d970120aab359d1a118c61542efc84d67e8d97d8b"
+
+[[files]]
+file = "config/openloader/data/ChangeOrigin_Command_v2.0.1 (2).zip"
+hash = "b507d64274b0dd0fcba78415b28554f96656b1cfc1fcd6147ebd42454d2a32d0"
 
 [[files]]
 file = "config/openloader/data/Cloudskipper_v0.0.4_-_1.19.zip"
@@ -177,10 +181,6 @@ file = "config/openloader/data/gm4_guidebook_1_20.zip"
 hash = "4eb104f000c3d304d84def949396622cbc9b5f3b7080aea910b81918f092358d"
 
 [[files]]
-file = "config/openloader/data/gm4_soul_glass_1_20.zip"
-hash = "16063293ee289fc70925ce9848f69efd37e4ad351c7504d44474849d2d483a48"
-
-[[files]]
 file = "config/openloader/data/gm4_zauber_cauldrons_1_20.zip"
 hash = "afd55d5502ed6a13676fc37d0adc04fd54577681e98ce7f71706388dc20be034"
 
@@ -262,7 +262,7 @@ hash = "af444f500d1cb14e0ba2481944566727d489d6ac986a4375ef7693da1919bf06"
 
 [[files]]
 file = "config/openloader/data/oral_patches/data/oral/recipes/origins_orb_of_origin.json"
-hash = "720329c8a6b19210c83e42f52a93a32cfaa9eb2ed154075eb6849264634d1a20"
+hash = "08e87cdbbbec33afd5e3ab244e0dede74dd79720d843589541c0f449099d6be7"
 
 [[files]]
 file = "config/openloader/data/oral_patches/data/oral/recipes/spelunkery_cinnabar.json"
@@ -381,8 +381,8 @@ file = "config/spelunkery-common.json"
 hash = "648c2a1dc893ee4f9be25316a9776a66c2b00ec4ff2553b081367caca0dd9118"
 
 [[files]]
-file = "config/starterkit/starterkit.txt"
-hash = "9ff0a04b7fbaa22423420febd9ce1ce05e9c132a3185441e40d5ecb107e59344"
+file = "config/starterkit/kits/Kit_1.txt"
+hash = "1ca659808ce77e9c6e6a5831f058e3dc8780c10310598edcaf30d7490e036c02"
 
 [[files]]
 file = "config/tempad-client.jsonc"
@@ -528,6 +528,11 @@ hash = "cc897fa6b1a3210669e31659569060f0d9f92d57f8529dc19e7cd200dee302de"
 metafile = true
 
 [[files]]
+file = "mods/almost-unified.pw.toml"
+hash = "c7ae58049213d613f6252e2a573e5b44912b5ee519744d26fa5cfd2655c07e3d"
+metafile = true
+
+[[files]]
 file = "mods/altorigingui.pw.toml"
 hash = "9c5d0f1adf081043b74cd306ba4dee43182c837c06fd35619cf676ee838e44fd"
 metafile = true
@@ -628,6 +633,11 @@ hash = "6af13f08e05899aac119a3549b5f7fdc5e2f946d471066f5a58d400cb94bc4a1"
 metafile = true
 
 [[files]]
+file = "mods/blast.pw.toml"
+hash = "862ea736639bba6b4740ea077622afa3764c8e0c1e0cf02df085195b3174897c"
+metafile = true
+
+[[files]]
 file = "mods/bookshelf-lib.pw.toml"
 hash = "6cbd06b8908171c1fb79396acfc7f91f8c605c8718205ea9c1fe454ae2716094"
 metafile = true
@@ -700,11 +710,6 @@ metafile = true
 [[files]]
 file = "mods/chunkyborder.pw.toml"
 hash = "d1f57e37f09cb403b78dbf617219260bb25898f75ce0bac175eb4b2e32fdbaf9"
-metafile = true
-
-[[files]]
-file = "mods/cinderscapes.pw.toml"
-hash = "f6a88dddbee551dadd9f8c8b52912a30c70bf381f152d67d97ebe0e5c6201898"
 metafile = true
 
 [[files]]
@@ -1003,11 +1008,6 @@ hash = "e1945e953258ae7b896d5d17505350153338a75b9dc503935edadae9f3912eaa"
 metafile = true
 
 [[files]]
-file = "mods/excessive-building.pw.toml"
-hash = "2343d1862ab6515eebdc10d073013ed661237d855d8f14096440073b4028ddf8"
-metafile = true
-
-[[files]]
 file = "mods/exordium.pw.toml"
 hash = "2b9b5a34a6f3cb5796b4e9996fe1da41d7b063b2727743aeed6c8d350d7cdbb6"
 metafile = true
@@ -1025,11 +1025,6 @@ metafile = true
 [[files]]
 file = "mods/extra-origins.pw.toml"
 hash = "67967605a5a1603de48fd6613469fb86f6beb30a2702b2aca64210c57d57573a"
-metafile = true
-
-[[files]]
-file = "mods/extraalchemy.pw.toml"
-hash = "8fcc97c8788ad77b7587f4879e9e4ccac7bec43aeceeb7dcdb993eacc645c323"
 metafile = true
 
 [[files]]
@@ -1073,11 +1068,6 @@ hash = "ed69e8da0e60d44c94d7d49b03645eb2320c39faffffe5a5dd7ca0d3501b628b"
 metafile = true
 
 [[files]]
-file = "mods/fish-of-thieves.pw.toml"
-hash = "44e72ed65497275da589fd7dc42a1c6cb5ef8edb858da6cc56056c94f77f967c"
-metafile = true
-
-[[files]]
 file = "mods/flan.pw.toml"
 hash = "4d0d7f63aa9a3699d486299e180bac6c696d8b2398765137672f616f1f73e111"
 metafile = true
@@ -1113,11 +1103,6 @@ hash = "afc98470b699a933cbdcc7d95822455596d91864ef14ec21a48f4fdd51d5eb03"
 metafile = true
 
 [[files]]
-file = "mods/frostiful.pw.toml"
-hash = "f004880a6af6f2d5f305aafec9172ead3681dac0c7cd808a5a733d6e07c909f4"
-metafile = true
-
-[[files]]
 file = "mods/fusion-connected-textures.pw.toml"
 hash = "39d253925debb6ddc146e68d251b86eb6ba8501aef42c1dfe4c2dfcb3ec35224"
 metafile = true
@@ -1125,6 +1110,11 @@ metafile = true
 [[files]]
 file = "mods/galosphere.pw.toml"
 hash = "118b93392c48dad929401e8663d04706db05404d84511f9a20956b240d88bfc8"
+metafile = true
+
+[[files]]
+file = "mods/gardens-of-the-dead.pw.toml"
+hash = "ba1443c1eed15422e13e1ec6c65c5c75436bf103457d39fa59f7491430b85f1c"
 metafile = true
 
 [[files]]
@@ -1498,11 +1488,6 @@ hash = "28b3e0806647eb166e942cf6552993bb6d666949c53f0d51927bdfb063cb6cc4"
 metafile = true
 
 [[files]]
-file = "mods/oxidized.pw.toml"
-hash = "a672101d7ba4482b47ead8405cf85448864455e5a338602476f49c441c0fc5c2"
-metafile = true
-
-[[files]]
 file = "mods/patchouli.pw.toml"
 hash = "89e5cab6f92dbcfd6c2c058fc9381869fde193a431c284dbb828833e881cd344"
 metafile = true
@@ -1598,6 +1583,11 @@ hash = "8ac138bcb2e461b627f0dd7c681a07ac8396e65f8211c37e639acb4fed86754b"
 metafile = true
 
 [[files]]
+file = "mods/respawn-obelisks.pw.toml"
+hash = "35e6b0323fb752dab62fb64507640fa09163d102809adb736a3fcb4c1cf87ece"
+metafile = true
+
+[[files]]
 file = "mods/respite-creators-fabric.pw.toml"
 hash = "bf0954317bd6cb4067803b2324ec4669713e5c87ea0b778163574a8cf190fa0a"
 metafile = true
@@ -1643,18 +1633,8 @@ hash = "bd0b125bd9c0f016ee541acf95f7fe87407933c35314a297a1fa08cd91a9f04a"
 metafile = true
 
 [[files]]
-file = "mods/sneaky-curses.pw.toml"
-hash = "49f9b183ae69a5e852f2f95e29ca911205074c858a6430550174d81e32883acc"
-metafile = true
-
-[[files]]
 file = "mods/snow-real-magic.pw.toml"
 hash = "cc274d132190a6b1539bc0ab9ed43a2ad638e94de8ae6b8141b36e0b86de3893"
-metafile = true
-
-[[files]]
-file = "mods/snowly.pw.toml"
-hash = "c0dc5a99f56ba80fc668eb53dc1ce39268e0fe1600675f187418c178bc4d2851"
 metafile = true
 
 [[files]]
@@ -1704,7 +1684,7 @@ metafile = true
 
 [[files]]
 file = "mods/starter-kit.pw.toml"
-hash = "344cb9ef6df4981ab990d2c72bbfce18a71d76836d3f46db656c7498735f6201"
+hash = "8bc5659442b67e149b49f7b58fa435d7ff2f0f88f5cc9a70b3337ed998372039"
 metafile = true
 
 [[files]]

@@ -24,6 +24,8 @@
     "!simplyswords:diamond_.*",
     "!simplyswords:netherite_.*",
     "!simplyswords:runic_.*",
+    "!mythicmetals:metallurgium_.*",
+    "!mythicmetals:celestium_.*"
   ],
   // -----------------------------------------------------------
   // Removes an item if it contains certain nbt tag. If the whole entry (or expression) is present, the item gets removed.

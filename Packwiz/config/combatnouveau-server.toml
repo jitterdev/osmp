@@ -10,7 +10,7 @@ balanced_food_mechanics = false
 #Sprinting and attacking no longer interfere with each other, making critical hits possible at all times.
 critical_hits_while_sprinting = true
 #Expand all entity hitboxes by 10%, making hitting a target possible from a slightly greater range and with much increased accuracy.
-inflate_hitboxes = true
+inflate_hitboxes = false
 #Attacking will no longer stop the player from sprinting. Very useful when swimming, so you can fight underwater without being stopped on every hit.
 sprint_attacks = true
 #Disables damage immunity when hit by a projectile. Makes it possible for entities to be hit by multiple projectiles at once (useful for the multishot enchantment).

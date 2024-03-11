@@ -42,7 +42,7 @@ hash = "2f3a01b9fa7a607f8cbfc358410afab719e1bedcc484c8d7c3a1667ad05ac4d1"
 
 [[files]]
 file = "config/flan/flan_config.json"
-hash = "0d65b00aba5b75d470ab5543f04f186f96369b36e64ed50328cd8b8e5b7efb47"
+hash = "ccdedb0d32abec2dd56bc8a8724194f55061d5f8d01c04cf7a7f97b367326446"
 
 [[files]]
 file = "config/frostiful.json"
@@ -82,7 +82,7 @@ hash = "e4838b5aec17a56c44070e3302427106ecb7f765db60c898ca05d717344005a0"
 
 [[files]]
 file = "config/mythicmetals-config.json5"
-hash = "e22c54a18c781613b91f8f61bad51937eaf168db9d66e6e1d147ff41d7da870e"
+hash = "b43c330e5a89ca85c5bc931b31afac3d8a8ac9ec5a78a364bf10c0fc123906a1"
 
 [[files]]
 file = "config/nox.json"

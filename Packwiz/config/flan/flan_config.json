@@ -14,7 +14,7 @@
   "blacklistedWorlds": [],
   "worldWhitelist": false,
   "claimingItem": "minecraft:golden_hoe",
-  "inspectionItem": "mythicmetals:metallurgium_ingot",
+  "inspectionItem": "mythicmetals:froge",
   "claimDisplayTime": 1000,
   "claimDisplayActionBar": false,
   "permissionLevel": 2,

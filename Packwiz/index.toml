@@ -1843,11 +1843,6 @@ hash = "5d52480f57b1b91195c6cde08c052e25df3e17addd5d5aadfeb7e8c8a594ffb9"
 metafile = true
 
 [[files]]
-file = "mods/url-music-discs.pw.toml"
-hash = "2aaaeb8c120e5eedd94adc2eb30c7a58c6bbee0f7d4ec9af313dd089dc6d503d"
-metafile = true
-
-[[files]]
 file = "mods/valhelsia-core.pw.toml"
 hash = "f9df3436e7cf3297d541b9677bd9a8530e575a561b0cc2744075457b1c08bacd"
 metafile = true

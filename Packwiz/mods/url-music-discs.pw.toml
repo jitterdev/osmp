@@ -1,7 +1,0 @@
-name = "url-music-discs"
-filename = "urlmusicdiscs-1.2.0-fixed.jar"
-
-[download]
-url = "https://github.com/jitterdev/osmp/raw/master/mods/urlmusicdiscs-1.2.0-fixed.jar"
-hash-format = "sha256"
-hash = "5ae229115b2665c1de1bad930dee7c04a917708d4e5aa60e5bbd5a37fa12104e"

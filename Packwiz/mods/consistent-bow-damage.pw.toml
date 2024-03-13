@@ -1,0 +1,13 @@
+name = "Consistent Bow Damage"
+filename = "consistentbow-1.0.1-1.19.3.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/eB9WcHom/versions/6gqEP5yv/consistentbow-1.0.1-1.19.3.jar"
+hash-format = "sha1"
+hash = "33ed87cc92b154fb032c35180d419a99624e6ea5"
+
+[update]
+[update.modrinth]
+mod-id = "eB9WcHom"
+version = "6gqEP5yv"

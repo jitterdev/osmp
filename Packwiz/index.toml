@@ -38,7 +38,7 @@ hash = "61c0d74603d7f6f6dda26fefdd094e29b2611eeb8957945e8004e869d77c21d4"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "2f3a01b9fa7a607f8cbfc358410afab719e1bedcc484c8d7c3a1667ad05ac4d1"
+hash = "ee77d0f18f534b4dcf27729ec32da0d37c3c5969f2d0f7c087229e7cdea151c4"
 
 [[files]]
 file = "config/flan/flan_config.json"
@@ -86,7 +86,7 @@ hash = "b43c330e5a89ca85c5bc931b31afac3d8a8ac9ec5a78a364bf10c0fc123906a1"
 
 [[files]]
 file = "config/nox.json"
-hash = "5ad50e195e8a51ba4d8c96aefa4a34aafcdcefd70817e88494c3a2c33c1032f5"
+hash = "fd0f99826a5c7b49f40b598497ae19524dbb0296a1e6e1139d9ab5f67c7223bd"
 
 [[files]]
 file = "config/openloader/data/Bloodsucker_v2.1.4.zip"
@@ -548,6 +548,11 @@ hash = "d66bc9c3f81429f138de5eae6226dce25f620f90df864bf7f0f9121708bf0bcc"
 metafile = true
 
 [[files]]
+file = "mods/anvilapi.pw.toml"
+hash = "16f4b7f28afb3a3beeb4fc8c8106e6900105f6a88ef13a40d725efd8d6961219"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "e3dfb2478e6bb096667d4ec89b0ddfef627747939373bdefee02f358d6e3dee1"
 metafile = true
@@ -580,6 +585,11 @@ metafile = true
 [[files]]
 file = "mods/armortip.pw.toml"
 hash = "0f325b8d1330e6d84b9467ee59acfefa1c8433a41e04eea5be25ec3d75354b07"
+metafile = true
+
+[[files]]
+file = "mods/armortweaks.pw.toml"
+hash = "ef3dd77f49d220fe1f19f55c7536e81c608dac488b984014924da03a0af7c2c0"
 metafile = true
 
 [[files]]
@@ -755,6 +765,11 @@ metafile = true
 [[files]]
 file = "mods/connectible_chains.pw.toml"
 hash = "24ceeef91ed4244c63cf0dd4d34fea6b64f13de330ab86ca4929808ee4d2c01f"
+metafile = true
+
+[[files]]
+file = "mods/consistent-bow-damage.pw.toml"
+hash = "5a0bead68dc09c3df2c356e0b913111998d988bd6019cd5d3f06b1eb55ffa1e5"
 metafile = true
 
 [[files]]
@@ -1179,7 +1194,7 @@ metafile = true
 
 [[files]]
 file = "mods/immersive-aircraft.pw.toml"
-hash = "404f03e4825060ef14bc350eb4dc0b2bae11fc14a9bc9927e78f6837f542a0c1"
+hash = "cb202449f255e6599d6506c9c4fa0027ec244918f3e69f4e0957a2348f787216"
 metafile = true
 
 [[files]]
@@ -1310,6 +1325,11 @@ metafile = true
 [[files]]
 file = "mods/macaws-trapdoors.pw.toml"
 hash = "4adffcbf0c517f60b07e5d71a83e2251cd49134db5643ab4709b9a85388a9a40"
+metafile = true
+
+[[files]]
+file = "mods/man-of-many-planes.pw.toml"
+hash = "ca0fa4fcdd36c73ff22200f8322504f1f0ee31f6a61cf4a50b130ff8378b57a7"
 metafile = true
 
 [[files]]

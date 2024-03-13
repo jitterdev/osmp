@@ -1,0 +1,13 @@
+name = "AnvilAPI"
+filename = "AnvilAPI-1.20.1-fabric-4.1.4.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Q9F8URls/versions/tyYDYfU3/AnvilAPI-1.20.1-fabric-4.1.4.0.jar"
+hash-format = "sha1"
+hash = "40349d1de190b5f64a5fd0b034cf65ba4d9ce2f3"
+
+[update]
+[update.modrinth]
+mod-id = "Q9F8URls"
+version = "tyYDYfU3"

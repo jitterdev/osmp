@@ -548,11 +548,6 @@ hash = "d66bc9c3f81429f138de5eae6226dce25f620f90df864bf7f0f9121708bf0bcc"
 metafile = true
 
 [[files]]
-file = "mods/anvilapi.pw.toml"
-hash = "16f4b7f28afb3a3beeb4fc8c8106e6900105f6a88ef13a40d725efd8d6961219"
-metafile = true
-
-[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "e3dfb2478e6bb096667d4ec89b0ddfef627747939373bdefee02f358d6e3dee1"
 metafile = true
@@ -589,7 +584,7 @@ metafile = true
 
 [[files]]
 file = "mods/armortweaks.pw.toml"
-hash = "ef3dd77f49d220fe1f19f55c7536e81c608dac488b984014924da03a0af7c2c0"
+hash = "02db8e0fbb4695602e8f4146d004a4d8f9378511724f173640060223d448e73e"
 metafile = true
 
 [[files]]

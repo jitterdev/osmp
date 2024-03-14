@@ -177,14 +177,6 @@ file = "config/openloader/data/gm4_combat_expanded_1_20.zip"
 hash = "da820a434247125c84d66cf8b0f6b00f75539674d91ab0e930a5dcb4cfb76dca"
 
 [[files]]
-file = "config/openloader/data/gm4_guidebook_1_20.zip"
-hash = "4eb104f000c3d304d84def949396622cbc9b5f3b7080aea910b81918f092358d"
-
-[[files]]
-file = "config/openloader/data/gm4_zauber_cauldrons_1_20.zip"
-hash = "afd55d5502ed6a13676fc37d0adc04fd54577681e98ce7f71706388dc20be034"
-
-[[files]]
 file = "config/openloader/data/jasel-ordnance-1.06.zip"
 hash = "6ec0d85d8e3c52e94fbcc0aa624fe189cc916e96b52960b17ce7f7e5deb4ac80"
 

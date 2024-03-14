@@ -72,7 +72,7 @@
   "endermanAppliesBlindnessOnHit": true,
   "endermanTeleportsFromMeleeHit": false,
   "endermiteMoveSpeedMultiplier": 1.1,
-  "endermiteAttacksMakeTargetTeleport": true,
+  "endermiteAttacksMakeTargetTeleport": false,
   "endermitesImmuneToFallDamage": true,
   "endermitesCanSuffocate": false,
   "ghastBaseHealthMultiplier": 2.5,

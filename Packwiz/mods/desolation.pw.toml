@@ -1,0 +1,13 @@
+name = "Desolation"
+filename = "desolation-1.3.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/oML3dQBb/versions/HqakjlKA/desolation-1.3.2.jar"
+hash-format = "sha1"
+hash = "b54b048cc4665d42c36beac09ec677cb5e20953d"
+
+[update]
+[update.modrinth]
+mod-id = "oML3dQBb"
+version = "HqakjlKA"

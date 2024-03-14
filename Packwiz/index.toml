@@ -61,6 +61,10 @@ file = "config/indexed.properties"
 hash = "c5416b2148bcbec5095bcb7587fa61d5cbdb9e2179185438665d31bd10e795d8"
 
 [[files]]
+file = "config/indexed_modded_items.json"
+hash = "41756ff0ca6defb4130d286575814a37e50bfff40d9d62e6f1799929f2607051"
+
+[[files]]
 file = "config/item_obliterator.json5"
 hash = "7bdfd0c0af9171e8bb9c3029e70cb66f72f897b325c0b84f591423e1e3e2b503"
 
@@ -86,7 +90,7 @@ hash = "b43c330e5a89ca85c5bc931b31afac3d8a8ac9ec5a78a364bf10c0fc123906a1"
 
 [[files]]
 file = "config/nox.json"
-hash = "fd0f99826a5c7b49f40b598497ae19524dbb0296a1e6e1139d9ab5f67c7223bd"
+hash = "0e7e907d5b9ad9fe51949b28e26752c89761d9f8150f5620714fdfeb8e42585f"
 
 [[files]]
 file = "config/openloader/data/Bloodsucker_v2.1.4.zip"
@@ -872,6 +876,11 @@ metafile = true
 [[files]]
 file = "mods/delightful-creators-fabric.pw.toml"
 hash = "2669ee304ddaa3bc3879c25147b12fa382b6baa1cc75153639d33d8f954b9f83"
+metafile = true
+
+[[files]]
+file = "mods/desolation.pw.toml"
+hash = "780a2b327c7816bac3acea551c67585b889ae612e495f94d72afecce07bdbfce"
 metafile = true
 
 [[files]]

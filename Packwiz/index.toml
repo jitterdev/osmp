@@ -18,7 +18,7 @@ hash = "02fcf1095548114722e2db430990efd58201ec2cadb71740db3b14bd6dc5f78a"
 
 [[files]]
 file = "config/enchancement.json"
-hash = "59ce90ecaa21307bf0499d063549d5fb19c3248accb26fa858879b9740488b8d"
+hash = "28f85cfdfdf989f2c4fbc8abccc208d39b2f84c67c0dd1be1d97f6d91fb62caf"
 
 [[files]]
 file = "config/enchantinginfuser-server.toml"

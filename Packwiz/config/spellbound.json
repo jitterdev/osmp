@@ -141,8 +141,8 @@
   },
   "grace": {
     "ENABLED": true,
-    "IS_TREASURE": false,
-    "IS_FOR_SALE": true,
+    "IS_TREASURE": true,
+    "IS_FOR_SALE": false,
     "RARITY": 2,
     "SOFT_CAP": 4,
     "HARD_CAP": 4,

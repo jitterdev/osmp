@@ -141,6 +141,10 @@ file = "config/openloader/data/Ostinateer.zip"
 hash = "5622cfe56d463a77b1a2ebc21a044b0c253772b63897ff546900d89518e6014c"
 
 [[files]]
+file = "config/openloader/data/Stellarity-v2-0d.zip"
+hash = "da1fe571b82d5edfa4b0c6f27c6fba143215169a50fb658f579074ad105d7d87"
+
+[[files]]
 file = "config/openloader/data/Stellaxi.zip"
 hash = "a0e5f63d7e1b4903c70945aa50fff3a278ad74b1b7b50a7f86508498a118b200"
 
@@ -370,7 +374,7 @@ hash = "6d7f2a9118de179ee2521333dc3d1c93b382f926ec2731b6b75a0ea87a0fc50d"
 
 [[files]]
 file = "config/spellbound.json"
-hash = "cf45e0c4c4045f3e5edae8c0250942807214c75c7c43bb620aa6b70633060a7c"
+hash = "e53e5eadeea04128219f4dc3029d22ece76d5957bb220eb0a60f4e578b78de73"
 
 [[files]]
 file = "config/spelunkery-common.json"
@@ -820,7 +824,7 @@ metafile = true
 
 [[files]]
 file = "mods/crossbow-expansion.pw.toml"
-hash = "6f908bb2486d014a60b4ba2381370d30f529426761afab685a75276de7f24b9d"
+hash = "488d5818ae3534b3af095c455f4ff2157ef2640cc6e864f4c57f88032329abd6"
 metafile = true
 
 [[files]]
@@ -1706,11 +1710,6 @@ metafile = true
 [[files]]
 file = "mods/starter-kit.pw.toml"
 hash = "8bc5659442b67e149b49f7b58fa435d7ff2f0f88f5cc9a70b3337ed998372039"
-metafile = true
-
-[[files]]
-file = "mods/stellarity.pw.toml"
-hash = "fe8022c85a493055438172cdca2945f8bbc36d9d39a247df00e0670c7aaab585"
 metafile = true
 
 [[files]]

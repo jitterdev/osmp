@@ -1,13 +1,13 @@
 name = "Crossbow Expansion"
-filename = "crossbow_expansion-1.20-1.1.3.jar"
+filename = "crossbow_expansion-1.20.2-1.2.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/6DUAXsjW/versions/bdODy6hQ/crossbow_expansion-1.20-1.1.3.jar"
+url = "https://cdn.modrinth.com/data/6DUAXsjW/versions/atVwOkfu/crossbow_expansion-1.20.2-1.2.1.jar"
 hash-format = "sha1"
-hash = "f7d1093a330458ee2dbe999d88a72fb65feb950f"
+hash = "86493816f9715c1864cff6694d76ac9d0062fcce"
 
 [update]
 [update.modrinth]
 mod-id = "6DUAXsjW"
-version = "bdODy6hQ"
+version = "atVwOkfu"

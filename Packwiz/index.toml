@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/carryon-common.json"
-hash = "f6c864c815f43a425e6d26f6462a5d21e6f4518c87e511a26ef21bde962dda8a"
+hash = "002fe459df8f13f622eafecf5044bacf782df00b01e3a60c4f356776f1fa16c8"
 
 [[files]]
 file = "config/clutterconfig.properties"
@@ -175,6 +175,10 @@ hash = "bb291e5b65f451c8fe398e6ac6c134ecb848b629dc375084572f48f928edc4aa"
 [[files]]
 file = "config/openloader/data/beyond_the_clouds_1.2.zip"
 hash = "3ed84301fb3a36eafc33aa4f93104a9978c95bc86c82a1f0b7160ac8872eda7a"
+
+[[files]]
+file = "config/openloader/data/brac.zip"
+hash = "6edcaee07bcbf81faa1fed5e7acd75535a77837d4b29c8315a8489e8264f48aa"
 
 [[files]]
 file = "config/openloader/data/dangman-StygianOrigin_030624.zip"

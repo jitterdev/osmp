@@ -47,7 +47,7 @@
       "minecraft:stone_button[face]",
       "minecraft:vine[north,east,south,west,up]",
       "minecraft:creeper_head[rotation]",
-      "minecraft:glow_lichen[north,east,south,west,up,down]",
+      "minecraft:glow_lichen[north,east,south,west,up,down]", 
       "minecraft:oak_sign[rotation]",
       "minecraft:oak_trapdoor[half]"
     ],
@@ -69,6 +69,7 @@
     "//blacklist": "Blacklist. Read about the format here: https://github.com/Tschipp/CarryOn/wiki/Black---and-Whitelist-Config",
     "//forbiddenTiles": "Blocks that cannot be picked up",
     "forbiddenTiles": [
+      "farmersdelight:cutting_board",
       "#forge:immovable",
       "#forge:relocation_not_supported",
       "minecraft:end_portal",

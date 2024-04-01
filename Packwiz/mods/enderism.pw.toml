@@ -1,5 +1,6 @@
 name = "enderism"
 filename = "enderism-patch-3.1.0+1.20.1.jar"
+side = "both"
 
 [download]
 url = "https://github.com/jitterdev/osmp/raw/master/mods/enderism-patch-3.1.0+1.20.1.jar"

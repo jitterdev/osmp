@@ -926,7 +926,7 @@ metafile = true
 
 [[files]]
 file = "mods/enderism.pw.toml"
-hash = "e9c1ade0214e8f18f5614774b02f5e6c0f07da23c9558d6c5f0a66d396dc6d14"
+hash = "bb1c2853d3a2f112fc0576637e7fbdd2daa23fa088623aceaf64006f71418a3b"
 metafile = true
 
 [[files]]
@@ -952,6 +952,11 @@ metafile = true
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
 hash = "a4fc7e1049b3b97b3232262bbccf6e21d9247881e50664fee416ed069f0626ff"
+metafile = true
+
+[[files]]
+file = "mods/entropy.pw.toml"
+hash = "f85f38dcfa9572c7d307c5a6738ce3ee94d1d393f9a0fea9f327cc5214b94e1f"
 metafile = true
 
 [[files]]
@@ -1092,6 +1097,11 @@ metafile = true
 [[files]]
 file = "mods/glsl-panorama.pw.toml"
 hash = "b0b138930052f2c393881ad36b47dc4e6ee4c146bbff0ce0118895900511e7bb"
+metafile = true
+
+[[files]]
+file = "mods/gmod-title-screen.pw.toml"
+hash = "f9b201a847210a7339a3687f0ae452d3734d882ecd3f4c2c91fc645dbcf4ff56"
 metafile = true
 
 [[files]]
@@ -1425,6 +1435,11 @@ hash = "ad84114a4e21fb98e15f389892c20cefec860a01f3f43d4b5e24c5e668876ae2"
 metafile = true
 
 [[files]]
+file = "mods/nyan-cat-loading.pw.toml"
+hash = "1ab648d79192788a0583c6b789831800a67b07658760184a5525d18615a359b9"
+metafile = true
+
+[[files]]
 file = "mods/obscure-api.pw.toml"
 hash = "5b96aa24048b1cea2e05b91954a25579f41c83c7008afd5c48426b579664288a"
 metafile = true
@@ -1560,6 +1575,11 @@ hash = "bf0954317bd6cb4067803b2324ec4669713e5c87ea0b778163574a8cf190fa0a"
 metafile = true
 
 [[files]]
+file = "mods/resquake.pw.toml"
+hash = "fdf8f6389ab825ce2e1027d4de7197312faf5e67ab4041f4e8d60e15ca9e0798"
+metafile = true
+
+[[files]]
 file = "mods/rhino.pw.toml"
 hash = "f3dbbcc93a34c8ba38b2e5a1ab3d5e898099d420ded6bd14ac01e0a7386b3b9a"
 metafile = true
@@ -1567,6 +1587,11 @@ metafile = true
 [[files]]
 file = "mods/rightclickharvest.pw.toml"
 hash = "31b3bcbde9677f9fc1006aab482e6f43b7552146359cc4ef363e30a237d1d12b"
+metafile = true
+
+[[files]]
+file = "mods/robloxsafechat.pw.toml"
+hash = "9426d182dadf63bab8d84cc3cf75732363298d35ab1fc084f294a92ff1fca126"
 metafile = true
 
 [[files]]
@@ -1805,6 +1830,11 @@ hash = "5d52480f57b1b91195c6cde08c052e25df3e17addd5d5aadfeb7e8c8a594ffb9"
 metafile = true
 
 [[files]]
+file = "mods/uwufied.pw.toml"
+hash = "67205cfbba2cb31fdc886d4673f1b2ab31eda1cc1cf630254570ec51cfdee571"
+metafile = true
+
+[[files]]
 file = "mods/valhelsia-core.pw.toml"
 hash = "f9df3436e7cf3297d541b9677bd9a8530e575a561b0cc2744075457b1c08bacd"
 metafile = true
@@ -1827,6 +1857,11 @@ metafile = true
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
 hash = "40f1effd2c65b6c6f9a1b5dfd0903c87df02b23da6b57f389f61f361ef86d425"
+metafile = true
+
+[[files]]
+file = "mods/void-fog.pw.toml"
+hash = "8563132b07aed2c1dea3a2876754d5c247b912753fdc7ea7d9e63074093bdf17"
 metafile = true
 
 [[files]]
@@ -1862,6 +1897,11 @@ metafile = true
 [[files]]
 file = "mods/yosbr.pw.toml"
 hash = "6f6334f336a876088431df70e2bba6ac52ca2ddeb73a4880ce88d6954b09af00"
+metafile = true
+
+[[files]]
+file = "mods/you-died.pw.toml"
+hash = "e37d671b09c8dfd9d658b26e0c7afd255809e5d23f271f9b83d943836728a9e2"
 metafile = true
 
 [[files]]

@@ -66,7 +66,7 @@ hash = "41756ff0ca6defb4130d286575814a37e50bfff40d9d62e6f1799929f2607051"
 
 [[files]]
 file = "config/item_obliterator.json5"
-hash = "7bdfd0c0af9171e8bb9c3029e70cb66f72f897b325c0b84f591423e1e3e2b503"
+hash = "bc282cc59bbe8ac3f5bcac79d6eeff1c9299d36ef273cd78475dc185369e9aed"
 
 [[files]]
 file = "config/jsonpatcher.json"
@@ -177,10 +177,6 @@ file = "config/openloader/data/beyond_the_clouds_1.2.zip"
 hash = "3ed84301fb3a36eafc33aa4f93104a9978c95bc86c82a1f0b7160ac8872eda7a"
 
 [[files]]
-file = "config/openloader/data/brac.zip"
-hash = "6edcaee07bcbf81faa1fed5e7acd75535a77837d4b29c8315a8489e8264f48aa"
-
-[[files]]
 file = "config/openloader/data/dangman-StygianOrigin_030624.zip"
 hash = "f1224626c7a2413a6267ad52a5f50b81f5a29a8c39fb5e9325d9b483e6e9c37f"
 
@@ -201,96 +197,8 @@ file = "config/openloader/data/notpog-Teumessian_Fox.zip"
 hash = "1234280adfb7b7cad67acea95d574da62979f8aa81c3dc541c4c7e07b90a7a1b"
 
 [[files]]
-file = "config/openloader/data/oral_patches/data/enchantinginfuser/recipes/advanced_enchanting_infuser.json"
-hash = "630a65c99a97b56c88bb6128366c13be9b6d02cb90f1bec7c5ccb108edc0bb04"
-
-[[files]]
-file = "config/openloader/data/oral_patches/data/enchantinginfuser/recipes/enchanting_infuser.json"
-hash = "fca7c30421f4f9eb57dbe510352b11d45f90ccbaaf3db04e68515d26cc1616a4"
-
-[[files]]
-file = "config/openloader/data/oral_patches/data/jsonpatch/jsonpatch/origins/powers/cloudskipper_cloud_feet.jsonpatch"
-hash = "e7e767c6b30a5be18bad88e0c5821ca07933aa9e229d4cb48d2a442883260939"
-
-[[files]]
-file = "config/openloader/data/oral_patches/data/jsonpatch/jsonpatch/origins/powers/hotshot_armor.jsonpatch"
-hash = "f0ae544c41c22612c5724447a88fecc10d5fa655e1904353a8d12f8bf9686052"
-
-[[files]]
-file = "config/openloader/data/oral_patches/data/jsonpatch/jsonpatch/recipes/things_arm_extender.jsonpatch"
-hash = "3250a588442bf170934c212166e1743061a7806a8a9da42b48f280c93bd63fa1"
-
-[[files]]
-file = "config/openloader/data/oral_patches/data/jsonpatch/jsonpatch/recipes/things_empty_agglomeration.jsonpatch"
-hash = "712442ec9c792a5b983b89fa4fd71b0ebd3534a362071f3a4a441bd9b0487311"
-
-[[files]]
-file = "config/openloader/data/oral_patches/data/jsonpatch/jsonpatch/recipes/things_gleaming_compound.jsonpatch"
-hash = "8892f30012bd7f3f4550807bfbaecf40f9e1e9aeb1a5e1c9d0dd4126b4c5712a"
-
-[[files]]
-file = "config/openloader/data/oral_patches/data/jsonpatch/jsonpatch/recipes/things_hardening_catalyst.jsonpatch"
-hash = "a0f39206297dd4ae9dece91560bbd9973f0ea0a05b6beb91df8e614ba4dc0979"
-
-[[files]]
-file = "config/openloader/data/oral_patches/data/oral/functions/dimension_commands/beyond_the_clouds.mcfunction"
-hash = "6e76ae861b6d2fa3b0877a46b4168fa4bbb40849ec2a037c4d36c655884d434d"
-
-[[files]]
-file = "config/openloader/data/oral_patches/data/oral/functions/dimension_crossing/beyond_the_clouds_to_faewild.mcfunction"
-hash = "fd3b8b657d4a0cc24365b5267a85b9e8ec919015de21e25f9644c224d391f378"
-
-[[files]]
-file = "config/openloader/data/oral_patches/data/oral/functions/dimension_crossing/faewild_to_beyond_the_clouds.mcfunction"
-hash = "d18a4839e47b4e841bcbbbc4dcc420333187d6a8d9f8b4b91f92cdd5cd227467"
-
-[[files]]
-file = "config/openloader/data/oral_patches/data/oral/predicates/dimensions/beyond_the_clouds.json"
-hash = "85f9e4a9eeb77f7ee9e7c02a93e3d7a1ecd058abd40a1ecf4821ac96571bde7c"
-
-[[files]]
-file = "config/openloader/data/oral_patches/data/oral/recipes/createbb_brass_call_bell.json"
-hash = "3fa2a78faeb36986b759730cd72875f7b1d55274da9881b2cfdfc0063d2f8163"
-
-[[files]]
-file = "config/openloader/data/oral_patches/data/oral/recipes/createbb_copper_zinc_catalyst.json"
-hash = "1b98941bc2bc5c6eaa1d1d4f7ee8466ba356fa229022bdf3fd786df8d701fc0a"
-
-[[files]]
-file = "config/openloader/data/oral_patches/data/oral/recipes/createbb_tray.json"
-hash = "0ceb5fc7757ec195a88b7c6a2b327974ef30e650265bae7391dda8dd0ad60005"
-
-[[files]]
-file = "config/openloader/data/oral_patches/data/oral/recipes/galosphere_pink_salt_shard.json"
-hash = "af444f500d1cb14e0ba2481944566727d489d6ac986a4375ef7693da1919bf06"
-
-[[files]]
-file = "config/openloader/data/oral_patches/data/oral/recipes/origins_orb_of_origin.json"
-hash = "08e87cdbbbec33afd5e3ab244e0dede74dd79720d843589541c0f449099d6be7"
-
-[[files]]
-file = "config/openloader/data/oral_patches/data/oral/recipes/spelunkery_cinnabar.json"
-hash = "12be21646a0ab2d5e9c28aee1de5996678184750654ee03ced05da618cd35298"
-
-[[files]]
-file = "config/openloader/data/oral_patches/data/origins/origins/avian.json"
-hash = "894500216d7a24e06c0bdcbf0e5b538b44f9d5401e005950cb4bc3968e75a3e9"
-
-[[files]]
-file = "config/openloader/data/oral_patches/data/stellarity/functions/mobs/main.mcfunction"
-hash = "7923defe8ed7a53b99bb6e2d0b124cb64ae6fa5fa14c9b0a057b5f0dd555d992"
-
-[[files]]
-file = "config/openloader/data/oral_patches/data/stellarity/functions/mobs/pixie/check.mcfunction"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
-file = "config/openloader/data/oral_patches/data/stellarity/functions/mobs/pixie/spawn.mcfunction"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
-file = "config/openloader/data/oral_patches/pack.mcmeta"
-hash = "feca2a8cee5a3df6a55aaf2927277f5d0ccc0a99b6a17cec1b7e5e9869819876"
+file = "config/openloader/data/oral_patches.zip"
+hash = "07e0e8874909709605b0f2310d26d96a6384c58566147f17c680b324925b8562"
 
 [[files]]
 file = "config/openloader/data/pik4-AmaranthOriginV1.0.zip"
@@ -302,7 +210,7 @@ hash = "ac030b260538ae6693baa9be59462885f7ae6c4c61f2b0613af4024ef4b6166c"
 
 [[files]]
 file = "config/openloader/data/thebrackenpackv90_modified.zip"
-hash = "4e59c3690a746ac84620c589747cdeab63f78e0735e6ca9bb2001a225ce5f160"
+hash = "bd920c951d3ac6c3e9b7804128313c47fd325947d30b2edfcad9544d01adc3ae"
 
 [[files]]
 file = "config/openloader/data/thural-dwarf.zip"
@@ -592,6 +500,11 @@ hash = "ef3dd77f49d220fe1f19f55c7536e81c608dac488b984014924da03a0af7c2c0"
 metafile = true
 
 [[files]]
+file = "mods/arrp.pw.toml"
+hash = "9455cd5f0d679e9b4640bd8d963925825850ef5d15b4af928bacd1c7d8daa0cd"
+metafile = true
+
+[[files]]
 file = "mods/astrocraft.pw.toml"
 hash = "8f7d4feeb974dd6609826974de9e026352d840eb4a813628a4a05b249a891344"
 metafile = true
@@ -604,6 +517,16 @@ metafile = true
 [[files]]
 file = "mods/automobility.pw.toml"
 hash = "c3b5b2edf2b45384bd560bd7fe72c3f99515a95d023a69750c43ef691e59f546"
+metafile = true
+
+[[files]]
+file = "mods/autotag.pw.toml"
+hash = "ea6fc6fba3ad1e9868e7807b17c04ebbad43a073b9be6d9374290b94eaa82e79"
+metafile = true
+
+[[files]]
+file = "mods/azurelib-armor.pw.toml"
+hash = "e9037631f35d6bedf15863b46032c06921c49537018ac43d475e549914d5de86"
 metafile = true
 
 [[files]]
@@ -797,6 +720,11 @@ hash = "4b92a102327ab34e35f9cf7b680309b049a820f0739616b84c8b943fa9763246"
 metafile = true
 
 [[files]]
+file = "mods/create-bitterballen.pw.toml"
+hash = "04027dab740f15c229f90caea709a36f168272fc2e62b7704ee037f165e1d2ab"
+metafile = true
+
+[[files]]
 file = "mods/create-broken-bad-fabric.pw.toml"
 hash = "108b39ff08a1e56f78ed14817241ad6680c810dc6ca70550dbf53b4c5ce2d56d"
 metafile = true
@@ -914,6 +842,11 @@ metafile = true
 [[files]]
 file = "mods/dungeons-and-taverns.pw.toml"
 hash = "ec5f0ed9e8d3b79ea61f7c79127b5f113e23ac96e92f5ba409084c8d0ab7da5e"
+metafile = true
+
+[[files]]
+file = "mods/dungeonz.pw.toml"
+hash = "d1527882f36294b4f99cb41082fc89438c31da80eeb6071c6af991433a7bedfc"
 metafile = true
 
 [[files]]
@@ -1277,6 +1210,11 @@ hash = "d7c03a9a61a81693732b6ae275f63ee63aa97def2e511be48b740e03c4f34a17"
 metafile = true
 
 [[files]]
+file = "mods/libz.pw.toml"
+hash = "18c5ea7c56454fab1b7c959d50b366e05ddcedfa90cb8dc2faf45ad3a5db11a0"
+metafile = true
+
+[[files]]
 file = "mods/light-level-7-spawning.pw.toml"
 hash = "29100b2121f30b951e586af71b15ecacda561ea221d58f096f68c542b916fa60"
 metafile = true
@@ -1637,6 +1575,11 @@ hash = "5221fe509420e0ac4908dbd0a050cb905e4c3c5207b1b3e35da264a006619262"
 metafile = true
 
 [[files]]
+file = "mods/runes.pw.toml"
+hash = "1fd89daf33fd4d9072645bb9c31a81ba9d3bb94c52022e734f157f0c5b06b0a6"
+metafile = true
+
+[[files]]
 file = "mods/satisfying-buttons.pw.toml"
 hash = "5f4d20679b28eded7c3bd4312b10c644d7b8283239ab96e01582d1d4d78b04de"
 metafile = true
@@ -1653,7 +1596,7 @@ metafile = true
 
 [[files]]
 file = "mods/simply-swords.pw.toml"
-hash = "86d687b71ba4f4516701f8c1c8623e57c5a7a0d390ff994357f610a1803a8851"
+hash = "c88d8d2d1638d2ecdd793b8f91e0dd7b5aefe5ee79f1223896363bb31e3aea55"
 metafile = true
 
 [[files]]

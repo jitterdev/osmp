@@ -1,8 +1,0 @@
-@version "1";   
-@target "vhotshot:powers/armor.json";
-
-$description = "You can't wear armor better than diamond. Natural regeneration is impossible for you.";
-$restrict.head.compare_to = 3;
-$restrict.chest.compare_to = 8;
-$restrict.legs.compare_to = 6;
-$restrict.feet.compare_to = 3;

@@ -1,2 +1,9 @@
 Packwiz/kubejs/jsconfig.json
 old
+data
+
+
+# ignore all folders in the openloader data folder 
+Packwiz/config/openloader/data/*/
+# but not our patches
+!/*/oral_patches/

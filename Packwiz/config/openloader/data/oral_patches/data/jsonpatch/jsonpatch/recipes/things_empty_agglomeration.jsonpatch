@@ -1,5 +1,0 @@
-@version "1";   
-@target "things:recipes/empty_agglomeration.json";
-
-$key.S.item = "create:super_glue";
-$key.N.item = "mythicmetals:metallurgium_ingot";

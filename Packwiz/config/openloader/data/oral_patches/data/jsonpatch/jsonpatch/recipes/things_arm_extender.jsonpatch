@@ -1,5 +1,0 @@
-@version "1";   
-@target "things:recipes/arm_extender.json";
-
-$key.R.item = "supplementaries:cog_block";
-$key.I.item = "mythicmetals:stormyx_ingot";

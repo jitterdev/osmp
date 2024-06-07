@@ -1,7 +1,0 @@
-name = "entropy"
-filename = "Entropy-1.12+mc1.20.1.jar"
-
-[download]
-url = "https://github.com/jitterdev/osmp/raw/master/mods/Entropy-1.12+mc1.20.1.jar"
-hash-format = "sha256"
-hash = "c5e9f3a965c6d360499dd67bc90b120cadf3a3d69f9eaa9fcac50cf0bf6a5361"
